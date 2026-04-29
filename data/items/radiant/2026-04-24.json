@@ -1,0 +1,583 @@
+{
+  "date": "2026-04-24",
+  "type": "Radiant Item",
+  "count": 36,
+  "items": [
+    {
+      "Item": "Radiant Nashor's Tooth",
+      "Tier": "S",
+      "Avg Place": "3.96",
+      "Place Change": "-0.54",
+      "Win Rate": "16.0%",
+      "Games": "36768",
+      "Frequency": "0.7%",
+      "PopularUnits": [
+        "Twisted Fate",
+        "Nami",
+        "Veigar",
+        "Karma",
+        "Fizz"
+      ]
+    },
+    {
+      "Item": "Radiant Rabadon's Deathcap",
+      "Tier": "S",
+      "Avg Place": "4.00",
+      "Place Change": "-0.50",
+      "Win Rate": "15.1%",
+      "Games": "32935",
+      "Frequency": "0.6%",
+      "PopularUnits": [
+        "Viktor",
+        "Aurelion Sol",
+        "Twisted Fate",
+        "Vex",
+        "Nami"
+      ]
+    },
+    {
+      "Item": "Radiant Kraken's Fury",
+      "Tier": "S",
+      "Avg Place": "4.05",
+      "Place Change": "-0.45",
+      "Win Rate": "15.3%",
+      "Games": "23759",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "Xayah",
+        "Bel'Veth",
+        "Kindred",
+        "Graves",
+        "Caitlyn"
+      ]
+    },
+    {
+      "Item": "Radiant Infinity Edge",
+      "Tier": "S",
+      "Avg Place": "4.07",
+      "Place Change": "-0.43",
+      "Win Rate": "18.4%",
+      "Games": "54117",
+      "Frequency": "1.0%",
+      "PopularUnits": [
+        "Xayah",
+        "Kai'Sa",
+        "Jhin",
+        "Samira",
+        "Graves"
+      ]
+    },
+    {
+      "Item": "Radiant Last Whisper",
+      "Tier": "S",
+      "Avg Place": "4.07",
+      "Place Change": "-0.43",
+      "Win Rate": "17.0%",
+      "Games": "13164",
+      "Frequency": "0.3%",
+      "PopularUnits": [
+        "Xayah",
+        "Corki",
+        "Jhin",
+        "Samira",
+        "Kai'Sa"
+      ]
+    },
+    {
+      "Item": "Radiant Deathblade",
+      "Tier": "S",
+      "Avg Place": "4.09",
+      "Place Change": "-0.41",
+      "Win Rate": "16.4%",
+      "Games": "25174",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "Xayah",
+        "Jhin",
+        "Corki",
+        "Kai'Sa",
+        "Samira"
+      ]
+    },
+    {
+      "Item": "Radiant Gargoyle Stoneplate",
+      "Tier": "S",
+      "Avg Place": "4.09",
+      "Place Change": "-0.41",
+      "Win Rate": "16.0%",
+      "Games": "90376",
+      "Frequency": "1.7%",
+      "PopularUnits": [
+        "The Mighty Mech",
+        "Nunu & Willump",
+        "Rammus",
+        "Jax",
+        "Leona"
+      ]
+    },
+    {
+      "Item": "Radiant Giant Slayer",
+      "Tier": "S",
+      "Avg Place": "4.09",
+      "Place Change": "-0.41",
+      "Win Rate": "14.2%",
+      "Games": "64335",
+      "Frequency": "1.2%",
+      "PopularUnits": [
+        "Bel'Veth",
+        "Vex",
+        "Xayah",
+        "LeBlanc",
+        "Urgot"
+      ]
+    },
+    {
+      "Item": "Radiant Red Buff",
+      "Tier": "S",
+      "Avg Place": "4.10",
+      "Place Change": "-0.40",
+      "Win Rate": "16.2%",
+      "Games": "12371",
+      "Frequency": "0.2%",
+      "PopularUnits": [
+        "Xayah",
+        "Vex",
+        "Nami",
+        "Karma",
+        "Jhin"
+      ]
+    },
+    {
+      "Item": "Radiant Jeweled Gauntlet",
+      "Tier": "S",
+      "Avg Place": "4.17",
+      "Place Change": "-0.33",
+      "Win Rate": "13.9%",
+      "Games": "71210",
+      "Frequency": "1.4%",
+      "PopularUnits": [
+        "Viktor",
+        "Nami",
+        "Aurelion Sol",
+        "Vex",
+        "Veigar"
+      ]
+    },
+    {
+      "Item": "Radiant Ionic Spark",
+      "Tier": "S",
+      "Avg Place": "4.19",
+      "Place Change": "-0.31",
+      "Win Rate": "12.6%",
+      "Games": "10915",
+      "Frequency": "0.2%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Illaoi",
+        "Blitzcrank",
+        "Rammus",
+        "Ornn"
+      ]
+    },
+    {
+      "Item": "Radiant Edge of Night",
+      "Tier": "S",
+      "Avg Place": "4.19",
+      "Place Change": "-0.31",
+      "Win Rate": "13.0%",
+      "Games": "22309",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "Master Yi",
+        "Riven",
+        "Akali",
+        "Fiora",
+        "Zed"
+      ]
+    },
+    {
+      "Item": "Radiant Hextech Gunblade",
+      "Tier": "S",
+      "Avg Place": "4.20",
+      "Place Change": "-0.30",
+      "Win Rate": "13.9%",
+      "Games": "18892",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "Vex",
+        "LeBlanc",
+        "Teemo",
+        "Aurelion Sol",
+        "Xayah"
+      ]
+    },
+    {
+      "Item": "Radiant Void Staff",
+      "Tier": "A",
+      "Avg Place": "4.22",
+      "Place Change": "-0.28",
+      "Win Rate": "12.3%",
+      "Games": "27556",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "Aurelion Sol",
+        "Nami",
+        "Vex",
+        "Viktor",
+        "Karma"
+      ]
+    },
+    {
+      "Item": "Radiant Morellonomicon",
+      "Tier": "A",
+      "Avg Place": "4.22",
+      "Place Change": "-0.28",
+      "Win Rate": "13.0%",
+      "Games": "8855",
+      "Frequency": "0.2%",
+      "PopularUnits": [
+        "Karma",
+        "Nami",
+        "Bard",
+        "Aurelion Sol",
+        "Zoe"
+      ]
+    },
+    {
+      "Item": "Radiant Striker's Flail",
+      "Tier": "A",
+      "Avg Place": "4.22",
+      "Place Change": "-0.28",
+      "Win Rate": "14.7%",
+      "Games": "26283",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "Kai'Sa",
+        "Vex",
+        "Corki",
+        "Aurelion Sol",
+        "Graves"
+      ]
+    },
+    {
+      "Item": "Radiant Thief's Gloves",
+      "Tier": "A",
+      "Avg Place": "4.23",
+      "Place Change": "-0.27",
+      "Win Rate": "13.5%",
+      "Games": "78823",
+      "Frequency": "1.5%",
+      "PopularUnits": [
+        "Blitzcrank",
+        "Fiora",
+        "Talon",
+        "Riven",
+        "Shen"
+      ]
+    },
+    {
+      "Item": "Radiant Archangel's Staff",
+      "Tier": "A",
+      "Avg Place": "4.24",
+      "Place Change": "-0.26",
+      "Win Rate": "12.1%",
+      "Games": "21197",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "Viktor",
+        "Aurelion Sol",
+        "Vex",
+        "Nami",
+        "LeBlanc"
+      ]
+    },
+    {
+      "Item": "Radiant Spear of Shojin",
+      "Tier": "A",
+      "Avg Place": "4.26",
+      "Place Change": "-0.24",
+      "Win Rate": "14.2%",
+      "Games": "38755",
+      "Frequency": "0.7%",
+      "PopularUnits": [
+        "Nami",
+        "Karma",
+        "Samira",
+        "Zed",
+        "Kai'Sa"
+      ]
+    },
+    {
+      "Item": "Radiant Hand of Justice",
+      "Tier": "A",
+      "Avg Place": "4.26",
+      "Place Change": "-0.24",
+      "Win Rate": "11.9%",
+      "Games": "26612",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "Akali",
+        "Riven",
+        "Fiora",
+        "Master Yi",
+        "Graves"
+      ]
+    },
+    {
+      "Item": "Radiant Quicksilver",
+      "Tier": "A",
+      "Avg Place": "4.28",
+      "Place Change": "-0.22",
+      "Win Rate": "11.5%",
+      "Games": "18387",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "Bel'Veth",
+        "Urgot",
+        "Graves",
+        "Master Yi",
+        "Fiora"
+      ]
+    },
+    {
+      "Item": "Radiant Sterak's Gage",
+      "Tier": "A",
+      "Avg Place": "4.29",
+      "Place Change": "-0.21",
+      "Win Rate": "14.9%",
+      "Games": "17948",
+      "Frequency": "0.3%",
+      "PopularUnits": [
+        "The Mighty Mech",
+        "Fiora",
+        "Riven",
+        "Graves",
+        "Master Yi"
+      ]
+    },
+    {
+      "Item": "Radiant Sunfire Cape",
+      "Tier": "B",
+      "Avg Place": "4.31",
+      "Place Change": "-0.19",
+      "Win Rate": "11.9%",
+      "Games": "48942",
+      "Frequency": "0.9%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Rammus",
+        "Illaoi",
+        "Tahm Kench",
+        "Ornn"
+      ]
+    },
+    {
+      "Item": "Radiant Evenshroud",
+      "Tier": "B",
+      "Avg Place": "4.34",
+      "Place Change": "-0.16",
+      "Win Rate": "14.0%",
+      "Games": "13048",
+      "Frequency": "0.3%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Rammus",
+        "Ornn",
+        "Maokai",
+        "Tahm Kench"
+      ]
+    },
+    {
+      "Item": "Radiant Titan's Resolve",
+      "Tier": "B",
+      "Avg Place": "4.35",
+      "Place Change": "-0.15",
+      "Win Rate": "12.8%",
+      "Games": "19887",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "Riven",
+        "The Mighty Mech",
+        "Fiora",
+        "Master Yi",
+        "Bel'Veth"
+      ]
+    },
+    {
+      "Item": "Radiant Blue Buff",
+      "Tier": "B",
+      "Avg Place": "4.36",
+      "Place Change": "-0.14",
+      "Win Rate": "12.2%",
+      "Games": "14896",
+      "Frequency": "0.3%",
+      "PopularUnits": [
+        "Kai'Sa",
+        "Corki",
+        "Nami",
+        "Karma",
+        "Veigar"
+      ]
+    },
+    {
+      "Item": "Radiant Protector's Vow",
+      "Tier": "B",
+      "Avg Place": "4.36",
+      "Place Change": "-0.14",
+      "Win Rate": "13.7%",
+      "Games": "32517",
+      "Frequency": "0.6%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Rammus",
+        "Jax",
+        "Tahm Kench",
+        "Illaoi"
+      ]
+    },
+    {
+      "Item": "Radiant Crownguard",
+      "Tier": "B",
+      "Avg Place": "4.36",
+      "Place Change": "-0.14",
+      "Win Rate": "11.9%",
+      "Games": "11861",
+      "Frequency": "0.2%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Rammus",
+        "Jax",
+        "Ornn",
+        "Illaoi"
+      ]
+    },
+    {
+      "Item": "Radiant Warmog's Armor",
+      "Tier": "B",
+      "Avg Place": "4.37",
+      "Place Change": "-0.13",
+      "Win Rate": "11.9%",
+      "Games": "37409",
+      "Frequency": "0.7%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Rammus",
+        "Illaoi",
+        "Ornn",
+        "The Mighty Mech"
+      ]
+    },
+    {
+      "Item": "Radiant Spirit Visage",
+      "Tier": "C",
+      "Avg Place": "4.41",
+      "Place Change": "-0.09",
+      "Win Rate": "11.3%",
+      "Games": "39152",
+      "Frequency": "0.8%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Rammus",
+        "Illaoi",
+        "Tahm Kench",
+        "Ornn"
+      ]
+    },
+    {
+      "Item": "Radiant Guinsoo's Rageblade",
+      "Tier": "C",
+      "Avg Place": "4.42",
+      "Place Change": "-0.08",
+      "Win Rate": "14.1%",
+      "Games": "98720",
+      "Frequency": "1.9%",
+      "PopularUnits": [
+        "Vex",
+        "Xayah",
+        "LeBlanc",
+        "Kindred",
+        "Teemo"
+      ]
+    },
+    {
+      "Item": "Radiant Steadfast Heart",
+      "Tier": "C",
+      "Avg Place": "4.43",
+      "Place Change": "-0.07",
+      "Win Rate": "11.4%",
+      "Games": "15304",
+      "Frequency": "0.3%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Rammus",
+        "Illaoi",
+        "Ornn",
+        "Tahm Kench"
+      ]
+    },
+    {
+      "Item": "Radiant Bloodthirster",
+      "Tier": "C",
+      "Avg Place": "4.44",
+      "Place Change": "-0.06",
+      "Win Rate": "12.4%",
+      "Games": "26616",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "Riven",
+        "Fiora",
+        "Master Yi",
+        "Graves",
+        "Blitzcrank"
+      ]
+    },
+    {
+      "Item": "Radiant Dragon's Claw",
+      "Tier": "D",
+      "Avg Place": "4.52",
+      "Place Change": "+0.02",
+      "Win Rate": "10.4%",
+      "Games": "26902",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Rammus",
+        "Illaoi",
+        "Ornn",
+        "Tahm Kench"
+      ]
+    },
+    {
+      "Item": "Radiant Adaptive Helm",
+      "Tier": "D",
+      "Avg Place": "4.54",
+      "Place Change": "+0.04",
+      "Win Rate": "10.6%",
+      "Games": "15364",
+      "Frequency": "0.3%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Rammus",
+        "Jax",
+        "Tahm Kench",
+        "Ornn"
+      ]
+    },
+    {
+      "Item": "Radiant Bramble Vest",
+      "Tier": "D",
+      "Avg Place": "4.55",
+      "Place Change": "+0.05",
+      "Win Rate": "9.3%",
+      "Games": "14573",
+      "Frequency": "0.3%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Rammus",
+        "Illaoi",
+        "Ornn",
+        "Tahm Kench"
+      ]
+    }
+  ]
+}
