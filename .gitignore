@@ -3,3 +3,5 @@ logs/
 __pycache__/
 *.pyc
 .env
+data_ko/_dict/ko_kr.json
+data_ko/_dict/en_us.json

@@ -1,0 +1,679 @@
+{
+  "date": "2026-04-27",
+  "type": "Artifact Item",
+  "count": 42,
+  "items": [
+    {
+      "Item": "케일의 찬란한 승천",
+      "Tier": "S",
+      "Avg Place": "2.02",
+      "Place Change": "-2.48",
+      "Win Rate": "55.4%",
+      "Games": "2996",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "벡스",
+        "자야",
+        "진",
+        "아우렐리온 솔",
+        "티모"
+      ]
+    },
+    {
+      "Item": "거대한 히드라",
+      "Tier": "S",
+      "Avg Place": "4.10",
+      "Place Change": "-0.40",
+      "Win Rate": "14.8%",
+      "Games": "29666",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "우르곳",
+        "벨베스",
+        "그레이브즈",
+        "피오라",
+        "리븐"
+      ]
+    },
+    {
+      "Item": "자객의 발톱",
+      "Tier": "S",
+      "Avg Place": "4.13",
+      "Place Change": "-0.37",
+      "Win Rate": "15.1%",
+      "Games": "38496",
+      "Frequency": "0.6%",
+      "PopularUnits": [
+        "우르곳",
+        "리븐",
+        "피오라",
+        "아칼리",
+        "마스터 이"
+      ]
+    },
+    {
+      "Item": "죽음의 저항",
+      "Tier": "S",
+      "Avg Place": "4.19",
+      "Place Change": "-0.31",
+      "Win Rate": "14.2%",
+      "Games": "36993",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "우르곳",
+        "리븐",
+        "피오라",
+        "브라이어",
+        "마스터 이"
+      ]
+    },
+    {
+      "Item": "라이트실드 문장",
+      "Tier": "A",
+      "Avg Place": "4.20",
+      "Place Change": "-0.30",
+      "Win Rate": "14.3%",
+      "Games": "46901",
+      "Frequency": "0.7%",
+      "PopularUnits": [
+        "누누와 윌럼프",
+        "람머스",
+        "거대 메크 로봇",
+        "탐 켄치",
+        "일라오이"
+      ]
+    },
+    {
+      "Item": "아리의 오라",
+      "Tier": "A",
+      "Avg Place": "4.21",
+      "Place Change": "-0.29",
+      "Win Rate": "13.0%",
+      "Games": "67186",
+      "Frequency": "1.0%",
+      "PopularUnits": [
+        "아우렐리온 솔",
+        "나미",
+        "빅토르",
+        "카르마",
+        "오로라"
+      ]
+    },
+    {
+      "Item": "지평선의 초점",
+      "Tier": "A",
+      "Avg Place": "4.23",
+      "Place Change": "-0.27",
+      "Win Rate": "15.8%",
+      "Games": "25597",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "누누와 윌럼프",
+        "마오카이",
+        "라아스트",
+        "꼬마 정령",
+        "잭스"
+      ]
+    },
+    {
+      "Item": "무한한 삼위일체",
+      "Tier": "A",
+      "Avg Place": "4.23",
+      "Place Change": "-0.27",
+      "Win Rate": "13.3%",
+      "Games": "56494",
+      "Frequency": "0.8%",
+      "PopularUnits": [
+        "우르곳",
+        "벨베스",
+        "리븐",
+        "피오라",
+        "브라이어"
+      ]
+    },
+    {
+      "Item": "황금 징수의 총",
+      "Tier": "A",
+      "Avg Place": "4.24",
+      "Place Change": "-0.26",
+      "Win Rate": "14.7%",
+      "Games": "33048",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "우르곳",
+        "자야",
+        "진",
+        "카이사",
+        "킨드레드"
+      ]
+    },
+    {
+      "Item": "불굴",
+      "Tier": "A",
+      "Avg Place": "4.25",
+      "Place Change": "-0.25",
+      "Win Rate": "14.4%",
+      "Games": "57487",
+      "Frequency": "0.8%",
+      "PopularUnits": [
+        "누누와 윌럼프",
+        "거대 메크 로봇",
+        "람머스",
+        "마오카이",
+        "일라오이"
+      ]
+    },
+    {
+      "Item": "존야의 역설",
+      "Tier": "A",
+      "Avg Place": "4.26",
+      "Place Change": "-0.24",
+      "Win Rate": "14.4%",
+      "Games": "27779",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "아우렐리온 솔",
+        "리븐",
+        "블리츠크랭크",
+        "피즈",
+        "오로라"
+      ]
+    },
+    {
+      "Item": "거물의 갑옷",
+      "Tier": "A",
+      "Avg Place": "4.26",
+      "Place Change": "-0.24",
+      "Win Rate": "13.8%",
+      "Games": "51881",
+      "Frequency": "0.8%",
+      "PopularUnits": [
+        "누누와 윌럼프",
+        "람머스",
+        "거대 메크 로봇",
+        "레오나",
+        "일라오이"
+      ]
+    },
+    {
+      "Item": "은빛 여명",
+      "Tier": "A",
+      "Avg Place": "4.27",
+      "Place Change": "-0.23",
+      "Win Rate": "14.1%",
+      "Games": "30809",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "거대 메크 로봇",
+        "우르곳",
+        "누누와 윌럼프",
+        "라아스트",
+        "람머스"
+      ]
+    },
+    {
+      "Item": "생선대가리",
+      "Tier": "A",
+      "Avg Place": "4.27",
+      "Place Change": "-0.23",
+      "Win Rate": "13.3%",
+      "Games": "35707",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "우르곳",
+        "자야",
+        "벨베스",
+        "킨드레드",
+        "카이사"
+      ]
+    },
+    {
+      "Item": "에코의 인내",
+      "Tier": "B",
+      "Avg Place": "4.31",
+      "Place Change": "-0.19",
+      "Win Rate": "13.2%",
+      "Games": "72267",
+      "Frequency": "1.0%",
+      "PopularUnits": [
+        "아우렐리온 솔",
+        "조이",
+        "빅토르",
+        "나미",
+        "카르마"
+      ]
+    },
+    {
+      "Item": "영원한 서약",
+      "Tier": "B",
+      "Avg Place": "4.32",
+      "Place Change": "-0.18",
+      "Win Rate": "12.6%",
+      "Games": "26367",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "아우렐리온 솔",
+        "카르마",
+        "나미",
+        "오로라",
+        "빅토르"
+      ]
+    },
+    {
+      "Item": "방한 장갑",
+      "Tier": "B",
+      "Avg Place": "4.33",
+      "Place Change": "-0.17",
+      "Win Rate": "12.5%",
+      "Games": "35975",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "우르곳",
+        "벨베스",
+        "리븐",
+        "마스터 이",
+        "피오라"
+      ]
+    },
+    {
+      "Item": "공허 건틀릿",
+      "Tier": "B",
+      "Avg Place": "4.34",
+      "Place Change": "-0.16",
+      "Win Rate": "13.3%",
+      "Games": "34686",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "누누와 윌럼프",
+        "거대 메크 로봇",
+        "마오카이",
+        "람머스",
+        "탐 켄치"
+      ]
+    },
+    {
+      "Item": "마법사의 최후",
+      "Tier": "B",
+      "Avg Place": "4.34",
+      "Place Change": "-0.16",
+      "Win Rate": "12.2%",
+      "Games": "27612",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "벡스",
+        "티모",
+        "리븐",
+        "르블랑",
+        "벨베스"
+      ]
+    },
+    {
+      "Item": "이블린의 본능",
+      "Tier": "B",
+      "Avg Place": "4.35",
+      "Place Change": "-0.15",
+      "Win Rate": "10.2%",
+      "Games": "95927",
+      "Frequency": "1.4%",
+      "PopularUnits": [
+        "벨베스",
+        "우르곳",
+        "리븐",
+        "마스터 이",
+        "피오라"
+      ]
+    },
+    {
+      "Item": "리치베인",
+      "Tier": "B",
+      "Avg Place": "4.36",
+      "Place Change": "-0.14",
+      "Win Rate": "11.5%",
+      "Games": "27267",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "피즈",
+        "카르마",
+        "벡스",
+        "트위스티드 페이트",
+        "나미"
+      ]
+    },
+    {
+      "Item": "스태틱의 단검",
+      "Tier": "B",
+      "Avg Place": "4.36",
+      "Place Change": "-0.14",
+      "Win Rate": "12.2%",
+      "Games": "31403",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "벡스",
+        "티모",
+        "르블랑",
+        "나미",
+        "킨드레드"
+      ]
+    },
+    {
+      "Item": "새벽의 방패",
+      "Tier": "B",
+      "Avg Place": "4.37",
+      "Place Change": "-0.13",
+      "Win Rate": "12.5%",
+      "Games": "44341",
+      "Frequency": "0.6%",
+      "PopularUnits": [
+        "누누와 윌럼프",
+        "거대 메크 로봇",
+        "람머스",
+        "마오카이",
+        "탐 켄치"
+      ]
+    },
+    {
+      "Item": "지옥불 손도끼",
+      "Tier": "B",
+      "Avg Place": "4.37",
+      "Place Change": "-0.13",
+      "Win Rate": "11.8%",
+      "Games": "24973",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "우르곳",
+        "브라이어",
+        "리븐",
+        "피오라",
+        "벨베스"
+      ]
+    },
+    {
+      "Item": "도박꾼의 칼날",
+      "Tier": "B",
+      "Avg Place": "4.38",
+      "Place Change": "-0.12",
+      "Win Rate": "12.5%",
+      "Games": "40919",
+      "Frequency": "0.6%",
+      "PopularUnits": [
+        "벡스",
+        "자야",
+        "티모",
+        "르블랑",
+        "킨드레드"
+      ]
+    },
+    {
+      "Item": "선체분쇄자",
+      "Tier": "B",
+      "Avg Place": "4.38",
+      "Place Change": "-0.12",
+      "Win Rate": "12.8%",
+      "Games": "32934",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "거대 메크 로봇",
+        "누누와 윌럼프",
+        "람머스",
+        "일라오이",
+        "마오카이"
+      ]
+    },
+    {
+      "Item": "명멸검",
+      "Tier": "B",
+      "Avg Place": "4.39",
+      "Place Change": "-0.11",
+      "Win Rate": "12.1%",
+      "Games": "54479",
+      "Frequency": "0.8%",
+      "PopularUnits": [
+        "자야",
+        "벡스",
+        "벨베스",
+        "킨드레드",
+        "티모"
+      ]
+    },
+    {
+      "Item": "카파 주스",
+      "Tier": "C",
+      "Avg Place": "4.40",
+      "Place Change": "-0.10",
+      "Win Rate": "13.3%",
+      "Games": "20397",
+      "Frequency": "0.3%",
+      "PopularUnits": [
+        "아우렐리온 솔",
+        "자야",
+        "벡스",
+        "진",
+        "오로라"
+      ]
+    },
+    {
+      "Item": "소라카의 기적",
+      "Tier": "C",
+      "Avg Place": "4.42",
+      "Place Change": "-0.08",
+      "Win Rate": "12.2%",
+      "Games": "106495",
+      "Frequency": "1.5%",
+      "PopularUnits": [
+        "누누와 윌럼프",
+        "거대 메크 로봇",
+        "람머스",
+        "일라오이",
+        "잭스"
+      ]
+    },
+    {
+      "Item": "황혼의 방패",
+      "Tier": "C",
+      "Avg Place": "4.42",
+      "Place Change": "-0.08",
+      "Win Rate": "12.1%",
+      "Games": "40208",
+      "Frequency": "0.6%",
+      "PopularUnits": [
+        "누누와 윌럼프",
+        "거대 메크 로봇",
+        "람머스",
+        "일라오이",
+        "탐 켄치"
+      ]
+    },
+    {
+      "Item": "역병의 보석",
+      "Tier": "C",
+      "Avg Place": "4.43",
+      "Place Change": "-0.07",
+      "Win Rate": "11.2%",
+      "Games": "29326",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "아우렐리온 솔",
+        "카르마",
+        "나미",
+        "빅토르",
+        "벡스"
+      ]
+    },
+    {
+      "Item": "고속 연사포",
+      "Tier": "C",
+      "Avg Place": "4.44",
+      "Place Change": "-0.06",
+      "Win Rate": "11.6%",
+      "Games": "35523",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "벨베스",
+        "우르곳",
+        "마스터 이",
+        "자야",
+        "그레이브즈"
+      ]
+    },
+    {
+      "Item": "루덴의 폭풍",
+      "Tier": "C",
+      "Avg Place": "4.45",
+      "Place Change": "-0.05",
+      "Win Rate": "10.2%",
+      "Games": "30960",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "트위스티드 페이트",
+        "오로라",
+        "나미",
+        "카르마",
+        "빅토르"
+      ]
+    },
+    {
+      "Item": "추적자의 팔목 보호대",
+      "Tier": "C",
+      "Avg Place": "4.49",
+      "Place Change": "-0.01",
+      "Win Rate": "12.0%",
+      "Games": "33431",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "아우렐리온 솔",
+        "리븐",
+        "블리츠크랭크",
+        "피즈",
+        "벡스"
+      ]
+    },
+    {
+      "Item": "바루스의 집착",
+      "Tier": "C",
+      "Avg Place": "4.49",
+      "Place Change": "-0.01",
+      "Win Rate": "10.7%",
+      "Games": "62343",
+      "Frequency": "0.9%",
+      "PopularUnits": [
+        "아우렐리온 솔",
+        "티모",
+        "자야",
+        "벡스",
+        "트위스티드 페이트"
+      ]
+    },
+    {
+      "Item": "쓰레쉬의 랜턴",
+      "Tier": "C",
+      "Avg Place": "4.50",
+      "Place Change": "-0.00",
+      "Win Rate": "10.9%",
+      "Games": "59478",
+      "Frequency": "0.9%",
+      "PopularUnits": [
+        "누누와 윌럼프",
+        "탐 켄치",
+        "람머스",
+        "일라오이",
+        "마오카이"
+      ]
+    },
+    {
+      "Item": "데마시아의 왕관",
+      "Tier": "D",
+      "Avg Place": "4.50",
+      "Place Change": "+0.00",
+      "Win Rate": "9.7%",
+      "Games": "31484",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "자야",
+        "티모",
+        "벡스",
+        "카이사",
+        "트위스티드 페이트"
+      ]
+    },
+    {
+      "Item": "저격수의 집중",
+      "Tier": "D",
+      "Avg Place": "4.51",
+      "Place Change": "+0.01",
+      "Win Rate": "11.5%",
+      "Games": "38888",
+      "Frequency": "0.6%",
+      "PopularUnits": [
+        "자야",
+        "진",
+        "킨드레드",
+        "벡스",
+        "카이사"
+      ]
+    },
+    {
+      "Item": "승천의 부적",
+      "Tier": "D",
+      "Avg Place": "4.54",
+      "Place Change": "+0.04",
+      "Win Rate": "10.6%",
+      "Games": "27332",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "거대 메크 로봇",
+        "초가스",
+        "우르곳",
+        "아우렐리온 솔",
+        "누누와 윌럼프"
+      ]
+    },
+    {
+      "Item": "새벽심장",
+      "Tier": "D",
+      "Avg Place": "4.59",
+      "Place Change": "+0.09",
+      "Win Rate": "10.3%",
+      "Games": "35807",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "나미",
+        "카르마",
+        "오로라",
+        "이즈리얼",
+        "카이사"
+      ]
+    },
+    {
+      "Item": "야스오의 검술",
+      "Tier": "D",
+      "Avg Place": "4.73",
+      "Place Change": "+0.23",
+      "Win Rate": "8.8%",
+      "Games": "58501",
+      "Frequency": "0.8%",
+      "PopularUnits": [
+        "우르곳",
+        "자야",
+        "벨베스",
+        "킨드레드",
+        "그레이브즈"
+      ]
+    },
+    {
+      "Item": "케일의 승천",
+      "Tier": "D",
+      "Avg Place": "4.96",
+      "Place Change": "+0.46",
+      "Win Rate": "6.2%",
+      "Games": "67113",
+      "Frequency": "1.0%",
+      "PopularUnits": [
+        "자야",
+        "벡스",
+        "티모",
+        "킨드레드",
+        "르블랑"
+      ]
+    }
+  ]
+}

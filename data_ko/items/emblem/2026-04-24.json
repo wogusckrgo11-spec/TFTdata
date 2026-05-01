@@ -1,0 +1,359 @@
+{
+  "date": "2026-04-24",
+  "type": "Emblem",
+  "count": 22,
+  "items": [
+    {
+      "Item": "전략가의 왕관",
+      "Tier": "S",
+      "Avg Place": "2.98",
+      "Place Change": "-1.52",
+      "Win Rate": "30.7%",
+      "Games": "29078",
+      "Frequency": "0.6%",
+      "PopularUnits": [
+        "리산드라",
+        "카르마",
+        "바드",
+        "케이틀린",
+        "소나"
+      ]
+    },
+    {
+      "Item": "우주 그루브 상징",
+      "Tier": "B",
+      "Avg Place": "4.28",
+      "Place Change": "-0.16",
+      "Win Rate": "15.6%",
+      "Games": "272867",
+      "Frequency": "5.3%",
+      "PopularUnits": [
+        "리븐",
+        "탐 켄치",
+        "쉔",
+        "누누와 윌럼프",
+        "그레이브즈"
+      ]
+    },
+    {
+      "Item": "여행자 상징",
+      "Tier": "B",
+      "Avg Place": "4.18",
+      "Place Change": "-0.16",
+      "Win Rate": "16.0%",
+      "Games": "92325",
+      "Frequency": "1.8%",
+      "PopularUnits": [
+        "모데카이저",
+        "일라오이",
+        "바드",
+        "라아스트",
+        "블리츠크랭크"
+      ]
+    },
+    {
+      "Item": "불한당 상징",
+      "Tier": "B",
+      "Avg Place": "4.26",
+      "Place Change": "-0.13",
+      "Win Rate": "13.6%",
+      "Games": "87968",
+      "Frequency": "1.7%",
+      "PopularUnits": [
+        "라아스트",
+        "카르마",
+        "블리츠크랭크",
+        "코르키",
+        "나미"
+      ]
+    },
+    {
+      "Item": "선봉대 상징",
+      "Tier": "B",
+      "Avg Place": "4.31",
+      "Place Change": "-0.12",
+      "Win Rate": "14.7%",
+      "Games": "103038",
+      "Frequency": "2.0%",
+      "PopularUnits": [
+        "르블랑",
+        "람머스",
+        "꼬마 정령",
+        "탐 켄치",
+        "리븐"
+      ]
+    },
+    {
+      "Item": "별돌보미 상징",
+      "Tier": "B",
+      "Avg Place": "4.38",
+      "Place Change": "-0.11",
+      "Win Rate": "15.2%",
+      "Games": "236831",
+      "Frequency": "4.6%",
+      "PopularUnits": [
+        "진",
+        "리븐",
+        "람머스",
+        "바드",
+        "모데카이저"
+      ]
+    },
+    {
+      "Item": "길잡이 상징",
+      "Tier": "B",
+      "Avg Place": "4.31",
+      "Place Change": "-0.11",
+      "Win Rate": "13.4%",
+      "Games": "65778",
+      "Frequency": "1.3%",
+      "PopularUnits": [
+        "카르마",
+        "모데카이저",
+        "블리츠크랭크",
+        "누누와 윌럼프",
+        "바드"
+      ]
+    },
+    {
+      "Item": "시간 균열자 상징",
+      "Tier": "B",
+      "Avg Place": "4.33",
+      "Place Change": "-0.10",
+      "Win Rate": "15.3%",
+      "Games": "75234",
+      "Frequency": "1.5%",
+      "PopularUnits": [
+        "블리츠크랭크",
+        "진",
+        "자야",
+        "코르키",
+        "쉔"
+      ]
+    },
+    {
+      "Item": "암흑의 별 상징",
+      "Tier": "C",
+      "Avg Place": "4.38",
+      "Place Change": "-0.09",
+      "Win Rate": "14.0%",
+      "Games": "108613",
+      "Frequency": "2.1%",
+      "PopularUnits": [
+        "자야",
+        "리븐",
+        "블리츠크랭크",
+        "바드",
+        "나미"
+      ]
+    },
+    {
+      "Item": "N.O.V.A. 상징",
+      "Tier": "C",
+      "Avg Place": "4.42",
+      "Place Change": "-0.09",
+      "Win Rate": "11.4%",
+      "Games": "164179",
+      "Frequency": "3.2%",
+      "PopularUnits": [
+        "마스터 이",
+        "피오라",
+        "벨베스",
+        "그레이브즈",
+        "브라이어"
+      ]
+    },
+    {
+      "Item": "습격자 상징",
+      "Tier": "C",
+      "Avg Place": "4.43",
+      "Place Change": "-0.07",
+      "Win Rate": "13.2%",
+      "Games": "66297",
+      "Frequency": "1.3%",
+      "PopularUnits": [
+        "킨드레드",
+        "그레이브즈",
+        "리븐",
+        "쉔",
+        "블리츠크랭크"
+      ]
+    },
+    {
+      "Item": "요새 상징",
+      "Tier": "C",
+      "Avg Place": "4.48",
+      "Place Change": "-0.05",
+      "Win Rate": "12.9%",
+      "Games": "88257",
+      "Frequency": "1.7%",
+      "PopularUnits": [
+        "누누와 윌럼프",
+        "탐 켄치",
+        "리븐",
+        "블리츠크랭크",
+        "마오카이"
+      ]
+    },
+    {
+      "Item": "싸움꾼 상징",
+      "Tier": "C",
+      "Avg Place": "4.48",
+      "Place Change": "-0.05",
+      "Win Rate": "12.9%",
+      "Games": "77722",
+      "Frequency": "1.5%",
+      "PopularUnits": [
+        "누누와 윌럼프",
+        "람머스",
+        "마스터 이",
+        "거대 메크 로봇",
+        "리븐"
+      ]
+    },
+    {
+      "Item": "태고족 상징",
+      "Tier": "C",
+      "Avg Place": "4.48",
+      "Place Change": "-0.05",
+      "Win Rate": "10.9%",
+      "Games": "45504",
+      "Frequency": "0.9%",
+      "PopularUnits": [
+        "마오카이",
+        "아칼리",
+        "탐 켄치",
+        "아트록스",
+        "누누와 윌럼프"
+      ]
+    },
+    {
+      "Item": "초능력 상징",
+      "Tier": "C",
+      "Avg Place": "4.58",
+      "Place Change": "-0.02",
+      "Win Rate": "10.8%",
+      "Games": "62355",
+      "Frequency": "1.2%",
+      "PopularUnits": [
+        "일라오이",
+        "피오라",
+        "블리츠크랭크",
+        "모데카이저",
+        "탐 켄치"
+      ]
+    },
+    {
+      "Item": "전략가의 망토",
+      "Tier": "C",
+      "Avg Place": "4.32",
+      "Place Change": "-0.00",
+      "Win Rate": "13.4%",
+      "Games": "35946",
+      "Frequency": "0.7%",
+      "PopularUnits": [
+        "리산드라",
+        "카르마",
+        "나르",
+        "케이틀린",
+        "바드"
+      ]
+    },
+    {
+      "Item": "정령족 상징",
+      "Tier": "C",
+      "Avg Place": "4.62",
+      "Place Change": "-0.00",
+      "Win Rate": "14.7%",
+      "Games": "104787",
+      "Frequency": "2.0%",
+      "PopularUnits": [
+        "리븐",
+        "누누와 윌럼프",
+        "블리츠크랭크",
+        "일라오이",
+        "리산드라"
+      ]
+    },
+    {
+      "Item": "전략가의 방패",
+      "Tier": "C",
+      "Avg Place": "3.94",
+      "Place Change": "-0.00",
+      "Win Rate": "18.9%",
+      "Games": "1479",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "아트록스",
+        "모데카이저",
+        "꼬마 정령",
+        "오른",
+        "판테온"
+      ]
+    },
+    {
+      "Item": "저격수 상징",
+      "Tier": "D",
+      "Avg Place": "4.63",
+      "Place Change": "+0.00",
+      "Win Rate": "12.9%",
+      "Games": "64742",
+      "Frequency": "1.3%",
+      "PopularUnits": [
+        "바드",
+        "그레이브즈",
+        "카르마",
+        "코르키",
+        "블리츠크랭크"
+      ]
+    },
+    {
+      "Item": "도전자 상징",
+      "Tier": "D",
+      "Avg Place": "4.73",
+      "Place Change": "+0.04",
+      "Win Rate": "10.3%",
+      "Games": "65789",
+      "Frequency": "1.3%",
+      "PopularUnits": [
+        "마스터 이",
+        "피오라",
+        "아칼리",
+        "그레이브즈",
+        "르블랑"
+      ]
+    },
+    {
+      "Item": "중재자 상징",
+      "Tier": "D",
+      "Avg Place": "4.88",
+      "Place Change": "+0.08",
+      "Win Rate": "8.5%",
+      "Games": "58807",
+      "Frequency": "1.1%",
+      "PopularUnits": [
+        "카르마",
+        "일라오이",
+        "누누와 윌럼프",
+        "블리츠크랭크",
+        "모데카이저"
+      ]
+    },
+    {
+      "Item": "동물특공대 상징",
+      "Tier": "D",
+      "Avg Place": "5.50",
+      "Place Change": "+0.27",
+      "Win Rate": "9.9%",
+      "Games": "46096",
+      "Frequency": "0.9%",
+      "PopularUnits": [
+        "모데카이저",
+        "탐 켄치",
+        "꼬마 정령",
+        "누누와 윌럼프",
+        "오른"
+      ]
+    }
+  ]
+}

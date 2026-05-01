@@ -1,0 +1,311 @@
+{
+  "date": "2026-04-21",
+  "type": "Emblem",
+  "count": 19,
+  "items": [
+    {
+      "Item": "우주 그루브 상징",
+      "Tier": "B",
+      "Avg Place": "4.21",
+      "Place Change": "-0.20",
+      "Win Rate": "16.4%",
+      "Games": "142740",
+      "Frequency": "5.2%",
+      "PopularUnits": [
+        "리븐",
+        "탐 켄치",
+        "쉔",
+        "누누와 윌럼프",
+        "그레이브즈"
+      ]
+    },
+    {
+      "Item": "여행자 상징",
+      "Tier": "B",
+      "Avg Place": "4.18",
+      "Place Change": "-0.16",
+      "Win Rate": "16.0%",
+      "Games": "51619",
+      "Frequency": "1.9%",
+      "PopularUnits": [
+        "일라오이",
+        "모데카이저",
+        "바드",
+        "블리츠크랭크",
+        "탐 켄치"
+      ]
+    },
+    {
+      "Item": "불한당 상징",
+      "Tier": "B",
+      "Avg Place": "4.22",
+      "Place Change": "-0.15",
+      "Win Rate": "14.2%",
+      "Games": "48863",
+      "Frequency": "1.8%",
+      "PopularUnits": [
+        "라아스트",
+        "카르마",
+        "블리츠크랭크",
+        "코르키",
+        "피오라"
+      ]
+    },
+    {
+      "Item": "선봉대 상징",
+      "Tier": "B",
+      "Avg Place": "4.29",
+      "Place Change": "-0.13",
+      "Win Rate": "14.8%",
+      "Games": "57731",
+      "Frequency": "2.1%",
+      "PopularUnits": [
+        "꼬마 정령",
+        "르블랑",
+        "람머스",
+        "탐 켄치",
+        "오른"
+      ]
+    },
+    {
+      "Item": "시간 균열자 상징",
+      "Tier": "B",
+      "Avg Place": "4.29",
+      "Place Change": "-0.12",
+      "Win Rate": "16.0%",
+      "Games": "41262",
+      "Frequency": "1.5%",
+      "PopularUnits": [
+        "블리츠크랭크",
+        "진",
+        "자야",
+        "쉔",
+        "탐 켄치"
+      ]
+    },
+    {
+      "Item": "길잡이 상징",
+      "Tier": "B",
+      "Avg Place": "4.31",
+      "Place Change": "-0.11",
+      "Win Rate": "13.8%",
+      "Games": "35884",
+      "Frequency": "1.3%",
+      "PopularUnits": [
+        "카르마",
+        "모데카이저",
+        "블리츠크랭크",
+        "레오나",
+        "누누와 윌럼프"
+      ]
+    },
+    {
+      "Item": "암흑의 별 상징",
+      "Tier": "C",
+      "Avg Place": "4.38",
+      "Place Change": "-0.09",
+      "Win Rate": "13.6%",
+      "Games": "52840",
+      "Frequency": "1.9%",
+      "PopularUnits": [
+        "자야",
+        "리븐",
+        "블리츠크랭크",
+        "바드",
+        "탐 켄치"
+      ]
+    },
+    {
+      "Item": "N.O.V.A. 상징",
+      "Tier": "C",
+      "Avg Place": "4.44",
+      "Place Change": "-0.08",
+      "Win Rate": "11.5%",
+      "Games": "106633",
+      "Frequency": "3.9%",
+      "PopularUnits": [
+        "마스터 이",
+        "피오라",
+        "벨베스",
+        "그레이브즈",
+        "쉔"
+      ]
+    },
+    {
+      "Item": "별돌보미 상징",
+      "Tier": "C",
+      "Avg Place": "4.46",
+      "Place Change": "-0.08",
+      "Win Rate": "13.9%",
+      "Games": "114508",
+      "Frequency": "4.1%",
+      "PopularUnits": [
+        "진",
+        "리븐",
+        "쉔",
+        "람머스",
+        "모데카이저"
+      ]
+    },
+    {
+      "Item": "습격자 상징",
+      "Tier": "C",
+      "Avg Place": "4.40",
+      "Place Change": "-0.08",
+      "Win Rate": "13.6%",
+      "Games": "35620",
+      "Frequency": "1.3%",
+      "PopularUnits": [
+        "킨드레드",
+        "그레이브즈",
+        "리븐",
+        "쉔",
+        "블리츠크랭크"
+      ]
+    },
+    {
+      "Item": "요새 상징",
+      "Tier": "C",
+      "Avg Place": "4.44",
+      "Place Change": "-0.07",
+      "Win Rate": "13.1%",
+      "Games": "49732",
+      "Frequency": "1.8%",
+      "PopularUnits": [
+        "누누와 윌럼프",
+        "탐 켄치",
+        "블리츠크랭크",
+        "리븐",
+        "마오카이"
+      ]
+    },
+    {
+      "Item": "태고족 상징",
+      "Tier": "C",
+      "Avg Place": "4.42",
+      "Place Change": "-0.06",
+      "Win Rate": "11.8%",
+      "Games": "24256",
+      "Frequency": "0.9%",
+      "PopularUnits": [
+        "마오카이",
+        "아칼리",
+        "탐 켄치",
+        "아트록스",
+        "누누와 윌럼프"
+      ]
+    },
+    {
+      "Item": "싸움꾼 상징",
+      "Tier": "C",
+      "Avg Place": "4.46",
+      "Place Change": "-0.06",
+      "Win Rate": "13.0%",
+      "Games": "43871",
+      "Frequency": "1.6%",
+      "PopularUnits": [
+        "누누와 윌럼프",
+        "거대 메크 로봇",
+        "람머스",
+        "리븐",
+        "오른"
+      ]
+    },
+    {
+      "Item": "초능력 상징",
+      "Tier": "C",
+      "Avg Place": "4.57",
+      "Place Change": "-0.02",
+      "Win Rate": "11.0%",
+      "Games": "35269",
+      "Frequency": "1.3%",
+      "PopularUnits": [
+        "피오라",
+        "일라오이",
+        "블리츠크랭크",
+        "라아스트",
+        "탐 켄치"
+      ]
+    },
+    {
+      "Item": "정령족 상징",
+      "Tier": "C",
+      "Avg Place": "4.60",
+      "Place Change": "-0.01",
+      "Win Rate": "14.8%",
+      "Games": "53657",
+      "Frequency": "1.9%",
+      "PopularUnits": [
+        "리븐",
+        "쉔",
+        "누누와 윌럼프",
+        "거대 메크 로봇",
+        "블리츠크랭크"
+      ]
+    },
+    {
+      "Item": "저격수 상징",
+      "Tier": "C",
+      "Avg Place": "4.60",
+      "Place Change": "-0.01",
+      "Win Rate": "13.1%",
+      "Games": "34707",
+      "Frequency": "1.3%",
+      "PopularUnits": [
+        "바드",
+        "그레이브즈",
+        "카르마",
+        "코르키",
+        "리븐"
+      ]
+    },
+    {
+      "Item": "도전자 상징",
+      "Tier": "D",
+      "Avg Place": "4.71",
+      "Place Change": "+0.03",
+      "Win Rate": "10.4%",
+      "Games": "37217",
+      "Frequency": "1.3%",
+      "PopularUnits": [
+        "마스터 이",
+        "피오라",
+        "아칼리",
+        "르블랑",
+        "그레이브즈"
+      ]
+    },
+    {
+      "Item": "중재자 상징",
+      "Tier": "D",
+      "Avg Place": "4.85",
+      "Place Change": "+0.07",
+      "Win Rate": "9.1%",
+      "Games": "32686",
+      "Frequency": "1.2%",
+      "PopularUnits": [
+        "카르마",
+        "일라오이",
+        "누누와 윌럼프",
+        "블리츠크랭크",
+        "모데카이저"
+      ]
+    },
+    {
+      "Item": "동물특공대 상징",
+      "Tier": "D",
+      "Avg Place": "5.41",
+      "Place Change": "+0.24",
+      "Win Rate": "10.1%",
+      "Games": "23978",
+      "Frequency": "0.9%",
+      "PopularUnits": [
+        "모데카이저",
+        "꼬마 정령",
+        "탐 켄치",
+        "누누와 윌럼프",
+        "블리츠크랭크"
+      ]
+    }
+  ]
+}

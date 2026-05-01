@@ -1,0 +1,4329 @@
+{
+  "date": "2026-04-28",
+  "count": 56,
+  "comps": [
+    {
+      "Tier": "S",
+      "Name": "여행자 빅토르",
+      "Level": "7",
+      "Difficulty": "Medium",
+      "Avg Place": "3.90",
+      "Pick Rate": "0.50",
+      "Win Rate": "12.6%",
+      "Top 4 Rate": "62.3%",
+      "Units": [
+        "빅토르",
+        "일라오이",
+        "나미",
+        "라아스트",
+        "꼬마 정령",
+        "모데카이저",
+        "파이크",
+        "리산드라"
+      ],
+      "UnitDetails": [
+        {
+          "name": "빅토르",
+          "three_star": true,
+          "items": [
+            "드론 업링크",
+            "보석 건틀릿",
+            "라바돈의 죽음모자"
+          ]
+        },
+        {
+          "name": "일라오이",
+          "three_star": true,
+          "items": [
+            "덤불 조끼",
+            "가고일 돌갑옷",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "나미",
+          "three_star": false,
+          "items": [
+            "거인 학살자",
+            "쇼진의 창",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "라아스트",
+          "three_star": true,
+          "items": [
+            "이온 충격기",
+            "태양불꽃 망토",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "파이크",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "리산드라",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "S",
+      "Name": "태고족 벨베스",
+      "Level": "6",
+      "Difficulty": "Medium",
+      "Avg Place": "4.10",
+      "Pick Rate": "0.49",
+      "Win Rate": "9.8%",
+      "Top 4 Rate": "59.2%",
+      "Units": [
+        "벨베스",
+        "렉사이",
+        "킨드레드",
+        "브라이어",
+        "마오카이",
+        "아칼리",
+        "아트록스",
+        "케이틀린"
+      ],
+      "UnitDetails": [
+        {
+          "name": "벨베스",
+          "three_star": true,
+          "items": [
+            "거인 학살자",
+            "수은",
+            "크라켄의 분노"
+          ]
+        },
+        {
+          "name": "렉사이",
+          "three_star": true,
+          "items": [
+            "수호자의 맹세",
+            "태양불꽃 망토",
+            "저녁갑주"
+          ]
+        },
+        {
+          "name": "킨드레드",
+          "three_star": false,
+          "items": [
+            "죽음의 검",
+            "구인수의 격노검",
+            "거인 학살자"
+          ]
+        },
+        {
+          "name": "브라이어",
+          "three_star": true,
+          "items": [
+            "피바라기",
+            "스테락의 도전",
+            "거인의 결의"
+          ]
+        },
+        {
+          "name": "마오카이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아칼리",
+          "three_star": true,
+          "items": []
+        },
+        {
+          "name": "아트록스",
+          "three_star": true,
+          "items": []
+        },
+        {
+          "name": "케이틀린",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "S",
+      "Name": "선봉대 티모",
+      "Level": "5",
+      "Difficulty": "Medium",
+      "Avg Place": "4.21",
+      "Pick Rate": "0.30",
+      "Win Rate": "8.9%",
+      "Top 4 Rate": "57.0%",
+      "Units": [
+        "티모",
+        "레오나",
+        "나서스",
+        "리산드라",
+        "나미",
+        "일라오이",
+        "모데카이저",
+        "조이"
+      ],
+      "UnitDetails": [
+        {
+          "name": "티모",
+          "three_star": true,
+          "items": [
+            "구인수의 격노검",
+            "거인 학살자",
+            "라바돈의 죽음모자"
+          ]
+        },
+        {
+          "name": "레오나",
+          "three_star": true,
+          "items": [
+            "가고일 돌갑옷",
+            "가고일 돌갑옷",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "나서스",
+          "three_star": true,
+          "items": [
+            "이온 충격기",
+            "태양불꽃 망토",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "리산드라",
+          "three_star": true,
+          "items": [
+            "모렐로노미콘",
+            "쇼진의 창",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "나미",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "일라오이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "조이",
+          "three_star": true,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "S",
+      "Name": "선봉대 누누와 윌럼프",
+      "Level": "",
+      "Difficulty": "Medium",
+      "Avg Place": "4.22",
+      "Pick Rate": "0.36",
+      "Win Rate": "15.4%",
+      "Top 4 Rate": "54.7%",
+      "Units": [
+        "누누와 윌럼프",
+        "벡스",
+        "카르마",
+        "바드",
+        "블리츠크랭크",
+        "소나",
+        "일라오이",
+        "꼬마 정령",
+        "모데카이저"
+      ],
+      "UnitDetails": [
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": [
+            "수호자의 맹세",
+            "수호자의 맹세",
+            "수호자의 맹세"
+          ]
+        },
+        {
+          "name": "벡스",
+          "three_star": false,
+          "items": [
+            "구인수의 격노검",
+            "거인 학살자",
+            "라바돈의 죽음모자"
+          ]
+        },
+        {
+          "name": "카르마",
+          "three_star": false,
+          "items": [
+            "라바돈의 죽음모자",
+            "쇼진의 창",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "바드",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "블리츠크랭크",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "소나",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "일라오이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "A",
+      "Name": "운명술사 트위스티드 페이트",
+      "Level": "5",
+      "Difficulty": "Medium",
+      "Avg Place": "4.26",
+      "Pick Rate": "0.42",
+      "Win Rate": "9.7%",
+      "Top 4 Rate": "55.5%",
+      "Units": [
+        "트위스티드 페이트",
+        "잭스",
+        "케이틀린",
+        "탈론",
+        "코르키",
+        "리븐",
+        "밀리오",
+        "아트록스"
+      ],
+      "UnitDetails": [
+        {
+          "name": "트위스티드 페이트",
+          "three_star": true,
+          "items": [
+            "내셔의 이빨",
+            "내셔의 이빨",
+            "라바돈의 죽음모자"
+          ]
+        },
+        {
+          "name": "잭스",
+          "three_star": true,
+          "items": [
+            "크라운가드",
+            "가고일 돌갑옷",
+            "가고일 돌갑옷"
+          ]
+        },
+        {
+          "name": "케이틀린",
+          "three_star": true,
+          "items": [
+            "죽음의 검",
+            "구인수의 격노검",
+            "거인 학살자"
+          ]
+        },
+        {
+          "name": "탈론",
+          "three_star": true,
+          "items": [
+            "밤의 끝자락",
+            "마법공학 총검",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "코르키",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "리븐",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "밀리오",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아트록스",
+          "three_star": true,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "A",
+      "Name": "메카 우르곳",
+      "Level": "7",
+      "Difficulty": "Medium",
+      "Avg Place": "4.28",
+      "Pick Rate": "0.51",
+      "Win Rate": "12.3%",
+      "Top 4 Rate": "54.7%",
+      "Units": [
+        "우르곳",
+        "오로라",
+        "마오카이",
+        "거대 메크 로봇",
+        "라아스트",
+        "아칼리"
+      ],
+      "UnitDetails": [
+        {
+          "name": "우르곳",
+          "three_star": true,
+          "items": [
+            "무한의 대검",
+            "거인 학살자",
+            "수은"
+          ]
+        },
+        {
+          "name": "오로라",
+          "three_star": true,
+          "items": [
+            "보석 건틀릿",
+            "타격대의 철퇴",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "마오카이",
+          "three_star": true,
+          "items": [
+            "용의 발톱",
+            "저녁갑주",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "거대 메크 로봇",
+          "three_star": false,
+          "items": [
+            "가고일 돌갑옷",
+            "정령의 형상",
+            "스테락의 도전"
+          ]
+        },
+        {
+          "name": "라아스트",
+          "three_star": true,
+          "items": []
+        },
+        {
+          "name": "아칼리",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "A",
+      "Name": "저격수 자야",
+      "Level": "",
+      "Difficulty": "Medium",
+      "Avg Place": "4.29",
+      "Pick Rate": "0.72",
+      "Win Rate": "21.7%",
+      "Top 4 Rate": "52.0%",
+      "Units": [
+        "자야",
+        "누누와 윌럼프",
+        "람머스",
+        "진",
+        "바드",
+        "라아스트",
+        "나르",
+        "잭스",
+        "모데카이저"
+      ],
+      "UnitDetails": [
+        {
+          "name": "자야",
+          "three_star": false,
+          "items": [
+            "전투 토끼 석궁",
+            "구인수의 격노검",
+            "무한의 대검"
+          ]
+        },
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": [
+            "적응형 투구",
+            "수호자의 맹세",
+            "수호자의 맹세"
+          ]
+        },
+        {
+          "name": "람머스",
+          "three_star": false,
+          "items": [
+            "태양불꽃 망토",
+            "저녁갑주",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "진",
+          "three_star": false,
+          "items": [
+            "무한의 대검",
+            "최후의 속삭임",
+            "거인 학살자"
+          ]
+        },
+        {
+          "name": "바드",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "라아스트",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "나르",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "잭스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "A",
+      "Name": "정령족 베이가",
+      "Level": "5",
+      "Difficulty": "Medium",
+      "Avg Place": "4.32",
+      "Pick Rate": "0.13",
+      "Win Rate": "12.2%",
+      "Top 4 Rate": "52.9%",
+      "Units": [
+        "베이가",
+        "뽀삐",
+        "람머스",
+        "리산드라",
+        "코르키",
+        "일라오이",
+        "꼬마 정령",
+        "모데카이저"
+      ],
+      "UnitDetails": [
+        {
+          "name": "베이가",
+          "three_star": true,
+          "items": [
+            "보석 건틀릿",
+            "내셔의 이빨",
+            "내셔의 이빨"
+          ]
+        },
+        {
+          "name": "뽀삐",
+          "three_star": true,
+          "items": [
+            "크라운가드",
+            "수호자의 맹세",
+            "이온 충격기"
+          ]
+        },
+        {
+          "name": "람머스",
+          "three_star": false,
+          "items": [
+            "용의 발톱",
+            "수호자의 맹세",
+            "가고일 돌갑옷"
+          ]
+        },
+        {
+          "name": "리산드라",
+          "three_star": true,
+          "items": [
+            "보석 건틀릿",
+            "타격대의 철퇴",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "코르키",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "일라오이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "A",
+      "Name": "우주 그루브 사미라",
+      "Level": "7",
+      "Difficulty": "Medium",
+      "Avg Place": "4.38",
+      "Pick Rate": "0.19",
+      "Win Rate": "14.2%",
+      "Top 4 Rate": "51.5%",
+      "Units": [
+        "사미라",
+        "사미라",
+        "오른",
+        "오른",
+        "자야",
+        "누누와 윌럼프",
+        "블리츠크랭크",
+        "잭스"
+      ],
+      "UnitDetails": [
+        {
+          "name": "사미라",
+          "three_star": true,
+          "items": [
+            "죽음의 검",
+            "무한의 대검",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "사미라",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "오른",
+          "three_star": true,
+          "items": [
+            "용의 발톱",
+            "가고일 돌갑옷",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "오른",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "자야",
+          "three_star": false,
+          "items": [
+            "구인수의 격노검",
+            "최후의 속삭임",
+            "붉은 덩굴정령"
+          ]
+        },
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": [
+            "적응형 투구",
+            "수호자의 맹세",
+            "수호자의 맹세"
+          ]
+        },
+        {
+          "name": "블리츠크랭크",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "잭스",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "A",
+      "Name": "선봉대 레오나",
+      "Level": "5",
+      "Difficulty": "Medium",
+      "Avg Place": "4.39",
+      "Pick Rate": "0.07",
+      "Win Rate": "9.9%",
+      "Top 4 Rate": "52.6%",
+      "Units": [
+        "레오나",
+        "르블랑",
+        "티모",
+        "누누와 윌럼프",
+        "블리츠크랭크",
+        "일라오이",
+        "모데카이저",
+        "조이",
+        "나서스"
+      ],
+      "UnitDetails": [
+        {
+          "name": "레오나",
+          "three_star": true,
+          "items": [
+            "가고일 돌갑옷",
+            "가고일 돌갑옷",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "르블랑",
+          "three_star": false,
+          "items": [
+            "대천사의 지팡이",
+            "구인수의 격노검",
+            "거인 학살자"
+          ]
+        },
+        {
+          "name": "티모",
+          "three_star": true,
+          "items": [
+            "구인수의 격노검",
+            "마법공학 총검",
+            "거인 학살자"
+          ]
+        },
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": [
+            "수호자의 맹세",
+            "태양불꽃 망토",
+            "정령의 형상"
+          ]
+        },
+        {
+          "name": "블리츠크랭크",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "일라오이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "조이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "나서스",
+          "three_star": true,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "A",
+      "Name": "암흑의 별 카르마",
+      "Level": "",
+      "Difficulty": "Easy",
+      "Avg Place": "4.41",
+      "Pick Rate": "0.09",
+      "Win Rate": "11.7%",
+      "Top 4 Rate": "51.6%",
+      "Units": [
+        "카르마",
+        "탐 켄치",
+        "진",
+        "거대 메크 로봇",
+        "블리츠크랭크",
+        "카이사",
+        "모데카이저",
+        "초가스",
+        "리산드라"
+      ],
+      "UnitDetails": [
+        {
+          "name": "카르마",
+          "three_star": false,
+          "items": [
+            "저격수 상징",
+            "보석 건틀릿",
+            "내셔의 이빨"
+          ]
+        },
+        {
+          "name": "탐 켄치",
+          "three_star": false,
+          "items": [
+            "태양불꽃 망토",
+            "정령의 형상",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "진",
+          "three_star": false,
+          "items": [
+            "무한의 대검",
+            "최후의 속삭임",
+            "타격대의 철퇴"
+          ]
+        },
+        {
+          "name": "거대 메크 로봇",
+          "three_star": false,
+          "items": [
+            "가고일 돌갑옷",
+            "태양불꽃 망토",
+            "정령의 형상"
+          ]
+        },
+        {
+          "name": "블리츠크랭크",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "카이사",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "초가스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "리산드라",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "A",
+      "Name": "시간 균열자 파이크",
+      "Level": "6",
+      "Difficulty": "Easy",
+      "Avg Place": "4.42",
+      "Pick Rate": "0.05",
+      "Win Rate": "6.0%",
+      "Top 4 Rate": "53.2%",
+      "Units": [
+        "파이크",
+        "그웬",
+        "판테온",
+        "밀리오",
+        "코르키",
+        "리븐",
+        "그라가스",
+        "꼬마 정령"
+      ],
+      "UnitDetails": [
+        {
+          "name": "파이크",
+          "three_star": true,
+          "items": [
+            "표적 고정 광학 장치",
+            "밤의 끝자락",
+            "무한의 대검"
+          ]
+        },
+        {
+          "name": "그웬",
+          "three_star": true,
+          "items": [
+            "마법공학 총검",
+            "보석 건틀릿",
+            "라바돈의 죽음모자"
+          ]
+        },
+        {
+          "name": "판테온",
+          "three_star": true,
+          "items": [
+            "용의 발톱",
+            "가고일 돌갑옷",
+            "태양불꽃 망토"
+          ]
+        },
+        {
+          "name": "밀리오",
+          "three_star": true,
+          "items": [
+            "라바돈의 죽음모자",
+            "쇼진의 창",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "코르키",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "리븐",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "그라가스",
+          "three_star": true,
+          "items": []
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": true,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "A",
+      "Name": "우주 그루브 나미",
+      "Level": "",
+      "Difficulty": "Medium",
+      "Avg Place": "4.43",
+      "Pick Rate": "0.35",
+      "Win Rate": "14.6%",
+      "Top 4 Rate": "51.0%",
+      "Units": [
+        "리븐",
+        "나미",
+        "탐 켄치",
+        "블리츠크랭크",
+        "쉔",
+        "누누와 윌럼프",
+        "오른",
+        "그웬",
+        "판테온"
+      ],
+      "UnitDetails": [
+        {
+          "name": "리븐",
+          "three_star": false,
+          "items": [
+            "우주 그루브 상징",
+            "피바라기",
+            "거인의 결의"
+          ]
+        },
+        {
+          "name": "나미",
+          "three_star": false,
+          "items": [
+            "보석 건틀릿",
+            "내셔의 이빨",
+            "내셔의 이빨"
+          ]
+        },
+        {
+          "name": "탐 켄치",
+          "three_star": false,
+          "items": [
+            "굳건한 심장",
+            "태양불꽃 망토",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "블리츠크랭크",
+          "three_star": false,
+          "items": [
+            "보석 건틀릿",
+            "타격대의 철퇴",
+            "정의의 손길"
+          ]
+        },
+        {
+          "name": "쉔",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "오른",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "그웬",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "판테온",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "A",
+      "Name": "여행자 르블랑",
+      "Level": "",
+      "Difficulty": "Easy",
+      "Avg Place": "4.43",
+      "Pick Rate": "0.05",
+      "Win Rate": "10.8%",
+      "Top 4 Rate": "51.0%",
+      "Units": [
+        "르블랑",
+        "거대 메크 로봇",
+        "카르마",
+        "일라오이",
+        "모르가나",
+        "소나",
+        "꼬마 정령",
+        "레오나",
+        "리산드라"
+      ],
+      "UnitDetails": [
+        {
+          "name": "르블랑",
+          "three_star": false,
+          "items": [
+            "여행자 상징",
+            "구인수의 격노검",
+            "마법공학 총검"
+          ]
+        },
+        {
+          "name": "거대 메크 로봇",
+          "three_star": false,
+          "items": [
+            "가고일 돌갑옷",
+            "이온 충격기",
+            "태양불꽃 망토"
+          ]
+        },
+        {
+          "name": "카르마",
+          "three_star": false,
+          "items": [
+            "길잡이 상징",
+            "모렐로노미콘",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "일라오이",
+          "three_star": false,
+          "items": [
+            "가고일 돌갑옷",
+            "굳건한 심장",
+            "정령의 형상"
+          ]
+        },
+        {
+          "name": "모르가나",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "소나",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "레오나",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "리산드라",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "A",
+      "Name": "암흑의 별 자야",
+      "Level": "",
+      "Difficulty": "Medium",
+      "Avg Place": "4.46",
+      "Pick Rate": "0.09",
+      "Win Rate": "14.0%",
+      "Top 4 Rate": "50.3%",
+      "Units": [
+        "자야",
+        "누누와 윌럼프",
+        "진",
+        "카르마",
+        "탐 켄치",
+        "카이사",
+        "모데카이저",
+        "초가스",
+        "리산드라"
+      ],
+      "UnitDetails": [
+        {
+          "name": "자야",
+          "three_star": false,
+          "items": [
+            "전투 토끼 석궁",
+            "구인수의 격노검",
+            "무한의 대검"
+          ]
+        },
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": [
+            "적응형 투구",
+            "수호자의 맹세",
+            "수호자의 맹세"
+          ]
+        },
+        {
+          "name": "진",
+          "three_star": false,
+          "items": [
+            "무한의 대검",
+            "거인 학살자",
+            "타격대의 철퇴"
+          ]
+        },
+        {
+          "name": "카르마",
+          "three_star": false,
+          "items": [
+            "보석 건틀릿",
+            "모렐로노미콘",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "탐 켄치",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "카이사",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "초가스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "리산드라",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "A",
+      "Name": "불한당 카이사 피즈",
+      "Level": "7",
+      "Difficulty": "Easy",
+      "Avg Place": "4.46",
+      "Pick Rate": "0.04",
+      "Win Rate": "8.4%",
+      "Top 4 Rate": "51.1%",
+      "Units": [
+        "카이사",
+        "피즈",
+        "오른",
+        "마오카이",
+        "라아스트",
+        "아트록스",
+        "초가스"
+      ],
+      "UnitDetails": [
+        {
+          "name": "카이사",
+          "three_star": true,
+          "items": [
+            "죽음의 검",
+            "무한의 대검",
+            "타격대의 철퇴"
+          ]
+        },
+        {
+          "name": "피즈",
+          "three_star": true,
+          "items": [
+            "보석 건틀릿",
+            "내셔의 이빨",
+            "거인 학살자"
+          ]
+        },
+        {
+          "name": "오른",
+          "three_star": true,
+          "items": [
+            "용의 발톱",
+            "굳건한 심장",
+            "태양불꽃 망토"
+          ]
+        },
+        {
+          "name": "마오카이",
+          "three_star": true,
+          "items": [
+            "가고일 돌갑옷",
+            "정령의 형상",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "라아스트",
+          "three_star": true,
+          "items": []
+        },
+        {
+          "name": "아트록스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "초가스",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "A",
+      "Name": "정령족 코르키",
+      "Level": "",
+      "Difficulty": "Easy",
+      "Avg Place": "4.47",
+      "Pick Rate": "0.14",
+      "Win Rate": "15.8%",
+      "Top 4 Rate": "48.2%",
+      "Units": [
+        "코르키",
+        "람머스",
+        "리븐",
+        "거대 메크 로봇",
+        "피즈",
+        "꼬마 정령",
+        "밀리오",
+        "뽀삐"
+      ],
+      "UnitDetails": [
+        {
+          "name": "코르키",
+          "three_star": false,
+          "items": [
+            "불한당 상징",
+            "최후의 속삭임",
+            "거인 학살자"
+          ]
+        },
+        {
+          "name": "람머스",
+          "three_star": false,
+          "items": [
+            "수호자의 맹세",
+            "가고일 돌갑옷",
+            "굳건한 심장"
+          ]
+        },
+        {
+          "name": "리븐",
+          "three_star": false,
+          "items": [
+            "스테락의 도전",
+            "거인의 결의",
+            "정의의 손길"
+          ]
+        },
+        {
+          "name": "거대 메크 로봇",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "피즈",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "밀리오",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "뽀삐",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "B",
+      "Name": "습격자 킨드레드",
+      "Level": "",
+      "Difficulty": "Medium",
+      "Avg Place": "4.52",
+      "Pick Rate": "0.25",
+      "Win Rate": "10.7%",
+      "Top 4 Rate": "49.2%",
+      "Units": [
+        "킨드레드",
+        "마스터 이",
+        "탐 켄치",
+        "피오라",
+        "쉔",
+        "마오카이",
+        "아칼리",
+        "벨베스",
+        "아트록스"
+      ],
+      "UnitDetails": [
+        {
+          "name": "킨드레드",
+          "three_star": false,
+          "items": [
+            "습격자 상징",
+            "구인수의 격노검",
+            "크라켄의 분노"
+          ]
+        },
+        {
+          "name": "마스터 이",
+          "three_star": false,
+          "items": [
+            "밤의 끝자락",
+            "거인 학살자",
+            "정의의 손길"
+          ]
+        },
+        {
+          "name": "탐 켄치",
+          "three_star": false,
+          "items": [
+            "수호자의 맹세",
+            "태양불꽃 망토",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "피오라",
+          "three_star": false,
+          "items": [
+            "밤의 끝자락",
+            "거인 학살자",
+            "정의의 손길"
+          ]
+        },
+        {
+          "name": "쉔",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "마오카이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아칼리",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "벨베스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아트록스",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "B",
+      "Name": "불한당 카이사",
+      "Level": "7",
+      "Difficulty": "Easy",
+      "Avg Place": "4.53",
+      "Pick Rate": "0.16",
+      "Win Rate": "8.9%",
+      "Top 4 Rate": "49.4%",
+      "Units": [
+        "카이사",
+        "피즈",
+        "오른",
+        "라아스트",
+        "카르마",
+        "람머스",
+        "꼬마 정령"
+      ],
+      "UnitDetails": [
+        {
+          "name": "카이사",
+          "three_star": true,
+          "items": [
+            "죽음의 검",
+            "무한의 대검",
+            "타격대의 철퇴"
+          ]
+        },
+        {
+          "name": "피즈",
+          "three_star": true,
+          "items": [
+            "보석 건틀릿",
+            "내셔의 이빨",
+            "정의의 손길"
+          ]
+        },
+        {
+          "name": "오른",
+          "three_star": true,
+          "items": [
+            "수호자의 맹세",
+            "태양불꽃 망토",
+            "정령의 형상"
+          ]
+        },
+        {
+          "name": "라아스트",
+          "three_star": true,
+          "items": [
+            "가고일 돌갑옷",
+            "태양불꽃 망토",
+            "저녁갑주"
+          ]
+        },
+        {
+          "name": "카르마",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "람머스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "B",
+      "Name": "암흑의 별 카이사",
+      "Level": "7",
+      "Difficulty": "Easy",
+      "Avg Place": "4.66",
+      "Pick Rate": "0.05",
+      "Win Rate": "10.5%",
+      "Top 4 Rate": "46.4%",
+      "Units": [
+        "카이사",
+        "초가스",
+        "카르마",
+        "진",
+        "리븐",
+        "모데카이저",
+        "판테온",
+        "리산드라"
+      ],
+      "UnitDetails": [
+        {
+          "name": "카이사",
+          "three_star": true,
+          "items": [
+            "푸른 파수꾼",
+            "무한의 대검",
+            "타격대의 철퇴"
+          ]
+        },
+        {
+          "name": "초가스",
+          "three_star": true,
+          "items": [
+            "태양불꽃 망토",
+            "정령의 형상",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "카르마",
+          "three_star": false,
+          "items": [
+            "모렐로노미콘",
+            "라바돈의 죽음모자",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "진",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "리븐",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "판테온",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "리산드라",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "B",
+      "Name": "저격수 자야 탐 켄치",
+      "Level": "",
+      "Difficulty": "Easy",
+      "Avg Place": "4.66",
+      "Pick Rate": "0.05",
+      "Win Rate": "17.7%",
+      "Top 4 Rate": "46.2%",
+      "Units": [
+        "자야",
+        "탐 켄치",
+        "누누와 윌럼프",
+        "진",
+        "리븐",
+        "모데카이저",
+        "판테온",
+        "이즈리얼",
+        "탈론"
+      ],
+      "UnitDetails": [
+        {
+          "name": "자야",
+          "three_star": false,
+          "items": [
+            "전투 토끼 석궁",
+            "구인수의 격노검",
+            "무한의 대검"
+          ]
+        },
+        {
+          "name": "탐 켄치",
+          "three_star": false,
+          "items": [
+            "크라운가드",
+            "태양불꽃 망토",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": [
+            "적응형 투구",
+            "수호자의 맹세",
+            "수호자의 맹세"
+          ]
+        },
+        {
+          "name": "진",
+          "three_star": false,
+          "items": [
+            "무한의 대검",
+            "최후의 속삭임",
+            "타격대의 철퇴"
+          ]
+        },
+        {
+          "name": "리븐",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "판테온",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "이즈리얼",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "탈론",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "B",
+      "Name": "우주 그루브 오른",
+      "Level": "7",
+      "Difficulty": "Easy",
+      "Avg Place": "4.69",
+      "Pick Rate": "0.07",
+      "Win Rate": "7.8%",
+      "Top 4 Rate": "46.3%",
+      "Units": [
+        "오른",
+        "나미",
+        "사미라",
+        "블리츠크랭크",
+        "람머스",
+        "그웬",
+        "나서스",
+        "티모"
+      ],
+      "UnitDetails": [
+        {
+          "name": "오른",
+          "three_star": true,
+          "items": [
+            "용의 발톱",
+            "가고일 돌갑옷",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "나미",
+          "three_star": false,
+          "items": [
+            "거인 학살자",
+            "쇼진의 창",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "사미라",
+          "three_star": true,
+          "items": [
+            "무한의 대검",
+            "최후의 속삭임",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "블리츠크랭크",
+          "three_star": false,
+          "items": [
+            "피바라기",
+            "보석 건틀릿",
+            "정의의 손길"
+          ]
+        },
+        {
+          "name": "람머스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "그웬",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "나서스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "티모",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "B",
+      "Name": "전달자 미스 포츈 빅토르",
+      "Level": "7",
+      "Difficulty": "Easy",
+      "Avg Place": "4.70",
+      "Pick Rate": "0.04",
+      "Win Rate": "5.6%",
+      "Top 4 Rate": "46.1%",
+      "Units": [
+        "미스 포츈",
+        "빅토르",
+        "오른",
+        "마오카이",
+        "라아스트",
+        "그라가스",
+        "아트록스"
+      ],
+      "UnitDetails": [
+        {
+          "name": "미스 포츈",
+          "three_star": true,
+          "items": [
+            "무한의 대검",
+            "거인 학살자",
+            "크라켄의 분노"
+          ]
+        },
+        {
+          "name": "빅토르",
+          "three_star": true,
+          "items": [
+            "대천사의 지팡이",
+            "대천사의 지팡이",
+            "보석 건틀릿"
+          ]
+        },
+        {
+          "name": "오른",
+          "three_star": true,
+          "items": [
+            "용의 발톱",
+            "정령의 형상",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "마오카이",
+          "three_star": true,
+          "items": [
+            "가고일 돌갑옷",
+            "굳건한 심장",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "라아스트",
+          "three_star": true,
+          "items": []
+        },
+        {
+          "name": "그라가스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아트록스",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "B",
+      "Name": "시간 균열자 룰루",
+      "Level": "7",
+      "Difficulty": "Easy",
+      "Avg Place": "4.70",
+      "Pick Rate": "0.05",
+      "Win Rate": "11.0%",
+      "Top 4 Rate": "45.6%",
+      "Units": [
+        "룰루",
+        "마오카이",
+        "밀리오",
+        "잭스",
+        "라아스트",
+        "판테온",
+        "아트록스",
+        "트위스티드 페이트"
+      ],
+      "UnitDetails": [
+        {
+          "name": "룰루",
+          "three_star": true,
+          "items": [
+            "대천사의 지팡이",
+            "내셔의 이빨",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "마오카이",
+          "three_star": true,
+          "items": [
+            "용의 발톱",
+            "정령의 형상",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "밀리오",
+          "three_star": true,
+          "items": [
+            "모렐로노미콘",
+            "라바돈의 죽음모자",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "잭스",
+          "three_star": true,
+          "items": [
+            "크라운가드",
+            "가고일 돌갑옷",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "라아스트",
+          "three_star": true,
+          "items": []
+        },
+        {
+          "name": "판테온",
+          "three_star": true,
+          "items": []
+        },
+        {
+          "name": "아트록스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "트위스티드 페이트",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "B",
+      "Name": "여행자 나미",
+      "Level": "",
+      "Difficulty": "Easy",
+      "Avg Place": "4.71",
+      "Pick Rate": "0.05",
+      "Win Rate": "8.4%",
+      "Top 4 Rate": "45.8%",
+      "Units": [
+        "나미",
+        "카르마",
+        "누누와 윌럼프",
+        "일라오이",
+        "거대 메크 로봇",
+        "라아스트",
+        "꼬마 정령",
+        "리산드라"
+      ],
+      "UnitDetails": [
+        {
+          "name": "나미",
+          "three_star": false,
+          "items": [
+            "여행자 상징",
+            "보석 건틀릿",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "카르마",
+          "three_star": false,
+          "items": [
+            "모렐로노미콘",
+            "쇼진의 창",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": [
+            "적응형 투구",
+            "적응형 투구",
+            "수호자의 맹세"
+          ]
+        },
+        {
+          "name": "일라오이",
+          "three_star": false,
+          "items": [
+            "가고일 돌갑옷",
+            "태양불꽃 망토",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "거대 메크 로봇",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "라아스트",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "리산드라",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "B",
+      "Name": "메카 거대 메크 로봇",
+      "Level": "",
+      "Difficulty": "Medium",
+      "Avg Place": "4.74",
+      "Pick Rate": "0.29",
+      "Win Rate": "15.9%",
+      "Top 4 Rate": "44.8%",
+      "Units": [
+        "거대 메크 로봇",
+        "아우렐리온 솔",
+        "우르곳",
+        "탐 켄치",
+        "피오라",
+        "카르마"
+      ],
+      "UnitDetails": [
+        {
+          "name": "거대 메크 로봇",
+          "three_star": false,
+          "items": [
+            "얼음작렬 갑옷",
+            "사자의 비가",
+            "가고일 돌갑옷"
+          ]
+        },
+        {
+          "name": "아우렐리온 솔",
+          "three_star": false,
+          "items": [
+            "보석 건틀릿",
+            "타격대의 철퇴",
+            "라바돈의 죽음모자"
+          ]
+        },
+        {
+          "name": "우르곳",
+          "three_star": false,
+          "items": [
+            "무한의 대검",
+            "최후의 속삭임",
+            "정의의 손길"
+          ]
+        },
+        {
+          "name": "탐 켄치",
+          "three_star": false,
+          "items": [
+            "수호자의 맹세",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "피오라",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "카르마",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "C",
+      "Name": "태고족 브라이어",
+      "Level": "5",
+      "Difficulty": "Medium",
+      "Avg Place": "4.76",
+      "Pick Rate": "0.09",
+      "Win Rate": "8.0%",
+      "Top 4 Rate": "46.2%",
+      "Units": [
+        "브라이어",
+        "벨베스",
+        "렉사이",
+        "카이사",
+        "킨드레드",
+        "탐 켄치",
+        "라아스트",
+        "아칼리"
+      ],
+      "UnitDetails": [
+        {
+          "name": "브라이어",
+          "three_star": true,
+          "items": [
+            "피바라기",
+            "스테락의 도전",
+            "거인의 결의"
+          ]
+        },
+        {
+          "name": "벨베스",
+          "three_star": true,
+          "items": [
+            "거인 학살자",
+            "수은",
+            "크라켄의 분노"
+          ]
+        },
+        {
+          "name": "렉사이",
+          "three_star": true,
+          "items": [
+            "수호자의 맹세",
+            "태양불꽃 망토",
+            "저녁갑주"
+          ]
+        },
+        {
+          "name": "카이사",
+          "three_star": false,
+          "items": [
+            "무한의 대검",
+            "최후의 속삭임",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "킨드레드",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "탐 켄치",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "라아스트",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아칼리",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "C",
+      "Name": "불한당 리븐",
+      "Level": "",
+      "Difficulty": "Easy",
+      "Avg Place": "4.77",
+      "Pick Rate": "0.02",
+      "Win Rate": "6.4%",
+      "Top 4 Rate": "45.6%",
+      "Units": [
+        "리븐",
+        "카이사",
+        "벨베스",
+        "그웬",
+        "브라이어",
+        "초가스",
+        "렉사이",
+        "탈론"
+      ],
+      "UnitDetails": [
+        {
+          "name": "리븐",
+          "three_star": false,
+          "items": [
+            "암흑의 별 상징",
+            "피바라기",
+            "수은"
+          ]
+        },
+        {
+          "name": "카이사",
+          "three_star": true,
+          "items": [
+            "무한의 대검",
+            "최후의 속삭임",
+            "거인 학살자"
+          ]
+        },
+        {
+          "name": "벨베스",
+          "three_star": true,
+          "items": []
+        },
+        {
+          "name": "그웬",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "브라이어",
+          "three_star": true,
+          "items": []
+        },
+        {
+          "name": "초가스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "렉사이",
+          "three_star": true,
+          "items": []
+        },
+        {
+          "name": "탈론",
+          "three_star": true,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "C",
+      "Name": "메카 거대 메크 로봇 아우렐리온 솔",
+      "Level": "",
+      "Difficulty": "Easy",
+      "Avg Place": "4.79",
+      "Pick Rate": "0.07",
+      "Win Rate": "13.9%",
+      "Top 4 Rate": "42.7%",
+      "Units": [
+        "거대 메크 로봇",
+        "아우렐리온 솔",
+        "마스터 이",
+        "탐 켄치",
+        "우르곳",
+        "빅토르"
+      ],
+      "UnitDetails": [
+        {
+          "name": "거대 메크 로봇",
+          "three_star": false,
+          "items": [
+            "사자의 비가",
+            "가고일 돌갑옷",
+            "스테락의 도전"
+          ]
+        },
+        {
+          "name": "아우렐리온 솔",
+          "three_star": false,
+          "items": [
+            "푸른 파수꾼",
+            "보석 건틀릿",
+            "라바돈의 죽음모자"
+          ]
+        },
+        {
+          "name": "마스터 이",
+          "three_star": false,
+          "items": [
+            "피바라기",
+            "밤의 끝자락",
+            "스테락의 도전"
+          ]
+        },
+        {
+          "name": "탐 켄치",
+          "three_star": false,
+          "items": [
+            "용의 발톱",
+            "태양불꽃 망토",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "우르곳",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "빅토르",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "C",
+      "Name": "선봉대 벡스",
+      "Level": "",
+      "Difficulty": "Hard",
+      "Avg Place": "4.79",
+      "Pick Rate": "0.63",
+      "Win Rate": "13.2%",
+      "Top 4 Rate": "45.1%",
+      "Units": [
+        "벡스",
+        "누누와 윌럼프",
+        "그레이브즈",
+        "블리츠크랭크",
+        "피오라",
+        "모르가나",
+        "쉔",
+        "아칼리",
+        "아트록스"
+      ],
+      "UnitDetails": [
+        {
+          "name": "벡스",
+          "three_star": false,
+          "items": [
+            "구인수의 격노검",
+            "마법공학 총검",
+            "거인 학살자"
+          ]
+        },
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": [
+            "수호자의 맹세",
+            "수호자의 맹세",
+            "정령의 형상"
+          ]
+        },
+        {
+          "name": "그레이브즈",
+          "three_star": false,
+          "items": [
+            "전투 토끼 석궁",
+            "구인수의 격노검",
+            "무한의 대검"
+          ]
+        },
+        {
+          "name": "블리츠크랭크",
+          "three_star": false,
+          "items": [
+            "크라운가드"
+          ]
+        },
+        {
+          "name": "피오라",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모르가나",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "쉔",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아칼리",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아트록스",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "C",
+      "Name": "요새 코르키",
+      "Level": "",
+      "Difficulty": "Easy",
+      "Avg Place": "4.80",
+      "Pick Rate": "0.03",
+      "Win Rate": "8.3%",
+      "Top 4 Rate": "44.0%",
+      "Units": [
+        "코르키",
+        "람머스",
+        "트위스티드 페이트",
+        "잭스",
+        "밀리오",
+        "아트록스",
+        "케이틀린",
+        "뽀삐"
+      ],
+      "UnitDetails": [
+        {
+          "name": "코르키",
+          "three_star": false,
+          "items": [
+            "타격대의 철퇴",
+            "타격대의 철퇴",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "람머스",
+          "three_star": false,
+          "items": [
+            "적응형 투구",
+            "덤불 조끼",
+            "가고일 돌갑옷"
+          ]
+        },
+        {
+          "name": "트위스티드 페이트",
+          "three_star": true,
+          "items": [
+            "내셔의 이빨",
+            "내셔의 이빨",
+            "라바돈의 죽음모자"
+          ]
+        },
+        {
+          "name": "잭스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "밀리오",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아트록스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "케이틀린",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "뽀삐",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "C",
+      "Name": "요새 람머스",
+      "Level": "",
+      "Difficulty": "Hard",
+      "Avg Place": "4.81",
+      "Pick Rate": "0.18",
+      "Win Rate": "12.4%",
+      "Top 4 Rate": "43.7%",
+      "Units": [
+        "람머스",
+        "벡스",
+        "바드",
+        "블리츠크랭크",
+        "쉔",
+        "카르마",
+        "라아스트",
+        "꼬마 정령",
+        "모데카이저"
+      ],
+      "UnitDetails": [
+        {
+          "name": "람머스",
+          "three_star": false,
+          "items": [
+            "덤불 조끼",
+            "수호자의 맹세",
+            "태양불꽃 망토"
+          ]
+        },
+        {
+          "name": "벡스",
+          "three_star": false,
+          "items": [
+            "구인수의 격노검",
+            "마법공학 총검",
+            "거인 학살자"
+          ]
+        },
+        {
+          "name": "바드",
+          "three_star": false,
+          "items": [
+            "라바돈의 죽음모자",
+            "쇼진의 창",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "블리츠크랭크",
+          "three_star": false,
+          "items": [
+            "보석 건틀릿",
+            "타격대의 철퇴",
+            "정의의 손길"
+          ]
+        },
+        {
+          "name": "쉔",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "카르마",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "라아스트",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "C",
+      "Name": "시간 균열자 이즈리얼",
+      "Level": "5",
+      "Difficulty": "Easy",
+      "Avg Place": "4.82",
+      "Pick Rate": "0.14",
+      "Win Rate": "11.1%",
+      "Top 4 Rate": "42.6%",
+      "Units": [
+        "이즈리얼",
+        "초가스",
+        "리븐",
+        "판테온",
+        "탐 켄치",
+        "카이사",
+        "마오카이",
+        "밀리오"
+      ],
+      "UnitDetails": [
+        {
+          "name": "이즈리얼",
+          "three_star": true,
+          "items": [
+            "암흑의 별 상징",
+            "무한의 대검",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "초가스",
+          "three_star": true,
+          "items": [
+            "수호자의 맹세",
+            "가고일 돌갑옷",
+            "정령의 형상"
+          ]
+        },
+        {
+          "name": "리븐",
+          "three_star": false,
+          "items": [
+            "피바라기",
+            "스테락의 도전",
+            "거인의 결의"
+          ]
+        },
+        {
+          "name": "판테온",
+          "three_star": true,
+          "items": [
+            "태양불꽃 망토",
+            "정령의 형상",
+            "저녁갑주"
+          ]
+        },
+        {
+          "name": "탐 켄치",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "카이사",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "마오카이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "밀리오",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "C",
+      "Name": "우주 그루브 나미 누누와 윌럼프",
+      "Level": "",
+      "Difficulty": "Easy",
+      "Avg Place": "4.85",
+      "Pick Rate": "0.03",
+      "Win Rate": "8.0%",
+      "Top 4 Rate": "43.8%",
+      "Units": [
+        "나미",
+        "누누와 윌럼프",
+        "블리츠크랭크",
+        "오른",
+        "일라오이",
+        "리산드라",
+        "나서스",
+        "티모"
+      ],
+      "UnitDetails": [
+        {
+          "name": "나미",
+          "three_star": false,
+          "items": [
+            "거인 학살자",
+            "쇼진의 창",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": [
+            "수호자의 맹세",
+            "수호자의 맹세",
+            "수호자의 맹세"
+          ]
+        },
+        {
+          "name": "블리츠크랭크",
+          "three_star": false,
+          "items": [
+            "보석 건틀릿",
+            "거인의 결의",
+            "정의의 손길"
+          ]
+        },
+        {
+          "name": "오른",
+          "three_star": false,
+          "items": [
+            "가고일 돌갑옷",
+            "정령의 형상",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "일라오이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "리산드라",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "나서스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "티모",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "C",
+      "Name": "암흑의 별 누누와 윌럼프",
+      "Level": "",
+      "Difficulty": "Easy",
+      "Avg Place": "4.86",
+      "Pick Rate": "0.06",
+      "Win Rate": "9.7%",
+      "Top 4 Rate": "42.7%",
+      "Units": [
+        "누누와 윌럼프",
+        "카르마",
+        "벡스",
+        "블리츠크랭크",
+        "바드",
+        "소나",
+        "일라오이",
+        "꼬마 정령",
+        "모데카이저"
+      ],
+      "UnitDetails": [
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": [
+            "수호자의 맹세",
+            "이온 충격기",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "카르마",
+          "three_star": false,
+          "items": [
+            "적응형 투구",
+            "쇼진의 창",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "벡스",
+          "three_star": false,
+          "items": [
+            "구인수의 격노검",
+            "보석 건틀릿",
+            "타격대의 철퇴"
+          ]
+        },
+        {
+          "name": "블리츠크랭크",
+          "three_star": false,
+          "items": [
+            "암흑의 별 상징"
+          ]
+        },
+        {
+          "name": "바드",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "소나",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "일라오이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "C",
+      "Name": "정령족 람머스",
+      "Level": "",
+      "Difficulty": "Easy",
+      "Avg Place": "4.86",
+      "Pick Rate": "0.14",
+      "Win Rate": "12.1%",
+      "Top 4 Rate": "40.5%",
+      "Units": [
+        "람머스",
+        "베이가",
+        "코르키",
+        "바드",
+        "나미",
+        "피즈",
+        "꼬마 정령",
+        "뽀삐"
+      ],
+      "UnitDetails": [
+        {
+          "name": "람머스",
+          "three_star": false,
+          "items": [
+            "덤불 조끼",
+            "가고일 돌갑옷",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "베이가",
+          "three_star": true,
+          "items": [
+            "보석 건틀릿",
+            "거인 학살자",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "코르키",
+          "three_star": false,
+          "items": [
+            "죽음의 검",
+            "무한의 대검",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "바드",
+          "three_star": false,
+          "items": [
+            "라바돈의 죽음모자",
+            "쇼진의 창",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "나미",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "피즈",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "뽀삐",
+          "three_star": true,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "C",
+      "Name": "선봉대 조이",
+      "Level": "6",
+      "Difficulty": "Medium",
+      "Avg Place": "4.87",
+      "Pick Rate": "0.05",
+      "Win Rate": "7.3%",
+      "Top 4 Rate": "42.6%",
+      "Units": [
+        "조이",
+        "레오나",
+        "르블랑",
+        "모데카이저",
+        "카르마",
+        "누누와 윌럼프",
+        "일라오이",
+        "꼬마 정령"
+      ],
+      "UnitDetails": [
+        {
+          "name": "조이",
+          "three_star": true,
+          "items": [
+            "모렐로노미콘",
+            "쇼진의 창",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "레오나",
+          "three_star": true,
+          "items": [
+            "가고일 돌갑옷",
+            "가고일 돌갑옷",
+            "굳건한 심장"
+          ]
+        },
+        {
+          "name": "르블랑",
+          "three_star": false,
+          "items": [
+            "대천사의 지팡이",
+            "구인수의 격노검",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "모데카이저",
+          "three_star": true,
+          "items": [
+            "가고일 돌갑옷",
+            "정령의 형상",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "카르마",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "일라오이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "C",
+      "Name": "습격자 마스터 이",
+      "Level": "",
+      "Difficulty": "Medium",
+      "Avg Place": "4.88",
+      "Pick Rate": "0.04",
+      "Win Rate": "8.4%",
+      "Top 4 Rate": "43.1%",
+      "Units": [
+        "마스터 이",
+        "탐 켄치",
+        "피오라",
+        "소나",
+        "마오카이",
+        "우르곳",
+        "빅토르",
+        "아칼리",
+        "그라가스"
+      ],
+      "UnitDetails": [
+        {
+          "name": "마스터 이",
+          "three_star": false,
+          "items": [
+            "밤의 끝자락",
+            "거인 학살자",
+            "정의의 손길"
+          ]
+        },
+        {
+          "name": "탐 켄치",
+          "three_star": false,
+          "items": [
+            "수호자의 맹세",
+            "태양불꽃 망토",
+            "저녁갑주"
+          ]
+        },
+        {
+          "name": "피오라",
+          "three_star": false,
+          "items": [
+            "밤의 끝자락",
+            "타격대의 철퇴",
+            "정의의 손길"
+          ]
+        },
+        {
+          "name": "소나",
+          "three_star": false,
+          "items": [
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "마오카이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "우르곳",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "빅토르",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아칼리",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "그라가스",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "C",
+      "Name": "여행자 파이크",
+      "Level": "6",
+      "Difficulty": "Easy",
+      "Avg Place": "4.88",
+      "Pick Rate": "0.05",
+      "Win Rate": "4.8%",
+      "Top 4 Rate": "42.8%",
+      "Units": [
+        "파이크",
+        "그라가스",
+        "카르마",
+        "소나",
+        "마스터 이",
+        "탐 켄치",
+        "꼬마 정령",
+        "리산드라"
+      ],
+      "UnitDetails": [
+        {
+          "name": "파이크",
+          "three_star": true,
+          "items": [
+            "밤의 끝자락",
+            "무한의 대검",
+            "정의의 손길"
+          ]
+        },
+        {
+          "name": "그라가스",
+          "three_star": true,
+          "items": [
+            "덤불 조끼",
+            "가고일 돌갑옷",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "카르마",
+          "three_star": false,
+          "items": [
+            "모렐로노미콘",
+            "쇼진의 창",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "소나",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "마스터 이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "탐 켄치",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": true,
+          "items": []
+        },
+        {
+          "name": "리산드라",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "C",
+      "Name": "초능력 일라오이",
+      "Level": "7",
+      "Difficulty": "Easy",
+      "Avg Place": "4.91",
+      "Pick Rate": "0.02",
+      "Win Rate": "7.9%",
+      "Top 4 Rate": "41.5%",
+      "Units": [
+        "빅토르",
+        "마스터 이",
+        "일라오이",
+        "그라가스",
+        "꼬마 정령",
+        "모데카이저",
+        "파이크",
+        "리산드라"
+      ],
+      "UnitDetails": [
+        {
+          "name": "빅토르",
+          "three_star": true,
+          "items": [
+            "드론 업링크",
+            "대천사의 지팡이",
+            "보석 건틀릿"
+          ]
+        },
+        {
+          "name": "마스터 이",
+          "three_star": false,
+          "items": [
+            "밤의 끝자락",
+            "거인 학살자",
+            "수은"
+          ]
+        },
+        {
+          "name": "일라오이",
+          "three_star": false,
+          "items": [
+            "덤불 조끼",
+            "용의 발톱",
+            "가고일 돌갑옷"
+          ]
+        },
+        {
+          "name": "그라가스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "파이크",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "리산드라",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "C",
+      "Name": "선봉대 자야",
+      "Level": "",
+      "Difficulty": "Easy",
+      "Avg Place": "4.97",
+      "Pick Rate": "0.20",
+      "Win Rate": "15.6%",
+      "Top 4 Rate": "41.9%",
+      "Units": [
+        "자야",
+        "누누와 윌럼프",
+        "진",
+        "피오라",
+        "아칼리",
+        "잭스",
+        "모데카이저",
+        "아트록스"
+      ],
+      "UnitDetails": [
+        {
+          "name": "자야",
+          "three_star": false,
+          "items": [
+            "전투 토끼 석궁",
+            "구인수의 격노검",
+            "무한의 대검"
+          ]
+        },
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": [
+            "이상 현상",
+            "수호자의 맹세",
+            "수호자의 맹세"
+          ]
+        },
+        {
+          "name": "진",
+          "three_star": false,
+          "items": [
+            "별돌보미 상징",
+            "죽음의 검",
+            "무한의 대검"
+          ]
+        },
+        {
+          "name": "피오라",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아칼리",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "잭스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아트록스",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "D",
+      "Name": "예언자 탐 켄치",
+      "Level": "",
+      "Difficulty": "Hard",
+      "Avg Place": "5.02",
+      "Pick Rate": "0.12",
+      "Win Rate": "12.1%",
+      "Top 4 Rate": "40.0%",
+      "Units": [
+        "탐 켄치",
+        "벡스",
+        "그레이브즈",
+        "피오라",
+        "모르가나",
+        "쉔",
+        "마오카이",
+        "아칼리",
+        "아트록스"
+      ],
+      "UnitDetails": [
+        {
+          "name": "탐 켄치",
+          "three_star": false,
+          "items": [
+            "덤불 조끼",
+            "정령의 형상",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "벡스",
+          "three_star": false,
+          "items": [
+            "구인수의 격노검",
+            "구인수의 격노검",
+            "거인 학살자"
+          ]
+        },
+        {
+          "name": "그레이브즈",
+          "three_star": false,
+          "items": [
+            "전투 토끼 석궁",
+            "구인수의 격노검",
+            "무한의 대검"
+          ]
+        },
+        {
+          "name": "피오라",
+          "three_star": false,
+          "items": [
+            "밤의 끝자락",
+            "스테락의 도전",
+            "정의의 손길"
+          ]
+        },
+        {
+          "name": "모르가나",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "쉔",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "마오카이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아칼리",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아트록스",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "D",
+      "Name": "싸움꾼 미스 포츈",
+      "Level": "7",
+      "Difficulty": "Easy",
+      "Avg Place": "5.05",
+      "Pick Rate": "0.01",
+      "Win Rate": "5.2%",
+      "Top 4 Rate": "39.2%",
+      "Units": [
+        "미스 포츈",
+        "마오카이",
+        "라아스트",
+        "리븐",
+        "쉔",
+        "그웬",
+        "판테온",
+        "아트록스"
+      ],
+      "UnitDetails": [
+        {
+          "name": "미스 포츈",
+          "three_star": true,
+          "items": [
+            "죽음의 검",
+            "무한의 대검",
+            "거인 학살자"
+          ]
+        },
+        {
+          "name": "마오카이",
+          "three_star": true,
+          "items": [
+            "태양불꽃 망토",
+            "정령의 형상",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "라아스트",
+          "three_star": true,
+          "items": [
+            "가고일 돌갑옷",
+            "태양불꽃 망토",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "리븐",
+          "three_star": false,
+          "items": [
+            "피바라기",
+            "거인의 결의",
+            "정의의 손길"
+          ]
+        },
+        {
+          "name": "쉔",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "그웬",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "판테온",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아트록스",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "D",
+      "Name": "중재자 일라오이",
+      "Level": "7",
+      "Difficulty": "Easy",
+      "Avg Place": "5.08",
+      "Pick Rate": "0.05",
+      "Win Rate": "11.5%",
+      "Top 4 Rate": "38.7%",
+      "Units": [
+        "일라오이",
+        "다이애나",
+        "오로라",
+        "징크스",
+        "르블랑",
+        "꼬마 정령",
+        "레오나"
+      ],
+      "UnitDetails": [
+        {
+          "name": "일라오이",
+          "three_star": true,
+          "items": [
+            "가고일 돌갑옷",
+            "이온 충격기",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "다이애나",
+          "three_star": true,
+          "items": [
+            "회오리 칼날",
+            "피바라기",
+            "거인의 결의"
+          ]
+        },
+        {
+          "name": "오로라",
+          "three_star": true,
+          "items": [
+            "타오르는 단궁",
+            "푸른 파수꾼",
+            "보석 건틀릿"
+          ]
+        },
+        {
+          "name": "징크스",
+          "three_star": true,
+          "items": [
+            "전투 토끼 석궁",
+            "구인수의 격노검",
+            "무한의 대검"
+          ]
+        },
+        {
+          "name": "르블랑",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "레오나",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "D",
+      "Name": "별돌보미 - The Mountain 자야",
+      "Level": "",
+      "Difficulty": "Easy",
+      "Avg Place": "5.12",
+      "Pick Rate": "0.03",
+      "Win Rate": "7.6%",
+      "Top 4 Rate": "36.8%",
+      "Units": [
+        "자야",
+        "누누와 윌럼프",
+        "리븐",
+        "잭스",
+        "진",
+        "룰루",
+        "모데카이저",
+        "탈론"
+      ],
+      "UnitDetails": [
+        {
+          "name": "자야",
+          "three_star": false,
+          "items": [
+            "구인수의 격노검",
+            "붉은 덩굴정령",
+            "크라켄의 분노"
+          ]
+        },
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": [
+            "이상 현상",
+            "수호자의 맹세",
+            "태양불꽃 망토"
+          ]
+        },
+        {
+          "name": "리븐",
+          "three_star": false,
+          "items": [
+            "별돌보미 상징",
+            "피바라기",
+            "수은"
+          ]
+        },
+        {
+          "name": "잭스",
+          "three_star": false,
+          "items": [
+            "가고일 돌갑옷",
+            "태양불꽃 망토",
+            "정령의 형상"
+          ]
+        },
+        {
+          "name": "진",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "룰루",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "탈론",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "D",
+      "Name": "길잡이 일라오이",
+      "Level": "",
+      "Difficulty": "Easy",
+      "Avg Place": "5.13",
+      "Pick Rate": "0.04",
+      "Win Rate": "6.6%",
+      "Top 4 Rate": "37.9%",
+      "Units": [
+        "일라오이",
+        "벡스",
+        "소나",
+        "바드",
+        "블리츠크랭크",
+        "카르마",
+        "누누와 윌럼프",
+        "꼬마 정령",
+        "모데카이저"
+      ],
+      "UnitDetails": [
+        {
+          "name": "일라오이",
+          "three_star": false,
+          "items": [
+            "가고일 돌갑옷",
+            "이온 충격기",
+            "태양불꽃 망토"
+          ]
+        },
+        {
+          "name": "벡스",
+          "three_star": false,
+          "items": [
+            "대천사의 지팡이",
+            "구인수의 격노검",
+            "거인 학살자"
+          ]
+        },
+        {
+          "name": "소나",
+          "three_star": false,
+          "items": [
+            "거인 학살자",
+            "쇼진의 창",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "바드",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "블리츠크랭크",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "카르마",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "D",
+      "Name": "여행자 거대 메크 로봇",
+      "Level": "",
+      "Difficulty": "Medium",
+      "Avg Place": "5.16",
+      "Pick Rate": "0.04",
+      "Win Rate": "7.6%",
+      "Top 4 Rate": "37.7%",
+      "Units": [
+        "거대 메크 로봇",
+        "카르마",
+        "진",
+        "일라오이",
+        "카이사",
+        "꼬마 정령",
+        "모데카이저",
+        "초가스",
+        "리산드라"
+      ],
+      "UnitDetails": [
+        {
+          "name": "거대 메크 로봇",
+          "three_star": false,
+          "items": [
+            "이상 현상",
+            "가고일 돌갑옷",
+            "스테락의 도전"
+          ]
+        },
+        {
+          "name": "카르마",
+          "three_star": false,
+          "items": [
+            "보석 건틀릿",
+            "내셔의 이빨",
+            "거인 학살자"
+          ]
+        },
+        {
+          "name": "진",
+          "three_star": false,
+          "items": [
+            "무한의 대검",
+            "최후의 속삭임",
+            "거인 학살자"
+          ]
+        },
+        {
+          "name": "일라오이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "카이사",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "초가스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "리산드라",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "D",
+      "Name": "전달자 미스 포츈",
+      "Level": "7",
+      "Difficulty": "Easy",
+      "Avg Place": "5.27",
+      "Pick Rate": "0.01",
+      "Win Rate": "3.3%",
+      "Top 4 Rate": "34.8%",
+      "Units": [
+        "미스 포츈",
+        "빅토르",
+        "일라오이",
+        "누누와 윌럼프",
+        "아우렐리온 솔",
+        "모데카이저",
+        "조이",
+        "레오나"
+      ],
+      "UnitDetails": [
+        {
+          "name": "미스 포츈",
+          "three_star": true,
+          "items": [
+            "무한의 대검",
+            "무한의 대검",
+            "거인 학살자"
+          ]
+        },
+        {
+          "name": "빅토르",
+          "three_star": true,
+          "items": [
+            "보석 건틀릿",
+            "라바돈의 죽음모자",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "일라오이",
+          "three_star": true,
+          "items": [
+            "용의 발톱",
+            "가고일 돌갑옷",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": [
+            "수호자의 맹세",
+            "태양불꽃 망토",
+            "정령의 형상"
+          ]
+        },
+        {
+          "name": "아우렐리온 솔",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "조이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "레오나",
+          "three_star": true,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "D",
+      "Name": "복제자 룰루",
+      "Level": "7",
+      "Difficulty": "Easy",
+      "Avg Place": "5.30",
+      "Pick Rate": "0.02",
+      "Win Rate": "6.2%",
+      "Top 4 Rate": "34.6%",
+      "Units": [
+        "룰루",
+        "오른",
+        "미스 포츈",
+        "누누와 윌럼프",
+        "일라오이",
+        "라아스트",
+        "잭스"
+      ],
+      "UnitDetails": [
+        {
+          "name": "룰루",
+          "three_star": true,
+          "items": [
+            "대천사의 지팡이",
+            "푸른 파수꾼",
+            "보석 건틀릿"
+          ]
+        },
+        {
+          "name": "오른",
+          "three_star": true,
+          "items": [
+            "덤불 조끼",
+            "가고일 돌갑옷",
+            "정령의 형상"
+          ]
+        },
+        {
+          "name": "미스 포츈",
+          "three_star": true,
+          "items": [
+            "무한의 대검",
+            "붉은 덩굴정령",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": [
+            "수호자의 맹세",
+            "가고일 돌갑옷",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "일라오이",
+          "three_star": true,
+          "items": []
+        },
+        {
+          "name": "라아스트",
+          "three_star": true,
+          "items": []
+        },
+        {
+          "name": "잭스",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "D",
+      "Name": "시간 균열자 판테온",
+      "Level": "6",
+      "Difficulty": "Easy",
+      "Avg Place": "5.35",
+      "Pick Rate": "0.02",
+      "Win Rate": "5.7%",
+      "Top 4 Rate": "34.7%",
+      "Units": [
+        "판테온",
+        "이즈리얼",
+        "리븐",
+        "밀리오",
+        "탐 켄치",
+        "자야",
+        "마오카이",
+        "초가스"
+      ],
+      "UnitDetails": [
+        {
+          "name": "판테온",
+          "three_star": true,
+          "items": [
+            "태양불꽃 망토",
+            "정령의 형상",
+            "저녁갑주"
+          ]
+        },
+        {
+          "name": "이즈리얼",
+          "three_star": true,
+          "items": [
+            "무한의 대검",
+            "거인 학살자",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "리븐",
+          "three_star": false,
+          "items": [
+            "피바라기",
+            "스테락의 도전",
+            "거인의 결의"
+          ]
+        },
+        {
+          "name": "밀리오",
+          "three_star": true,
+          "items": [
+            "보석 건틀릿",
+            "거인 학살자",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "탐 켄치",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "자야",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "마오카이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "초가스",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "D",
+      "Name": "싸움꾼 우르곳",
+      "Level": "7",
+      "Difficulty": "Medium",
+      "Avg Place": "5.42",
+      "Pick Rate": "0.02",
+      "Win Rate": "4.7%",
+      "Top 4 Rate": "33.0%",
+      "Units": [
+        "우르곳",
+        "마오카이",
+        "마스터 이",
+        "피오라",
+        "탐 켄치",
+        "아칼리",
+        "그라가스"
+      ],
+      "UnitDetails": [
+        {
+          "name": "우르곳",
+          "three_star": true,
+          "items": [
+            "무한의 대검",
+            "수은",
+            "스테락의 도전"
+          ]
+        },
+        {
+          "name": "마오카이",
+          "three_star": true,
+          "items": [
+            "굳건한 심장",
+            "태양불꽃 망토",
+            "저녁갑주"
+          ]
+        },
+        {
+          "name": "마스터 이",
+          "three_star": false,
+          "items": [
+            "싸움꾼 상징",
+            "밤의 끝자락",
+            "정의의 손길"
+          ]
+        },
+        {
+          "name": "피오라",
+          "three_star": false,
+          "items": [
+            "수은",
+            "스테락의 도전",
+            "정의의 손길"
+          ]
+        },
+        {
+          "name": "탐 켄치",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아칼리",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "그라가스",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "D",
+      "Name": "초능력 빅토르",
+      "Level": "7",
+      "Difficulty": "Easy",
+      "Avg Place": "5.48",
+      "Pick Rate": "0.02",
+      "Win Rate": "2.6%",
+      "Top 4 Rate": "29.9%",
+      "Units": [
+        "빅토르",
+        "마스터 이",
+        "그라가스",
+        "탐 켄치",
+        "소나",
+        "마오카이",
+        "우르곳",
+        "아칼리"
+      ],
+      "UnitDetails": [
+        {
+          "name": "빅토르",
+          "three_star": true,
+          "items": [
+            "드론 업링크",
+            "대천사의 지팡이",
+            "보석 건틀릿"
+          ]
+        },
+        {
+          "name": "마스터 이",
+          "three_star": false,
+          "items": [
+            "피바라기",
+            "스테락의 도전",
+            "거인의 결의"
+          ]
+        },
+        {
+          "name": "그라가스",
+          "three_star": true,
+          "items": [
+            "가고일 돌갑옷",
+            "정령의 형상",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "탐 켄치",
+          "three_star": false,
+          "items": [
+            "수호자의 맹세",
+            "태양불꽃 망토",
+            "정령의 형상"
+          ]
+        },
+        {
+          "name": "소나",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "마오카이",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "우르곳",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아칼리",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "D",
+      "Name": "도전자 다이애나",
+      "Level": "7",
+      "Difficulty": "Easy",
+      "Avg Place": "5.53",
+      "Pick Rate": "0.02",
+      "Win Rate": "2.9%",
+      "Top 4 Rate": "29.5%",
+      "Units": [
+        "다이애나",
+        "레오나",
+        "킨드레드",
+        "라아스트",
+        "아칼리",
+        "모데카이저",
+        "조이"
+      ],
+      "UnitDetails": [
+        {
+          "name": "다이애나",
+          "three_star": true,
+          "items": [
+            "선봉대 상징",
+            "피바라기",
+            "구인수의 격노검"
+          ]
+        },
+        {
+          "name": "레오나",
+          "three_star": true,
+          "items": [
+            "가고일 돌갑옷",
+            "가고일 돌갑옷",
+            "정령의 형상"
+          ]
+        },
+        {
+          "name": "킨드레드",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "라아스트",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아칼리",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "조이",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "D",
+      "Name": "여행자 오로라",
+      "Level": "7",
+      "Difficulty": "Easy",
+      "Avg Place": "5.60",
+      "Pick Rate": "0.03",
+      "Win Rate": "13.5%",
+      "Top 4 Rate": "30.7%",
+      "Units": [
+        "오로라",
+        "일라오이",
+        "카르마",
+        "거대 메크 로봇",
+        "빅토르",
+        "꼬마 정령",
+        "모데카이저",
+        "파이크"
+      ],
+      "UnitDetails": [
+        {
+          "name": "오로라",
+          "three_star": true,
+          "items": [
+            "진화한 불꽃 사격",
+            "보석 건틀릿",
+            "쇼진의 창"
+          ]
+        },
+        {
+          "name": "일라오이",
+          "three_star": true,
+          "items": [
+            "광휘 역장",
+            "가고일 돌갑옷",
+            "정령의 형상"
+          ]
+        },
+        {
+          "name": "카르마",
+          "three_star": false,
+          "items": [
+            "보석 건틀릿",
+            "내셔의 이빨",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "거대 메크 로봇",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "빅토르",
+          "three_star": true,
+          "items": []
+        },
+        {
+          "name": "꼬마 정령",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "파이크",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "D",
+      "Name": "요새 오른",
+      "Level": "",
+      "Difficulty": "Easy",
+      "Avg Place": "6.31",
+      "Pick Rate": "0.02",
+      "Win Rate": "2.2%",
+      "Top 4 Rate": "16.6%",
+      "Units": [
+        "오른",
+        "벡스",
+        "그레이브즈",
+        "쉔",
+        "블리츠크랭크",
+        "피오라",
+        "모르가나",
+        "아칼리",
+        "아트록스"
+      ],
+      "UnitDetails": [
+        {
+          "name": "오른",
+          "three_star": false,
+          "items": [
+            "용의 발톱",
+            "굳건한 심장",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "벡스",
+          "three_star": false,
+          "items": [
+            "구인수의 격노검",
+            "거인 학살자",
+            "라바돈의 죽음모자"
+          ]
+        },
+        {
+          "name": "그레이브즈",
+          "three_star": false,
+          "items": [
+            "전투 토끼 석궁",
+            "구인수의 격노검",
+            "무한의 대검"
+          ]
+        },
+        {
+          "name": "쉔",
+          "three_star": false,
+          "items": [
+            "수호자의 맹세"
+          ]
+        },
+        {
+          "name": "블리츠크랭크",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "피오라",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모르가나",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아칼리",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "아트록스",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "Tier": "D",
+      "Name": "동물특공대 일라오이",
+      "Level": "6",
+      "Difficulty": "Easy",
+      "Avg Place": "6.69",
+      "Pick Rate": "0.04",
+      "Win Rate": "6.0%",
+      "Top 4 Rate": "14.4%",
+      "Units": [
+        "징크스",
+        "일라오이",
+        "오로라",
+        "누누와 윌럼프",
+        "람머스",
+        "라아스트",
+        "잭스",
+        "모데카이저"
+      ],
+      "UnitDetails": [
+        {
+          "name": "징크스",
+          "three_star": true,
+          "items": [
+            "전투 토끼 석궁",
+            "구인수의 격노검",
+            "무한의 대검"
+          ]
+        },
+        {
+          "name": "일라오이",
+          "three_star": false,
+          "items": [
+            "태양불꽃 망토",
+            "저녁갑주",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "name": "오로라",
+          "three_star": false,
+          "items": [
+            "푸른 파수꾼",
+            "보석 건틀릿",
+            "공허의 지팡이"
+          ]
+        },
+        {
+          "name": "누누와 윌럼프",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "람머스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "라아스트",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "잭스",
+          "three_star": false,
+          "items": []
+        },
+        {
+          "name": "모데카이저",
+          "three_star": false,
+          "items": []
+        }
+      ]
+    }
+  ]
+}
