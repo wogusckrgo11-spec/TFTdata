@@ -22,10 +22,10 @@
     {
       "Item": "Radiant Field",
       "Tier": "S",
-      "Avg Place": "3.48",
-      "Place Change": "-1.02",
-      "Win Rate": "39.1%",
-      "Games": "1110",
+      "Avg Place": "3.47",
+      "Place Change": "-1.03",
+      "Win Rate": "39.5%",
+      "Games": "1125",
       "Frequency": "0.4%",
       "PopularUnits": [
         "The Mighty Mech",
@@ -40,12 +40,12 @@
       "Tier": "S",
       "Avg Place": "3.92",
       "Place Change": "-0.58",
-      "Win Rate": "16.4%",
-      "Games": "2950",
+      "Win Rate": "16.6%",
+      "Games": "2971",
       "Frequency": "1.0%",
       "PopularUnits": [
-        "Sona",
         "Gragas",
+        "Sona",
         "Viktor",
         "Pyke",
         "Fiora"
@@ -54,10 +54,10 @@
     {
       "Item": "Malware Matrix",
       "Tier": "S",
-      "Avg Place": "3.99",
-      "Place Change": "-0.51",
-      "Win Rate": "15.5%",
-      "Games": "1915",
+      "Avg Place": "4.02",
+      "Place Change": "-0.48",
+      "Win Rate": "15.2%",
+      "Games": "1940",
       "Frequency": "0.7%",
       "PopularUnits": [
         "Master Yi",
@@ -70,10 +70,10 @@
     {
       "Item": "Target-Lock Optics",
       "Tier": "S",
-      "Avg Place": "4.02",
-      "Place Change": "-0.48",
-      "Win Rate": "14.9%",
-      "Games": "1838",
+      "Avg Place": "4.03",
+      "Place Change": "-0.47",
+      "Win Rate": "14.6%",
+      "Games": "1851",
       "Frequency": "0.6%",
       "PopularUnits": [
         "Master Yi",
@@ -86,10 +86,10 @@
     {
       "Item": "Drone Uplink",
       "Tier": "A",
-      "Avg Place": "4.22",
-      "Place Change": "-0.28",
-      "Win Rate": "12.2%",
-      "Games": "1967",
+      "Avg Place": "4.26",
+      "Place Change": "-0.24",
+      "Win Rate": "11.6%",
+      "Games": "2011",
       "Frequency": "0.7%",
       "PopularUnits": [
         "Sona",
@@ -105,7 +105,7 @@
       "Avg Place": "4.04",
       "Place Change": "-0.04",
       "Win Rate": "15.6%",
-      "Games": "11984",
+      "Games": "12235",
       "Frequency": "4.1%",
       "PopularUnits": [
         "Master Yi",
@@ -120,8 +120,8 @@
       "Tier": "C",
       "Avg Place": "4.16",
       "Place Change": "-0.03",
-      "Win Rate": "14.6%",
-      "Games": "9853",
+      "Win Rate": "14.7%",
+      "Games": "10075",
       "Frequency": "3.4%",
       "PopularUnits": [
         "Master Yi",
@@ -134,10 +134,10 @@
     {
       "Item": "Biomatter Preserver",
       "Tier": "C",
-      "Avg Place": "4.34",
+      "Avg Place": "4.33",
       "Place Change": "-0.02",
-      "Win Rate": "12.9%",
-      "Games": "9091",
+      "Win Rate": "13.0%",
+      "Games": "9254",
       "Frequency": "3.1%",
       "PopularUnits": [
         "Tahm Kench",
@@ -153,7 +153,7 @@
       "Avg Place": "4.42",
       "Place Change": "-0.02",
       "Win Rate": "12.3%",
-      "Games": "10296",
+      "Games": "10506",
       "Frequency": "3.5%",
       "PopularUnits": [
         "Kindred",
@@ -168,8 +168,8 @@
       "Tier": "C",
       "Avg Place": "4.53",
       "Place Change": "-0.02",
-      "Win Rate": "11.7%",
-      "Games": "9865",
+      "Win Rate": "11.6%",
+      "Games": "10175",
       "Frequency": "3.4%",
       "PopularUnits": [
         "Maokai",
@@ -182,10 +182,10 @@
     {
       "Item": "Battle Bunny Crossbow",
       "Tier": "C",
-      "Avg Place": "3.67",
+      "Avg Place": "3.65",
       "Place Change": "-0.01",
-      "Win Rate": "37.1%",
-      "Games": "2670",
+      "Win Rate": "37.6%",
+      "Games": "2750",
       "Frequency": "0.9%",
       "PopularUnits": [
         "Xayah",
@@ -198,10 +198,10 @@
     {
       "Item": "Iceblast Armor",
       "Tier": "C",
-      "Avg Place": "3.17",
+      "Avg Place": "3.18",
       "Place Change": "-0.01",
-      "Win Rate": "47.1%",
-      "Games": "1111",
+      "Win Rate": "46.8%",
+      "Games": "1134",
       "Frequency": "0.4%",
       "PopularUnits": [
         "The Mighty Mech",
@@ -214,10 +214,10 @@
     {
       "Item": "Lioness's Lament",
       "Tier": "C",
-      "Avg Place": "3.22",
+      "Avg Place": "3.23",
       "Place Change": "-0.01",
       "Win Rate": "46.5%",
-      "Games": "1060",
+      "Games": "1100",
       "Frequency": "0.4%",
       "PopularUnits": [
         "The Mighty Mech",
@@ -230,10 +230,10 @@
     {
       "Item": "Searing Shortbow",
       "Tier": "C",
-      "Avg Place": "3.79",
+      "Avg Place": "3.75",
       "Place Change": "-0.00",
-      "Win Rate": "35.3%",
-      "Games": "881",
+      "Win Rate": "36.0%",
+      "Games": "897",
       "Frequency": "0.3%",
       "PopularUnits": [
         "Aurelion Sol",
@@ -246,10 +246,10 @@
     {
       "Item": "Echoing Batblades",
       "Tier": "C",
-      "Avg Place": "3.81",
+      "Avg Place": "3.72",
       "Place Change": "-0.00",
-      "Win Rate": "39.3%",
-      "Games": "855",
+      "Win Rate": "40.0%",
+      "Games": "873",
       "Frequency": "0.3%",
       "PopularUnits": [
         "Xayah",
@@ -262,10 +262,10 @@
     {
       "Item": "Cyclonic Slicers",
       "Tier": "C",
-      "Avg Place": "3.90",
+      "Avg Place": "3.92",
       "Place Change": "-0.00",
       "Win Rate": "37.2%",
-      "Games": "904",
+      "Games": "924",
       "Frequency": "0.3%",
       "PopularUnits": [
         "Fiora",
@@ -276,28 +276,12 @@
       ]
     },
     {
-      "Item": "UwU Blaster",
-      "Tier": "C",
-      "Avg Place": "3.92",
-      "Place Change": "-0.00",
-      "Win Rate": "34.6%",
-      "Games": "833",
-      "Frequency": "0.3%",
-      "PopularUnits": [
-        "Xayah",
-        "Kindred",
-        "Urgot",
-        "Jinx",
-        "Fiora"
-      ]
-    },
-    {
       "Item": "The Annihilator",
       "Tier": "C",
-      "Avg Place": "3.90",
+      "Avg Place": "3.84",
       "Place Change": "-0.00",
-      "Win Rate": "34.9%",
-      "Games": "813",
+      "Win Rate": "35.7%",
+      "Games": "833",
       "Frequency": "0.3%",
       "PopularUnits": [
         "Aurelion Sol",
@@ -308,12 +292,28 @@
       ]
     },
     {
+      "Item": "UwU Blaster",
+      "Tier": "C",
+      "Avg Place": "3.90",
+      "Place Change": "-0.00",
+      "Win Rate": "35.2%",
+      "Games": "869",
+      "Frequency": "0.3%",
+      "PopularUnits": [
+        "Xayah",
+        "Kindred",
+        "Urgot",
+        "Jinx",
+        "Fiora"
+      ]
+    },
+    {
       "Item": "Leaky Prototype",
       "Tier": "C",
-      "Avg Place": "4.61",
+      "Avg Place": "4.62",
       "Place Change": "-0.00",
-      "Win Rate": "18.5%",
-      "Games": "1117",
+      "Win Rate": "18.4%",
+      "Games": "1134",
       "Frequency": "0.4%",
       "PopularUnits": [
         "LeBlanc",
@@ -326,11 +326,11 @@
     {
       "Item": "Sparking Prototype",
       "Tier": "C",
-      "Avg Place": "4.72",
+      "Avg Place": "4.71",
       "Place Change": "-0.00",
-      "Win Rate": "15.8%",
-      "Games": "1314",
-      "Frequency": "0.5%",
+      "Win Rate": "15.9%",
+      "Games": "1293",
+      "Frequency": "0.4%",
       "PopularUnits": [
         "Jinx",
         "LeBlanc",
@@ -342,10 +342,10 @@
     {
       "Item": "Broken Prototype",
       "Tier": "C",
-      "Avg Place": "4.84",
+      "Avg Place": "4.79",
       "Place Change": "-0.00",
-      "Win Rate": "13.9%",
-      "Games": "1512",
+      "Win Rate": "14.3%",
+      "Games": "1532",
       "Frequency": "0.5%",
       "PopularUnits": [
         "Illaoi",
@@ -361,7 +361,7 @@
       "Avg Place": "4.92",
       "Place Change": "-0.00",
       "Win Rate": "16.7%",
-      "Games": "2978",
+      "Games": "3046",
       "Frequency": "1.0%",
       "PopularUnits": [
         "Illaoi",
@@ -374,10 +374,10 @@
     {
       "Item": "Evolved Embershot",
       "Tier": "C",
-      "Avg Place": "1.51",
+      "Avg Place": "1.58",
       "Place Change": "-0.00",
-      "Win Rate": "84.3%",
-      "Games": "51",
+      "Win Rate": "83.0%",
+      "Games": "53",
       "Frequency": "0.0%",
       "PopularUnits": [
         "Aurora",
@@ -388,27 +388,11 @@
       ]
     },
     {
-      "Item": "Guiding Hex",
-      "Tier": "C",
-      "Avg Place": "4.96",
-      "Place Change": "-0.00",
-      "Win Rate": "15.9%",
-      "Games": "2578",
-      "Frequency": "0.9%",
-      "PopularUnits": [
-        "Aurora",
-        "Karma",
-        "Bard",
-        "Aurelion Sol",
-        "Kindred"
-      ]
-    },
-    {
       "Item": "OwO Blaster",
       "Tier": "C",
-      "Avg Place": "2.82",
+      "Avg Place": "2.56",
       "Place Change": "-0.00",
-      "Win Rate": "66.7%",
+      "Win Rate": "71.8%",
       "Games": "39",
       "Frequency": "0.0%",
       "PopularUnits": [
@@ -416,16 +400,16 @@
         "Xayah",
         "Fiora",
         "Kindred",
-        "Master Yi"
+        "Urgot"
       ]
     },
     {
       "Item": "Deep Freeze",
       "Tier": "C",
-      "Avg Place": "2.17",
+      "Avg Place": "2.13",
       "Place Change": "-0.00",
-      "Win Rate": "72.4%",
-      "Games": "29",
+      "Win Rate": "73.3%",
+      "Games": "30",
       "Frequency": "0.0%",
       "PopularUnits": [
         "The Mighty Mech",
@@ -438,10 +422,10 @@
     {
       "Item": "Vayne's Chromablades",
       "Tier": "C",
-      "Avg Place": "2.59",
+      "Avg Place": "2.70",
       "Place Change": "-0.00",
-      "Win Rate": "58.8%",
-      "Games": "34",
+      "Win Rate": "54.5%",
+      "Games": "33",
       "Frequency": "0.0%",
       "PopularUnits": [
         "Xayah",
@@ -452,28 +436,44 @@
       ]
     },
     {
+      "Item": "Animapocalypse",
+      "Tier": "C",
+      "Avg Place": "2.65",
+      "Place Change": "-0.00",
+      "Win Rate": "58.1%",
+      "Games": "31",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Aurelion Sol",
+        "Aurora",
+        "Fiora",
+        "Xayah",
+        "Corki"
+      ]
+    },
+    {
       "Item": "Bunny Prime Ballista",
       "Tier": "C",
-      "Avg Place": "2.47",
+      "Avg Place": "2.62",
       "Place Change": "-0.00",
-      "Win Rate": "62.5%",
-      "Games": "32",
+      "Win Rate": "58.6%",
+      "Games": "29",
       "Frequency": "0.0%",
       "PopularUnits": [
         "Xayah",
         "Fiora",
         "Graves",
         "Jinx",
-        "Kindred"
+        "Jhin"
       ]
     },
     {
       "Item": "Leonine Lamentation",
       "Tier": "C",
-      "Avg Place": "1.43",
+      "Avg Place": "1.47",
       "Place Change": "-0.00",
-      "Win Rate": "85.7%",
-      "Games": "21",
+      "Win Rate": "84.2%",
+      "Games": "19",
       "Frequency": "0.0%",
       "PopularUnits": [
         "The Mighty Mech",
@@ -484,25 +484,25 @@
       ]
     },
     {
-      "Item": "Animapocalypse",
+      "Item": "Guiding Hex",
       "Tier": "C",
-      "Avg Place": "2.66",
+      "Avg Place": "4.98",
       "Place Change": "-0.00",
-      "Win Rate": "62.1%",
-      "Games": "29",
-      "Frequency": "0.0%",
+      "Win Rate": "15.7%",
+      "Games": "2629",
+      "Frequency": "0.9%",
       "PopularUnits": [
-        "Aurelion Sol",
         "Aurora",
-        "Fiora",
-        "Xayah",
-        "Karma"
+        "Karma",
+        "Bard",
+        "Aurelion Sol",
+        "Kindred"
       ]
     },
     {
       "Item": "Unceasing Cyclone",
       "Tier": "C",
-      "Avg Place": "3.00",
+      "Avg Place": "3.14",
       "Place Change": "-0.00",
       "Win Rate": "53.6%",
       "Games": "28",
@@ -512,17 +512,17 @@
         "The Mighty Mech",
         "Diana",
         "Riven",
-        "Illaoi"
+        "Master Yi"
       ]
     },
     {
       "Item": "Savage Slicer",
       "Tier": "D",
-      "Avg Place": "5.12",
+      "Avg Place": "5.08",
       "Place Change": "+0.00",
-      "Win Rate": "13.2%",
-      "Games": "2182",
-      "Frequency": "0.7%",
+      "Win Rate": "13.6%",
+      "Games": "2271",
+      "Frequency": "0.8%",
       "PopularUnits": [
         "Briar",
         "Fiora",
@@ -536,8 +536,8 @@
       "Tier": "D",
       "Avg Place": "5.39",
       "Place Change": "+0.00",
-      "Win Rate": "10.7%",
-      "Games": "1807",
+      "Win Rate": "10.8%",
+      "Games": "1817",
       "Frequency": "0.6%",
       "PopularUnits": [
         "Jinx",
@@ -552,15 +552,15 @@
       "Tier": "D",
       "Avg Place": "4.52",
       "Place Change": "+0.02",
-      "Win Rate": "10.5%",
-      "Games": "724",
+      "Win Rate": "11.3%",
+      "Games": "737",
       "Frequency": "0.2%",
       "PopularUnits": [
         "Gragas",
         "Tahm Kench",
         "Master Yi",
-        "Illaoi",
-        "Maokai"
+        "Maokai",
+        "Illaoi"
       ]
     }
   ]

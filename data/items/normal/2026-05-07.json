@@ -9,7 +9,7 @@
       "Avg Place": "4.21",
       "Place Change": "-0.39",
       "Win Rate": "14.1%",
-      "Games": "143958",
+      "Games": "146547",
       "Frequency": "49.4%",
       "PopularUnits": [
         "Master Yi",
@@ -25,8 +25,8 @@
       "Avg Place": "4.35",
       "Place Change": "-0.29",
       "Win Rate": "13.6%",
-      "Games": "130863",
-      "Frequency": "44.9%",
+      "Games": "133329",
+      "Frequency": "45.0%",
       "PopularUnits": [
         "Leona",
         "Jax",
@@ -38,17 +38,17 @@
     {
       "Item": "Protector's Vow",
       "Tier": "A",
-      "Avg Place": "4.14",
+      "Avg Place": "4.13",
       "Place Change": "-0.28",
       "Win Rate": "15.5%",
-      "Games": "93985",
-      "Frequency": "32.3%",
+      "Games": "95417",
+      "Frequency": "32.2%",
       "PopularUnits": [
         "Nunu & Willump",
         "Tahm Kench",
         "Rammus",
         "Maokai",
-        "The Mighty Mech"
+        "Jax"
       ]
     },
     {
@@ -56,9 +56,9 @@
       "Tier": "A",
       "Avg Place": "4.38",
       "Place Change": "-0.27",
-      "Win Rate": "13.1%",
-      "Games": "126117",
-      "Frequency": "43.3%",
+      "Win Rate": "13.2%",
+      "Games": "128029",
+      "Frequency": "43.2%",
       "PopularUnits": [
         "Tahm Kench",
         "Nunu & Willump",
@@ -70,10 +70,10 @@
     {
       "Item": "Warmog's Armor",
       "Tier": "A",
-      "Avg Place": "4.14",
-      "Place Change": "-0.26",
-      "Win Rate": "14.8%",
-      "Games": "89064",
+      "Avg Place": "4.13",
+      "Place Change": "-0.27",
+      "Win Rate": "14.9%",
+      "Games": "90701",
       "Frequency": "30.6%",
       "PopularUnits": [
         "Tahm Kench",
@@ -89,7 +89,7 @@
       "Avg Place": "4.40",
       "Place Change": "-0.26",
       "Win Rate": "13.5%",
-      "Games": "126499",
+      "Games": "128629",
       "Frequency": "43.4%",
       "PopularUnits": [
         "Kindred",
@@ -105,7 +105,7 @@
       "Avg Place": "4.11",
       "Place Change": "-0.24",
       "Win Rate": "15.4%",
-      "Games": "77325",
+      "Games": "78774",
       "Frequency": "26.6%",
       "PopularUnits": [
         "Blitzcrank",
@@ -121,8 +121,8 @@
       "Avg Place": "4.11",
       "Place Change": "-0.23",
       "Win Rate": "14.8%",
-      "Games": "76163",
-      "Frequency": "26.2%",
+      "Games": "77499",
+      "Frequency": "26.1%",
       "PopularUnits": [
         "Corki",
         "Kai'Sa",
@@ -137,7 +137,7 @@
       "Avg Place": "4.13",
       "Place Change": "-0.23",
       "Win Rate": "14.9%",
-      "Games": "76761",
+      "Games": "78193",
       "Frequency": "26.4%",
       "PopularUnits": [
         "Rammus",
@@ -153,7 +153,7 @@
       "Avg Place": "4.27",
       "Place Change": "-0.22",
       "Win Rate": "13.8%",
-      "Games": "87470",
+      "Games": "88913",
       "Frequency": "30.0%",
       "PopularUnits": [
         "Tahm Kench",
@@ -164,28 +164,12 @@
       ]
     },
     {
-      "Item": "Adaptive Helm",
-      "Tier": "A",
-      "Avg Place": "4.12",
-      "Place Change": "-0.22",
-      "Win Rate": "15.2%",
-      "Games": "72221",
-      "Frequency": "24.8%",
-      "PopularUnits": [
-        "Nunu & Willump",
-        "Rammus",
-        "Tahm Kench",
-        "Maokai",
-        "Karma"
-      ]
-    },
-    {
       "Item": "Sterak's Gage",
       "Tier": "A",
       "Avg Place": "4.08",
       "Place Change": "-0.22",
       "Win Rate": "15.2%",
-      "Games": "68577",
+      "Games": "69983",
       "Frequency": "23.6%",
       "PopularUnits": [
         "Riven",
@@ -196,12 +180,28 @@
       ]
     },
     {
+      "Item": "Adaptive Helm",
+      "Tier": "A",
+      "Avg Place": "4.13",
+      "Place Change": "-0.22",
+      "Win Rate": "15.2%",
+      "Games": "73592",
+      "Frequency": "24.8%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Rammus",
+        "Tahm Kench",
+        "Maokai",
+        "Karma"
+      ]
+    },
+    {
       "Item": "Edge of Night",
       "Tier": "A",
       "Avg Place": "4.16",
-      "Place Change": "-0.21",
-      "Win Rate": "14.9%",
-      "Games": "74155",
+      "Place Change": "-0.22",
+      "Win Rate": "14.8%",
+      "Games": "75711",
       "Frequency": "25.5%",
       "PopularUnits": [
         "Master Yi",
@@ -217,8 +217,8 @@
       "Avg Place": "4.34",
       "Place Change": "-0.21",
       "Win Rate": "14.3%",
-      "Games": "90513",
-      "Frequency": "31.1%",
+      "Games": "92019",
+      "Frequency": "31.0%",
       "PopularUnits": [
         "Karma",
         "Kai'Sa",
@@ -232,9 +232,9 @@
       "Tier": "A",
       "Avg Place": "4.24",
       "Place Change": "-0.20",
-      "Win Rate": "13.7%",
-      "Games": "76373",
-      "Frequency": "26.2%",
+      "Win Rate": "13.6%",
+      "Games": "78252",
+      "Frequency": "26.4%",
       "PopularUnits": [
         "Corki",
         "Kindred",
@@ -246,11 +246,11 @@
     {
       "Item": "Infinity Edge",
       "Tier": "B",
-      "Avg Place": "4.36",
+      "Avg Place": "4.35",
       "Place Change": "-0.19",
-      "Win Rate": "14.1%",
-      "Games": "86150",
-      "Frequency": "29.6%",
+      "Win Rate": "14.2%",
+      "Games": "87280",
+      "Frequency": "29.4%",
       "PopularUnits": [
         "Kai'Sa",
         "Jhin",
@@ -264,9 +264,9 @@
       "Tier": "B",
       "Avg Place": "3.89",
       "Place Change": "-0.19",
-      "Win Rate": "16.1%",
-      "Games": "49297",
-      "Frequency": "16.9%",
+      "Win Rate": "16.2%",
+      "Games": "50451",
+      "Frequency": "17.0%",
       "PopularUnits": [
         "Rammus",
         "Tahm Kench",
@@ -281,8 +281,8 @@
       "Avg Place": "4.13",
       "Place Change": "-0.19",
       "Win Rate": "14.3%",
-      "Games": "62583",
-      "Frequency": "21.5%",
+      "Games": "63931",
+      "Frequency": "21.6%",
       "PopularUnits": [
         "Corki",
         "Jhin",
@@ -292,28 +292,12 @@
       ]
     },
     {
-      "Item": "Evenshroud",
-      "Tier": "B",
-      "Avg Place": "4.32",
-      "Place Change": "-0.19",
-      "Win Rate": "13.9%",
-      "Games": "79101",
-      "Frequency": "27.2%",
-      "PopularUnits": [
-        "Tahm Kench",
-        "Maokai",
-        "Rammus",
-        "Rek'Sai",
-        "Nunu & Willump"
-      ]
-    },
-    {
       "Item": "Jeweled Gauntlet",
       "Tier": "B",
       "Avg Place": "4.41",
       "Place Change": "-0.19",
-      "Win Rate": "14.0%",
-      "Games": "92132",
+      "Win Rate": "14.1%",
+      "Games": "93731",
       "Frequency": "31.6%",
       "PopularUnits": [
         "Lulu",
@@ -326,10 +310,10 @@
     {
       "Item": "Bloodthirster",
       "Tier": "B",
-      "Avg Place": "4.20",
-      "Place Change": "-0.18",
-      "Win Rate": "13.5%",
-      "Games": "66827",
+      "Avg Place": "4.19",
+      "Place Change": "-0.19",
+      "Win Rate": "13.6%",
+      "Games": "68094",
       "Frequency": "23.0%",
       "PopularUnits": [
         "Riven",
@@ -340,13 +324,29 @@
       ]
     },
     {
+      "Item": "Evenshroud",
+      "Tier": "B",
+      "Avg Place": "4.32",
+      "Place Change": "-0.19",
+      "Win Rate": "13.8%",
+      "Games": "80310",
+      "Frequency": "27.1%",
+      "PopularUnits": [
+        "Tahm Kench",
+        "Maokai",
+        "Rammus",
+        "Rek'Sai",
+        "Nunu & Willump"
+      ]
+    },
+    {
       "Item": "Hand Of Justice",
       "Tier": "B",
-      "Avg Place": "4.03",
+      "Avg Place": "4.02",
       "Place Change": "-0.17",
-      "Win Rate": "15.2%",
-      "Games": "52351",
-      "Frequency": "18.0%",
+      "Win Rate": "15.3%",
+      "Games": "53058",
+      "Frequency": "17.9%",
       "PopularUnits": [
         "Fiora",
         "Riven",
@@ -358,11 +358,11 @@
     {
       "Item": "Quicksilver",
       "Tier": "B",
-      "Avg Place": "4.29",
+      "Avg Place": "4.30",
       "Place Change": "-0.16",
-      "Win Rate": "13.5%",
-      "Games": "67240",
-      "Frequency": "23.1%",
+      "Win Rate": "13.4%",
+      "Games": "68231",
+      "Frequency": "23.0%",
       "PopularUnits": [
         "Master Yi",
         "Bel'Veth",
@@ -376,9 +376,9 @@
       "Tier": "B",
       "Avg Place": "4.18",
       "Place Change": "-0.16",
-      "Win Rate": "15.5%",
-      "Games": "57741",
-      "Frequency": "19.8%",
+      "Win Rate": "15.4%",
+      "Games": "58538",
+      "Frequency": "19.7%",
       "PopularUnits": [
         "Karma",
         "Zoe",
@@ -392,8 +392,8 @@
       "Tier": "B",
       "Avg Place": "4.08",
       "Place Change": "-0.16",
-      "Win Rate": "16.1%",
-      "Games": "49411",
+      "Win Rate": "16.2%",
+      "Games": "50331",
       "Frequency": "17.0%",
       "PopularUnits": [
         "Kindred",
@@ -409,8 +409,8 @@
       "Avg Place": "4.08",
       "Place Change": "-0.16",
       "Win Rate": "15.6%",
-      "Games": "49180",
-      "Frequency": "16.9%",
+      "Games": "49852",
+      "Frequency": "16.8%",
       "PopularUnits": [
         "Karma",
         "Twisted Fate",
@@ -422,10 +422,10 @@
     {
       "Item": "Steadfast Heart",
       "Tier": "B",
-      "Avg Place": "4.00",
-      "Place Change": "-0.15",
+      "Avg Place": "4.01",
+      "Place Change": "-0.14",
       "Win Rate": "15.6%",
-      "Games": "42647",
+      "Games": "43216",
       "Frequency": "14.6%",
       "PopularUnits": [
         "Tahm Kench",
@@ -436,28 +436,12 @@
       ]
     },
     {
-      "Item": "Hextech Gunblade",
-      "Tier": "B",
-      "Avg Place": "4.07",
-      "Place Change": "-0.14",
-      "Win Rate": "15.3%",
-      "Games": "44362",
-      "Frequency": "15.2%",
-      "PopularUnits": [
-        "Teemo",
-        "Vex",
-        "Kindred",
-        "LeBlanc",
-        "Riven"
-      ]
-    },
-    {
       "Item": "Morellonomicon",
       "Tier": "B",
       "Avg Place": "4.20",
       "Place Change": "-0.14",
-      "Win Rate": "14.6%",
-      "Games": "51278",
+      "Win Rate": "14.5%",
+      "Games": "52184",
       "Frequency": "17.6%",
       "PopularUnits": [
         "Karma",
@@ -468,12 +452,28 @@
       ]
     },
     {
+      "Item": "Hextech Gunblade",
+      "Tier": "B",
+      "Avg Place": "4.07",
+      "Place Change": "-0.14",
+      "Win Rate": "15.3%",
+      "Games": "44966",
+      "Frequency": "15.2%",
+      "PopularUnits": [
+        "Teemo",
+        "Vex",
+        "Kindred",
+        "LeBlanc",
+        "Riven"
+      ]
+    },
+    {
       "Item": "Blue Buff",
       "Tier": "B",
-      "Avg Place": "4.23",
-      "Place Change": "-0.14",
-      "Win Rate": "14.2%",
-      "Games": "51191",
+      "Avg Place": "4.24",
+      "Place Change": "-0.13",
+      "Win Rate": "14.1%",
+      "Games": "52247",
       "Frequency": "17.6%",
       "PopularUnits": [
         "Kai'Sa",
@@ -486,10 +486,10 @@
     {
       "Item": "Titan's Resolve",
       "Tier": "B",
-      "Avg Place": "4.26",
+      "Avg Place": "4.25",
       "Place Change": "-0.12",
       "Win Rate": "13.0%",
-      "Games": "46907",
+      "Games": "47691",
       "Frequency": "16.1%",
       "PopularUnits": [
         "Briar",
@@ -502,11 +502,11 @@
     {
       "Item": "Kraken's Fury",
       "Tier": "B",
-      "Avg Place": "4.15",
+      "Avg Place": "4.14",
       "Place Change": "-0.11",
-      "Win Rate": "14.4%",
-      "Games": "39042",
-      "Frequency": "13.4%",
+      "Win Rate": "14.5%",
+      "Games": "39552",
+      "Frequency": "13.3%",
       "PopularUnits": [
         "Kindred",
         "Xayah",
@@ -518,11 +518,11 @@
     {
       "Item": "Nashor's Tooth",
       "Tier": "B",
-      "Avg Place": "4.40",
+      "Avg Place": "4.41",
       "Place Change": "-0.11",
-      "Win Rate": "13.3%",
-      "Games": "53944",
-      "Frequency": "18.5%",
+      "Win Rate": "13.4%",
+      "Games": "54995",
+      "Frequency": "18.6%",
       "PopularUnits": [
         "Lulu",
         "Twisted Fate",
@@ -537,7 +537,7 @@
       "Avg Place": "4.26",
       "Place Change": "-0.10",
       "Win Rate": "13.5%",
-      "Games": "39081",
+      "Games": "39709",
       "Frequency": "13.4%",
       "PopularUnits": [
         "Rammus",
@@ -552,8 +552,8 @@
       "Tier": "C",
       "Avg Place": "4.15",
       "Place Change": "-0.08",
-      "Win Rate": "14.8%",
-      "Games": "26283",
+      "Win Rate": "14.9%",
+      "Games": "26704",
       "Frequency": "9.0%",
       "PopularUnits": [
         "Karma",
@@ -569,7 +569,7 @@
       "Avg Place": "4.22",
       "Place Change": "-0.07",
       "Win Rate": "14.5%",
-      "Games": "27126",
+      "Games": "27535",
       "Frequency": "9.3%",
       "PopularUnits": [
         "Illaoi",
@@ -584,9 +584,9 @@
       "Tier": "C",
       "Avg Place": "4.77",
       "Place Change": "-0.01",
-      "Win Rate": "9.7%",
-      "Games": "10324",
-      "Frequency": "3.5%",
+      "Win Rate": "9.6%",
+      "Games": "10557",
+      "Frequency": "3.6%",
       "PopularUnits": [
         "Karma",
         "Milio",
@@ -598,11 +598,11 @@
     {
       "Item": "Needlessly Large Rod",
       "Tier": "C",
-      "Avg Place": "4.80",
+      "Avg Place": "4.81",
       "Place Change": "-0.01",
       "Win Rate": "9.5%",
-      "Games": "10840",
-      "Frequency": "3.7%",
+      "Games": "11124",
+      "Frequency": "3.8%",
       "PopularUnits": [
         "Karma",
         "Milio",
@@ -616,8 +616,8 @@
       "Tier": "C",
       "Avg Place": "4.82",
       "Place Change": "-0.01",
-      "Win Rate": "9.9%",
-      "Games": "9596",
+      "Win Rate": "9.7%",
+      "Games": "9809",
       "Frequency": "3.3%",
       "PopularUnits": [
         "Maokai",
@@ -628,12 +628,28 @@
       ]
     },
     {
+      "Item": "Negatron Cloak",
+      "Tier": "C",
+      "Avg Place": "4.87",
+      "Place Change": "-0.00",
+      "Win Rate": "9.7%",
+      "Games": "10493",
+      "Frequency": "3.5%",
+      "PopularUnits": [
+        "Maokai",
+        "Illaoi",
+        "The Mighty Mech",
+        "Mordekaiser",
+        "Tahm Kench"
+      ]
+    },
+    {
       "Item": "Giant's Belt",
       "Tier": "C",
-      "Avg Place": "4.89",
-      "Place Change": "-0.01",
-      "Win Rate": "9.8%",
-      "Games": "13418",
+      "Avg Place": "4.91",
+      "Place Change": "-0.00",
+      "Win Rate": "9.7%",
+      "Games": "13634",
       "Frequency": "4.6%",
       "PopularUnits": [
         "Maokai",
@@ -644,29 +660,13 @@
       ]
     },
     {
-      "Item": "Negatron Cloak",
-      "Tier": "C",
-      "Avg Place": "4.86",
-      "Place Change": "-0.01",
-      "Win Rate": "9.8%",
-      "Games": "10352",
-      "Frequency": "3.6%",
-      "PopularUnits": [
-        "Maokai",
-        "Illaoi",
-        "The Mighty Mech",
-        "Mordekaiser",
-        "Tahm Kench"
-      ]
-    },
-    {
       "Item": "Sparring Gloves",
       "Tier": "C",
-      "Avg Place": "4.85",
+      "Avg Place": "4.87",
       "Place Change": "-0.00",
-      "Win Rate": "9.2%",
-      "Games": "8562",
-      "Frequency": "2.9%",
+      "Win Rate": "9.3%",
+      "Games": "8790",
+      "Frequency": "3.0%",
       "PopularUnits": [
         "Milio",
         "Jhin",
@@ -678,10 +678,10 @@
     {
       "Item": "Recurve Bow",
       "Tier": "C",
-      "Avg Place": "4.89",
+      "Avg Place": "4.91",
       "Place Change": "-0.00",
-      "Win Rate": "9.4%",
-      "Games": "11631",
+      "Win Rate": "9.3%",
+      "Games": "11821",
       "Frequency": "4.0%",
       "PopularUnits": [
         "Milio",
@@ -693,11 +693,11 @@
     },
     {
       "Item": "B.F. Sword",
-      "Tier": "D",
-      "Avg Place": "5.00",
-      "Place Change": "+0.00",
+      "Tier": "C",
+      "Avg Place": "4.99",
+      "Place Change": "-0.00",
       "Win Rate": "8.4%",
-      "Games": "9237",
+      "Games": "9355",
       "Frequency": "3.2%",
       "PopularUnits": [
         "Jhin",
@@ -710,10 +710,10 @@
     {
       "Item": "Frying Pan",
       "Tier": "D",
-      "Avg Place": "6.38",
+      "Avg Place": "6.46",
       "Place Change": "+0.00",
       "Win Rate": "0.0%",
-      "Games": "34",
+      "Games": "35",
       "Frequency": "0.0%",
       "PopularUnits": [
         "Kindred",
@@ -726,10 +726,10 @@
     {
       "Item": "Spatula",
       "Tier": "D",
-      "Avg Place": "5.66",
-      "Place Change": "+0.21",
-      "Win Rate": "6.8%",
-      "Games": "455",
+      "Avg Place": "5.61",
+      "Place Change": "+0.20",
+      "Win Rate": "7.2%",
+      "Games": "473",
       "Frequency": "0.2%",
       "PopularUnits": [
         "Riven",
