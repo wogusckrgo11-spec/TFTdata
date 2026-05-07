@@ -1,0 +1,583 @@
+{
+  "date": "2026-05-08",
+  "type": "Radiant Item",
+  "count": 36,
+  "items": [
+    {
+      "Item": "Radiant Morellonomicon",
+      "Tier": "S",
+      "Avg Place": "3.89",
+      "Place Change": "-0.61",
+      "Win Rate": "21.1%",
+      "Games": "90",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Zoe",
+        "Milio",
+        "Karma",
+        "Nami",
+        "Bard"
+      ]
+    },
+    {
+      "Item": "Radiant Nashor's Tooth",
+      "Tier": "S",
+      "Avg Place": "3.92",
+      "Place Change": "-0.58",
+      "Win Rate": "21.5%",
+      "Games": "1021",
+      "Frequency": "0.3%",
+      "PopularUnits": [
+        "Lulu",
+        "Twisted Fate",
+        "Veigar",
+        "Karma",
+        "Nami"
+      ]
+    },
+    {
+      "Item": "Radiant Deathblade",
+      "Tier": "S",
+      "Avg Place": "4.00",
+      "Place Change": "-0.50",
+      "Win Rate": "15.9%",
+      "Games": "1550",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "Corki",
+        "Kai'Sa",
+        "Jhin",
+        "Ezreal",
+        "Kindred"
+      ]
+    },
+    {
+      "Item": "Radiant Titan's Resolve",
+      "Tier": "S",
+      "Avg Place": "4.02",
+      "Place Change": "-0.48",
+      "Win Rate": "12.5%",
+      "Games": "737",
+      "Frequency": "0.2%",
+      "PopularUnits": [
+        "Briar",
+        "Master Yi",
+        "Riven",
+        "Fiora",
+        "Diana"
+      ]
+    },
+    {
+      "Item": "Radiant Rabadon's Deathcap",
+      "Tier": "S",
+      "Avg Place": "4.05",
+      "Place Change": "-0.45",
+      "Win Rate": "16.2%",
+      "Games": "796",
+      "Frequency": "0.2%",
+      "PopularUnits": [
+        "Teemo",
+        "Twisted Fate",
+        "Lulu",
+        "Vex",
+        "Aurelion Sol"
+      ]
+    },
+    {
+      "Item": "Radiant Hextech Gunblade",
+      "Tier": "S",
+      "Avg Place": "4.10",
+      "Place Change": "-0.40",
+      "Win Rate": "14.6%",
+      "Games": "294",
+      "Frequency": "0.1%",
+      "PopularUnits": [
+        "Teemo",
+        "Vex",
+        "LeBlanc",
+        "Talon",
+        "Twisted Fate"
+      ]
+    },
+    {
+      "Item": "Radiant Sterak's Gage",
+      "Tier": "S",
+      "Avg Place": "4.12",
+      "Place Change": "-0.38",
+      "Win Rate": "13.9%",
+      "Games": "663",
+      "Frequency": "0.2%",
+      "PopularUnits": [
+        "Briar",
+        "Master Yi",
+        "Riven",
+        "Fiora",
+        "The Mighty Mech"
+      ]
+    },
+    {
+      "Item": "Radiant Hand of Justice",
+      "Tier": "S",
+      "Avg Place": "4.14",
+      "Place Change": "-0.36",
+      "Win Rate": "13.1%",
+      "Games": "390",
+      "Frequency": "0.1%",
+      "PopularUnits": [
+        "Master Yi",
+        "Riven",
+        "Briar",
+        "Fiora",
+        "Gragas"
+      ]
+    },
+    {
+      "Item": "Radiant Red Buff",
+      "Tier": "S",
+      "Avg Place": "4.15",
+      "Place Change": "-0.35",
+      "Win Rate": "16.7%",
+      "Games": "168",
+      "Frequency": "0.1%",
+      "PopularUnits": [
+        "Xayah",
+        "Kindred",
+        "Corki",
+        "Kai'Sa",
+        "Vex"
+      ]
+    },
+    {
+      "Item": "Radiant Ionic Spark",
+      "Tier": "S",
+      "Avg Place": "4.15",
+      "Place Change": "-0.35",
+      "Win Rate": "6.5%",
+      "Games": "46",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Leona",
+        "Nunu & Willump",
+        "Illaoi",
+        "Maokai",
+        "Blitzcrank"
+      ]
+    },
+    {
+      "Item": "Radiant Adaptive Helm",
+      "Tier": "A",
+      "Avg Place": "4.21",
+      "Place Change": "-0.29",
+      "Win Rate": "18.0%",
+      "Games": "111",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Lulu",
+        "Leona",
+        "Cho'Gath",
+        "Jax",
+        "Karma"
+      ]
+    },
+    {
+      "Item": "Radiant Warmog's Armor",
+      "Tier": "A",
+      "Avg Place": "4.21",
+      "Place Change": "-0.29",
+      "Win Rate": "15.8%",
+      "Games": "753",
+      "Frequency": "0.2%",
+      "PopularUnits": [
+        "Leona",
+        "Rammus",
+        "Jax",
+        "Cho'Gath",
+        "The Mighty Mech"
+      ]
+    },
+    {
+      "Item": "Radiant Infinity Edge",
+      "Tier": "A",
+      "Avg Place": "4.23",
+      "Place Change": "-0.27",
+      "Win Rate": "18.5%",
+      "Games": "1236",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "Kai'Sa",
+        "Corki",
+        "Jhin",
+        "Urgot",
+        "Ezreal"
+      ]
+    },
+    {
+      "Item": "Radiant Blue Buff",
+      "Tier": "A",
+      "Avg Place": "4.23",
+      "Place Change": "-0.27",
+      "Win Rate": "14.6%",
+      "Games": "487",
+      "Frequency": "0.2%",
+      "PopularUnits": [
+        "Kai'Sa",
+        "Corki",
+        "Lulu",
+        "Karma",
+        "Ezreal"
+      ]
+    },
+    {
+      "Item": "Radiant Striker's Flail",
+      "Tier": "A",
+      "Avg Place": "4.25",
+      "Place Change": "-0.25",
+      "Win Rate": "15.6%",
+      "Games": "915",
+      "Frequency": "0.3%",
+      "PopularUnits": [
+        "Corki",
+        "Kai'Sa",
+        "Jhin",
+        "Ezreal",
+        "Kindred"
+      ]
+    },
+    {
+      "Item": "Radiant Giant Slayer",
+      "Tier": "A",
+      "Avg Place": "4.28",
+      "Place Change": "-0.22",
+      "Win Rate": "14.8%",
+      "Games": "3208",
+      "Frequency": "1.0%",
+      "PopularUnits": [
+        "Master Yi",
+        "Corki",
+        "Urgot",
+        "Kai'Sa",
+        "Bel'Veth"
+      ]
+    },
+    {
+      "Item": "Radiant Crownguard",
+      "Tier": "A",
+      "Avg Place": "4.29",
+      "Place Change": "-0.21",
+      "Win Rate": "10.5%",
+      "Games": "105",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Jax",
+        "Rammus",
+        "Leona",
+        "Cho'Gath",
+        "Tahm Kench"
+      ]
+    },
+    {
+      "Item": "Radiant Thief's Gloves",
+      "Tier": "A",
+      "Avg Place": "4.29",
+      "Place Change": "-0.21",
+      "Win Rate": "13.0%",
+      "Games": "2345",
+      "Frequency": "0.7%",
+      "PopularUnits": [
+        "Fiora",
+        "Riven",
+        "Blitzcrank",
+        "Talon",
+        "Urgot"
+      ]
+    },
+    {
+      "Item": "Radiant Kraken's Fury",
+      "Tier": "B",
+      "Avg Place": "4.30",
+      "Place Change": "-0.20",
+      "Win Rate": "16.9%",
+      "Games": "332",
+      "Frequency": "0.1%",
+      "PopularUnits": [
+        "Xayah",
+        "Kindred",
+        "Bel'Veth",
+        "Caitlyn",
+        "Graves"
+      ]
+    },
+    {
+      "Item": "Radiant Gargoyle Stoneplate",
+      "Tier": "B",
+      "Avg Place": "4.30",
+      "Place Change": "-0.20",
+      "Win Rate": "18.0%",
+      "Games": "2657",
+      "Frequency": "0.8%",
+      "PopularUnits": [
+        "The Mighty Mech",
+        "Leona",
+        "Jax",
+        "Rammus",
+        "Cho'Gath"
+      ]
+    },
+    {
+      "Item": "Radiant Bloodthirster",
+      "Tier": "B",
+      "Avg Place": "4.30",
+      "Place Change": "-0.20",
+      "Win Rate": "12.0%",
+      "Games": "382",
+      "Frequency": "0.1%",
+      "PopularUnits": [
+        "Briar",
+        "Riven",
+        "Fiora",
+        "Master Yi",
+        "Diana"
+      ]
+    },
+    {
+      "Item": "Radiant Protector's Vow",
+      "Tier": "B",
+      "Avg Place": "4.31",
+      "Place Change": "-0.19",
+      "Win Rate": "13.6%",
+      "Games": "295",
+      "Frequency": "0.1%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Jax",
+        "Rammus",
+        "Leona",
+        "Cho'Gath"
+      ]
+    },
+    {
+      "Item": "Radiant Sunfire Cape",
+      "Tier": "B",
+      "Avg Place": "4.32",
+      "Place Change": "-0.18",
+      "Win Rate": "10.6%",
+      "Games": "170",
+      "Frequency": "0.1%",
+      "PopularUnits": [
+        "Tahm Kench",
+        "Rammus",
+        "Jax",
+        "Nunu & Willump",
+        "Leona"
+      ]
+    },
+    {
+      "Item": "Radiant Edge of Night",
+      "Tier": "B",
+      "Avg Place": "4.37",
+      "Place Change": "-0.13",
+      "Win Rate": "11.7%",
+      "Games": "802",
+      "Frequency": "0.3%",
+      "PopularUnits": [
+        "Master Yi",
+        "Zed",
+        "Fiora",
+        "Riven",
+        "Pyke"
+      ]
+    },
+    {
+      "Item": "Radiant Spear of Shojin",
+      "Tier": "B",
+      "Avg Place": "4.37",
+      "Place Change": "-0.13",
+      "Win Rate": "21.0%",
+      "Games": "338",
+      "Frequency": "0.1%",
+      "PopularUnits": [
+        "Zed",
+        "Kai'Sa",
+        "Ezreal",
+        "Corki",
+        "Lulu"
+      ]
+    },
+    {
+      "Item": "Radiant Spirit Visage",
+      "Tier": "B",
+      "Avg Place": "4.39",
+      "Place Change": "-0.11",
+      "Win Rate": "15.8%",
+      "Games": "379",
+      "Frequency": "0.1%",
+      "PopularUnits": [
+        "Leona",
+        "Cho'Gath",
+        "Jax",
+        "Rammus",
+        "The Mighty Mech"
+      ]
+    },
+    {
+      "Item": "Radiant Steadfast Heart",
+      "Tier": "C",
+      "Avg Place": "4.41",
+      "Place Change": "-0.09",
+      "Win Rate": "13.5%",
+      "Games": "111",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Leona",
+        "Rammus",
+        "Jax",
+        "Tahm Kench",
+        "The Mighty Mech"
+      ]
+    },
+    {
+      "Item": "Radiant Void Staff",
+      "Tier": "C",
+      "Avg Place": "4.42",
+      "Place Change": "-0.08",
+      "Win Rate": "11.4%",
+      "Games": "228",
+      "Frequency": "0.1%",
+      "PopularUnits": [
+        "Karma",
+        "Vex",
+        "Zoe",
+        "LeBlanc",
+        "Aurelion Sol"
+      ]
+    },
+    {
+      "Item": "Radiant Bramble Vest",
+      "Tier": "C",
+      "Avg Place": "4.42",
+      "Place Change": "-0.08",
+      "Win Rate": "12.2%",
+      "Games": "296",
+      "Frequency": "0.1%",
+      "PopularUnits": [
+        "Rammus",
+        "Leona",
+        "Jax",
+        "Tahm Kench",
+        "Nunu & Willump"
+      ]
+    },
+    {
+      "Item": "Radiant Jeweled Gauntlet",
+      "Tier": "C",
+      "Avg Place": "4.42",
+      "Place Change": "-0.08",
+      "Win Rate": "14.5%",
+      "Games": "753",
+      "Frequency": "0.2%",
+      "PopularUnits": [
+        "Lulu",
+        "Karma",
+        "Aurelion Sol",
+        "Vex",
+        "LeBlanc"
+      ]
+    },
+    {
+      "Item": "Radiant Archangel's Staff",
+      "Tier": "C",
+      "Avg Place": "4.44",
+      "Place Change": "-0.06",
+      "Win Rate": "14.9%",
+      "Games": "141",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Teemo",
+        "Aurelion Sol",
+        "Vex",
+        "LeBlanc",
+        "Lulu"
+      ]
+    },
+    {
+      "Item": "Radiant Last Whisper",
+      "Tier": "C",
+      "Avg Place": "4.46",
+      "Place Change": "-0.04",
+      "Win Rate": "9.9%",
+      "Games": "293",
+      "Frequency": "0.1%",
+      "PopularUnits": [
+        "Corki",
+        "Kindred",
+        "Kai'Sa",
+        "Urgot",
+        "Jhin"
+      ]
+    },
+    {
+      "Item": "Radiant Evenshroud",
+      "Tier": "C",
+      "Avg Place": "4.47",
+      "Place Change": "-0.03",
+      "Win Rate": "17.5%",
+      "Games": "103",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Tahm Kench",
+        "Rammus",
+        "Rek'Sai",
+        "Cho'Gath",
+        "Maokai"
+      ]
+    },
+    {
+      "Item": "Radiant Dragon's Claw",
+      "Tier": "D",
+      "Avg Place": "4.56",
+      "Place Change": "+0.06",
+      "Win Rate": "11.8%",
+      "Games": "85",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Cho'Gath",
+        "Leona",
+        "Rammus",
+        "Jax",
+        "The Mighty Mech"
+      ]
+    },
+    {
+      "Item": "Radiant Quicksilver",
+      "Tier": "D",
+      "Avg Place": "4.80",
+      "Place Change": "+0.30",
+      "Win Rate": "7.9%",
+      "Games": "522",
+      "Frequency": "0.2%",
+      "PopularUnits": [
+        "Master Yi",
+        "Urgot",
+        "Bel'Veth",
+        "Riven",
+        "Fiora"
+      ]
+    },
+    {
+      "Item": "Radiant Guinsoo's Rageblade",
+      "Tier": "D",
+      "Avg Place": "4.90",
+      "Place Change": "+0.40",
+      "Win Rate": "11.6%",
+      "Games": "786",
+      "Frequency": "0.2%",
+      "PopularUnits": [
+        "Vex",
+        "Xayah",
+        "Teemo",
+        "LeBlanc",
+        "Kindred"
+      ]
+    }
+  ]
+}
