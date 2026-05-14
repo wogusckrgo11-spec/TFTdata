@@ -38,7 +38,7 @@ ITEM_TYPES = [
 
 # 수집 필터 — 사용자가 직접 수정할 때까지 고정.
 FILTER_QUEUE = "Ranked"
-FILTER_PATCH = "17.2b"
+FILTER_PATCH = "17.3"
 FILTER_TIME = "Last 3 Days"
 FILTER_RANK = "Master+"  # 검증/로그용 레이블
 # 랭크 드롭다운은 멀티 선택 방식 — 아래 티어를 모두 선택 후 Apply
