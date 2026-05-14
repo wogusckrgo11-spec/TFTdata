@@ -1,0 +1,743 @@
+{
+  "date": "2026-05-15",
+  "type": "Normal Item",
+  "count": 46,
+  "items": [
+    {
+      "Item": "Giant Slayer",
+      "Tier": "S",
+      "Avg Place": "4.21",
+      "Place Change": "-0.38",
+      "Win Rate": "14.4%",
+      "Games": "142107",
+      "Frequency": "48.3%",
+      "PopularUnits": [
+        "Master Yi",
+        "Corki",
+        "Vex",
+        "Aurelion Sol",
+        "Kindred"
+      ]
+    },
+    {
+      "Item": "Protector's Vow",
+      "Tier": "A",
+      "Avg Place": "4.21",
+      "Place Change": "-0.30",
+      "Win Rate": "14.9%",
+      "Games": "110950",
+      "Frequency": "37.7%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Rammus",
+        "Tahm Kench",
+        "The Mighty Mech",
+        "Maokai"
+      ]
+    },
+    {
+      "Item": "Gargoyle Stoneplate",
+      "Tier": "A",
+      "Avg Place": "4.39",
+      "Place Change": "-0.30",
+      "Win Rate": "12.9%",
+      "Games": "143094",
+      "Frequency": "48.7%",
+      "PopularUnits": [
+        "Rammus",
+        "The Mighty Mech",
+        "Jax",
+        "Nunu & Willump",
+        "Leona"
+      ]
+    },
+    {
+      "Item": "Warmog's Armor",
+      "Tier": "A",
+      "Avg Place": "4.16",
+      "Place Change": "-0.28",
+      "Win Rate": "14.9%",
+      "Games": "97940",
+      "Frequency": "33.3%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Rammus",
+        "Tahm Kench",
+        "The Mighty Mech",
+        "Illaoi"
+      ]
+    },
+    {
+      "Item": "Sunfire Cape",
+      "Tier": "A",
+      "Avg Place": "4.36",
+      "Place Change": "-0.25",
+      "Win Rate": "13.3%",
+      "Games": "115250",
+      "Frequency": "39.2%",
+      "PopularUnits": [
+        "Tahm Kench",
+        "Nunu & Willump",
+        "Rammus",
+        "The Mighty Mech",
+        "Illaoi"
+      ]
+    },
+    {
+      "Item": "Jeweled Gauntlet",
+      "Tier": "A",
+      "Avg Place": "4.43",
+      "Place Change": "-0.25",
+      "Win Rate": "13.5%",
+      "Games": "129120",
+      "Frequency": "43.9%",
+      "PopularUnits": [
+        "Aurelion Sol",
+        "Karma",
+        "Lulu",
+        "Nami",
+        "Bard"
+      ]
+    },
+    {
+      "Item": "Crownguard",
+      "Tier": "A",
+      "Avg Place": "4.13",
+      "Place Change": "-0.25",
+      "Win Rate": "14.3%",
+      "Games": "83846",
+      "Frequency": "28.5%",
+      "PopularUnits": [
+        "Rammus",
+        "Tahm Kench",
+        "Nunu & Willump",
+        "Jax",
+        "The Mighty Mech"
+      ]
+    },
+    {
+      "Item": "Adaptive Helm",
+      "Tier": "A",
+      "Avg Place": "4.10",
+      "Place Change": "-0.25",
+      "Win Rate": "15.4%",
+      "Games": "80509",
+      "Frequency": "27.4%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Rammus",
+        "Tahm Kench",
+        "Karma",
+        "The Mighty Mech"
+      ]
+    },
+    {
+      "Item": "Striker's Flail",
+      "Tier": "A",
+      "Avg Place": "4.18",
+      "Place Change": "-0.23",
+      "Win Rate": "13.9%",
+      "Games": "84488",
+      "Frequency": "28.7%",
+      "PopularUnits": [
+        "Corki",
+        "Kai'Sa",
+        "Aurelion Sol",
+        "Jhin",
+        "Karma"
+      ]
+    },
+    {
+      "Item": "Thief's Gloves",
+      "Tier": "A",
+      "Avg Place": "4.11",
+      "Place Change": "-0.23",
+      "Win Rate": "16.0%",
+      "Games": "76799",
+      "Frequency": "26.1%",
+      "PopularUnits": [
+        "Blitzcrank",
+        "The Mighty Mech",
+        "Fiora",
+        "Illaoi",
+        "Maokai"
+      ]
+    },
+    {
+      "Item": "Spirit Visage",
+      "Tier": "A",
+      "Avg Place": "4.22",
+      "Place Change": "-0.21",
+      "Win Rate": "14.1%",
+      "Games": "79820",
+      "Frequency": "27.2%",
+      "PopularUnits": [
+        "Tahm Kench",
+        "Nunu & Willump",
+        "Rammus",
+        "Maokai",
+        "The Mighty Mech"
+      ]
+    },
+    {
+      "Item": "Guinsoo's Rageblade",
+      "Tier": "A",
+      "Avg Place": "4.42",
+      "Place Change": "-0.21",
+      "Win Rate": "14.9%",
+      "Games": "104908",
+      "Frequency": "35.7%",
+      "PopularUnits": [
+        "Kindred",
+        "Vex",
+        "LeBlanc",
+        "Xayah",
+        "Teemo"
+      ]
+    },
+    {
+      "Item": "Spear of Shojin",
+      "Tier": "A",
+      "Avg Place": "4.34",
+      "Place Change": "-0.20",
+      "Win Rate": "14.2%",
+      "Games": "90406",
+      "Frequency": "30.8%",
+      "PopularUnits": [
+        "Karma",
+        "Milio",
+        "Bard",
+        "Corki",
+        "Kai'Sa"
+      ]
+    },
+    {
+      "Item": "Last Whisper",
+      "Tier": "A",
+      "Avg Place": "4.25",
+      "Place Change": "-0.20",
+      "Win Rate": "12.6%",
+      "Games": "80073",
+      "Frequency": "27.2%",
+      "PopularUnits": [
+        "Corki",
+        "Kindred",
+        "Jhin",
+        "Kai'Sa",
+        "Xayah"
+      ]
+    },
+    {
+      "Item": "Deathblade",
+      "Tier": "A",
+      "Avg Place": "4.17",
+      "Place Change": "-0.20",
+      "Win Rate": "12.8%",
+      "Games": "72106",
+      "Frequency": "24.5%",
+      "PopularUnits": [
+        "Corki",
+        "Jhin",
+        "Kindred",
+        "Kai'Sa",
+        "Riven"
+      ]
+    },
+    {
+      "Item": "Void Staff",
+      "Tier": "B",
+      "Avg Place": "4.30",
+      "Place Change": "-0.20",
+      "Win Rate": "14.4%",
+      "Games": "83008",
+      "Frequency": "28.2%",
+      "PopularUnits": [
+        "Karma",
+        "Bard",
+        "Zoe",
+        "Aurelion Sol",
+        "Sona"
+      ]
+    },
+    {
+      "Item": "Sterak's Gage",
+      "Tier": "B",
+      "Avg Place": "4.06",
+      "Place Change": "-0.19",
+      "Win Rate": "15.1%",
+      "Games": "60144",
+      "Frequency": "20.5%",
+      "PopularUnits": [
+        "Riven",
+        "Fiora",
+        "The Mighty Mech",
+        "Briar",
+        "Graves"
+      ]
+    },
+    {
+      "Item": "Edge of Night",
+      "Tier": "B",
+      "Avg Place": "4.04",
+      "Place Change": "-0.18",
+      "Win Rate": "16.2%",
+      "Games": "55834",
+      "Frequency": "19.0%",
+      "PopularUnits": [
+        "Master Yi",
+        "Fiora",
+        "Riven",
+        "Zed",
+        "Pyke"
+      ]
+    },
+    {
+      "Item": "Rabadon's Deathcap",
+      "Tier": "B",
+      "Avg Place": "4.18",
+      "Place Change": "-0.18",
+      "Win Rate": "15.3%",
+      "Games": "64731",
+      "Frequency": "22.0%",
+      "PopularUnits": [
+        "Aurelion Sol",
+        "Karma",
+        "Milio",
+        "Bard",
+        "Vex"
+      ]
+    },
+    {
+      "Item": "Bramble Vest",
+      "Tier": "B",
+      "Avg Place": "3.97",
+      "Place Change": "-0.17",
+      "Win Rate": "15.2%",
+      "Games": "47559",
+      "Frequency": "16.2%",
+      "PopularUnits": [
+        "Rammus",
+        "Tahm Kench",
+        "Nunu & Willump",
+        "The Mighty Mech",
+        "Illaoi"
+      ]
+    },
+    {
+      "Item": "Bloodthirster",
+      "Tier": "B",
+      "Avg Place": "4.18",
+      "Place Change": "-0.16",
+      "Win Rate": "14.2%",
+      "Games": "58707",
+      "Frequency": "20.0%",
+      "PopularUnits": [
+        "Riven",
+        "Fiora",
+        "Briar",
+        "Diana",
+        "Blitzcrank"
+      ]
+    },
+    {
+      "Item": "Infinity Edge",
+      "Tier": "B",
+      "Avg Place": "4.30",
+      "Place Change": "-0.16",
+      "Win Rate": "14.7%",
+      "Games": "67189",
+      "Frequency": "22.9%",
+      "PopularUnits": [
+        "Kai'Sa",
+        "Jhin",
+        "Corki",
+        "Kindred",
+        "Xayah"
+      ]
+    },
+    {
+      "Item": "Morellonomicon",
+      "Tier": "B",
+      "Avg Place": "4.25",
+      "Place Change": "-0.16",
+      "Win Rate": "14.2%",
+      "Games": "61544",
+      "Frequency": "20.9%",
+      "PopularUnits": [
+        "Karma",
+        "Milio",
+        "Bard",
+        "Zoe",
+        "Sona"
+      ]
+    },
+    {
+      "Item": "Red Buff",
+      "Tier": "B",
+      "Avg Place": "4.14",
+      "Place Change": "-0.15",
+      "Win Rate": "15.4%",
+      "Games": "52140",
+      "Frequency": "17.7%",
+      "PopularUnits": [
+        "Karma",
+        "Kindred",
+        "Milio",
+        "Jhin",
+        "Bard"
+      ]
+    },
+    {
+      "Item": "Hand Of Justice",
+      "Tier": "B",
+      "Avg Place": "3.91",
+      "Place Change": "-0.15",
+      "Win Rate": "16.2%",
+      "Games": "40105",
+      "Frequency": "13.6%",
+      "PopularUnits": [
+        "Riven",
+        "Fiora",
+        "Blitzcrank",
+        "Master Yi",
+        "Gragas"
+      ]
+    },
+    {
+      "Item": "Steadfast Heart",
+      "Tier": "B",
+      "Avg Place": "4.00",
+      "Place Change": "-0.15",
+      "Win Rate": "15.3%",
+      "Games": "43453",
+      "Frequency": "14.8%",
+      "PopularUnits": [
+        "Rammus",
+        "Nunu & Willump",
+        "Tahm Kench",
+        "The Mighty Mech",
+        "Illaoi"
+      ]
+    },
+    {
+      "Item": "Dragon's Claw",
+      "Tier": "B",
+      "Avg Place": "4.21",
+      "Place Change": "-0.14",
+      "Win Rate": "13.5%",
+      "Games": "53825",
+      "Frequency": "18.3%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Rammus",
+        "Tahm Kench",
+        "The Mighty Mech",
+        "Illaoi"
+      ]
+    },
+    {
+      "Item": "Evenshroud",
+      "Tier": "B",
+      "Avg Place": "4.24",
+      "Place Change": "-0.13",
+      "Win Rate": "14.4%",
+      "Games": "50539",
+      "Frequency": "17.2%",
+      "PopularUnits": [
+        "Tahm Kench",
+        "Rammus",
+        "Maokai",
+        "Nunu & Willump",
+        "The Mighty Mech"
+      ]
+    },
+    {
+      "Item": "Blue Buff",
+      "Tier": "B",
+      "Avg Place": "4.20",
+      "Place Change": "-0.13",
+      "Win Rate": "14.2%",
+      "Games": "46636",
+      "Frequency": "15.9%",
+      "PopularUnits": [
+        "Kai'Sa",
+        "Karma",
+        "Corki",
+        "Bard",
+        "Milio"
+      ]
+    },
+    {
+      "Item": "Quicksilver",
+      "Tier": "B",
+      "Avg Place": "4.11",
+      "Place Change": "-0.12",
+      "Win Rate": "15.7%",
+      "Games": "40448",
+      "Frequency": "13.8%",
+      "PopularUnits": [
+        "Master Yi",
+        "Riven",
+        "Fiora",
+        "Bel'Veth",
+        "Urgot"
+      ]
+    },
+    {
+      "Item": "Hextech Gunblade",
+      "Tier": "B",
+      "Avg Place": "4.08",
+      "Place Change": "-0.12",
+      "Win Rate": "16.5%",
+      "Games": "37063",
+      "Frequency": "12.6%",
+      "PopularUnits": [
+        "Vex",
+        "LeBlanc",
+        "Teemo",
+        "Karma",
+        "Riven"
+      ]
+    },
+    {
+      "Item": "Nashor's Tooth",
+      "Tier": "B",
+      "Avg Place": "4.39",
+      "Place Change": "-0.11",
+      "Win Rate": "13.3%",
+      "Games": "54058",
+      "Frequency": "18.4%",
+      "PopularUnits": [
+        "Lulu",
+        "Twisted Fate",
+        "Karma",
+        "Nami",
+        "Milio"
+      ]
+    },
+    {
+      "Item": "Ionic Spark",
+      "Tier": "C",
+      "Avg Place": "4.16",
+      "Place Change": "-0.10",
+      "Win Rate": "15.2%",
+      "Games": "33807",
+      "Frequency": "11.5%",
+      "PopularUnits": [
+        "Illaoi",
+        "Nunu & Willump",
+        "Blitzcrank",
+        "The Mighty Mech",
+        "Tahm Kench"
+      ]
+    },
+    {
+      "Item": "Archangel's Staff",
+      "Tier": "C",
+      "Avg Place": "4.12",
+      "Place Change": "-0.09",
+      "Win Rate": "15.0%",
+      "Games": "31189",
+      "Frequency": "10.6%",
+      "PopularUnits": [
+        "Aurelion Sol",
+        "Karma",
+        "Bard",
+        "Milio",
+        "Viktor"
+      ]
+    },
+    {
+      "Item": "Titan's Resolve",
+      "Tier": "C",
+      "Avg Place": "4.36",
+      "Place Change": "-0.08",
+      "Win Rate": "13.4%",
+      "Games": "36850",
+      "Frequency": "12.5%",
+      "PopularUnits": [
+        "Riven",
+        "Briar",
+        "Diana",
+        "Fiora",
+        "The Mighty Mech"
+      ]
+    },
+    {
+      "Item": "Kraken's Fury",
+      "Tier": "C",
+      "Avg Place": "4.18",
+      "Place Change": "-0.07",
+      "Win Rate": "15.0%",
+      "Games": "24827",
+      "Frequency": "8.4%",
+      "PopularUnits": [
+        "Kindred",
+        "Xayah",
+        "Bel'Veth",
+        "Jhin",
+        "Caitlyn"
+      ]
+    },
+    {
+      "Item": "Tear of the Goddess",
+      "Tier": "C",
+      "Avg Place": "4.71",
+      "Place Change": "-0.01",
+      "Win Rate": "10.0%",
+      "Games": "10817",
+      "Frequency": "3.7%",
+      "PopularUnits": [
+        "Karma",
+        "Milio",
+        "Bard",
+        "Nunu & Willump",
+        "Maokai"
+      ]
+    },
+    {
+      "Item": "Giant's Belt",
+      "Tier": "C",
+      "Avg Place": "4.84",
+      "Place Change": "-0.01",
+      "Win Rate": "10.1%",
+      "Games": "14859",
+      "Frequency": "5.1%",
+      "PopularUnits": [
+        "Illaoi",
+        "The Mighty Mech",
+        "Maokai",
+        "Nunu & Willump",
+        "Mordekaiser"
+      ]
+    },
+    {
+      "Item": "Negatron Cloak",
+      "Tier": "C",
+      "Avg Place": "4.80",
+      "Place Change": "-0.01",
+      "Win Rate": "9.6%",
+      "Games": "10791",
+      "Frequency": "3.7%",
+      "PopularUnits": [
+        "Illaoi",
+        "The Mighty Mech",
+        "Mordekaiser",
+        "Maokai",
+        "Nunu & Willump"
+      ]
+    },
+    {
+      "Item": "Chain Vest",
+      "Tier": "C",
+      "Avg Place": "4.80",
+      "Place Change": "-0.01",
+      "Win Rate": "9.8%",
+      "Games": "10715",
+      "Frequency": "3.6%",
+      "PopularUnits": [
+        "The Mighty Mech",
+        "Illaoi",
+        "Mordekaiser",
+        "Maokai",
+        "Nunu & Willump"
+      ]
+    },
+    {
+      "Item": "Recurve Bow",
+      "Tier": "C",
+      "Avg Place": "4.85",
+      "Place Change": "-0.01",
+      "Win Rate": "10.0%",
+      "Games": "12196",
+      "Frequency": "4.1%",
+      "PopularUnits": [
+        "Milio",
+        "Karma",
+        "Bard",
+        "Jhin",
+        "Kindred"
+      ]
+    },
+    {
+      "Item": "Sparring Gloves",
+      "Tier": "C",
+      "Avg Place": "4.80",
+      "Place Change": "-0.01",
+      "Win Rate": "9.7%",
+      "Games": "9086",
+      "Frequency": "3.1%",
+      "PopularUnits": [
+        "Milio",
+        "Karma",
+        "Jhin",
+        "Blitzcrank",
+        "Riven"
+      ]
+    },
+    {
+      "Item": "Needlessly Large Rod",
+      "Tier": "C",
+      "Avg Place": "4.84",
+      "Place Change": "-0.01",
+      "Win Rate": "9.2%",
+      "Games": "10873",
+      "Frequency": "3.7%",
+      "PopularUnits": [
+        "Milio",
+        "Karma",
+        "Bard",
+        "Fizz",
+        "Blitzcrank"
+      ]
+    },
+    {
+      "Item": "B.F. Sword",
+      "Tier": "C",
+      "Avg Place": "4.91",
+      "Place Change": "-0.00",
+      "Win Rate": "8.9%",
+      "Games": "9744",
+      "Frequency": "3.3%",
+      "PopularUnits": [
+        "Riven",
+        "Jhin",
+        "Urgot",
+        "Kai'Sa",
+        "Karma"
+      ]
+    },
+    {
+      "Item": "Frying Pan",
+      "Tier": "D",
+      "Avg Place": "6.26",
+      "Place Change": "+0.00",
+      "Win Rate": "0.0%",
+      "Games": "35",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Corki",
+        "Karma",
+        "Twisted Fate",
+        "Bard",
+        "Milio"
+      ]
+    },
+    {
+      "Item": "Spatula",
+      "Tier": "D",
+      "Avg Place": "5.35",
+      "Place Change": "+0.14",
+      "Win Rate": "10.5%",
+      "Games": "448",
+      "Frequency": "0.2%",
+      "PopularUnits": [
+        "Riven",
+        "Karma",
+        "Milio",
+        "Bard",
+        "Lissandra"
+      ]
+    }
+  ]
+}
