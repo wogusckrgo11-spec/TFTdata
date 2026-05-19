@@ -1,0 +1,631 @@
+{
+  "date": "2026-05-20",
+  "type": "Artifact Item",
+  "count": 39,
+  "items": [
+    {
+      "Item": "Titanic Hydra",
+      "Tier": "S",
+      "Avg Place": "3.90",
+      "Place Change": "-0.60",
+      "Win Rate": "17.5%",
+      "Games": "4985",
+      "Frequency": "0.9%",
+      "PopularUnits": [
+        "Master Yi",
+        "Riven",
+        "Xayah",
+        "Graves",
+        "Fiora"
+      ]
+    },
+    {
+      "Item": "Death's Defiance",
+      "Tier": "S",
+      "Avg Place": "4.15",
+      "Place Change": "-0.35",
+      "Win Rate": "14.3%",
+      "Games": "4755",
+      "Frequency": "0.9%",
+      "PopularUnits": [
+        "Riven",
+        "Master Yi",
+        "Fiora",
+        "Diana",
+        "Blitzcrank"
+      ]
+    },
+    {
+      "Item": "Gold Collector",
+      "Tier": "S",
+      "Avg Place": "4.18",
+      "Place Change": "-0.32",
+      "Win Rate": "14.3%",
+      "Games": "4532",
+      "Frequency": "0.8%",
+      "PopularUnits": [
+        "Corki",
+        "Kindred",
+        "Jhin",
+        "Graves",
+        "Kai'Sa"
+      ]
+    },
+    {
+      "Item": "Lightshield Crest",
+      "Tier": "A",
+      "Avg Place": "4.22",
+      "Place Change": "-0.28",
+      "Win Rate": "14.5%",
+      "Games": "6431",
+      "Frequency": "1.2%",
+      "PopularUnits": [
+        "Rammus",
+        "Nunu & Willump",
+        "Tahm Kench",
+        "The Mighty Mech",
+        "Illaoi"
+      ]
+    },
+    {
+      "Item": "Hellfire Hatchet",
+      "Tier": "A",
+      "Avg Place": "4.24",
+      "Place Change": "-0.26",
+      "Win Rate": "14.2%",
+      "Games": "3795",
+      "Frequency": "0.7%",
+      "PopularUnits": [
+        "Riven",
+        "Master Yi",
+        "Fiora",
+        "Graves",
+        "Urgot"
+      ]
+    },
+    {
+      "Item": "Mogul's Mail",
+      "Tier": "A",
+      "Avg Place": "4.26",
+      "Place Change": "-0.24",
+      "Win Rate": "14.9%",
+      "Games": "5719",
+      "Frequency": "1.0%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Rammus",
+        "Tahm Kench",
+        "The Mighty Mech",
+        "Illaoi"
+      ]
+    },
+    {
+      "Item": "Infinity Force",
+      "Tier": "A",
+      "Avg Place": "4.26",
+      "Place Change": "-0.24",
+      "Win Rate": "13.5%",
+      "Games": "6829",
+      "Frequency": "1.2%",
+      "PopularUnits": [
+        "Riven",
+        "Master Yi",
+        "Fiora",
+        "Blitzcrank",
+        "Diana"
+      ]
+    },
+    {
+      "Item": "Wit's End",
+      "Tier": "A",
+      "Avg Place": "4.26",
+      "Place Change": "-0.24",
+      "Win Rate": "14.8%",
+      "Games": "3146",
+      "Frequency": "0.6%",
+      "PopularUnits": [
+        "Riven",
+        "Vex",
+        "Diana",
+        "LeBlanc",
+        "Master Yi"
+      ]
+    },
+    {
+      "Item": "Eternal Pact",
+      "Tier": "B",
+      "Avg Place": "4.31",
+      "Place Change": "-0.19",
+      "Win Rate": "14.2%",
+      "Games": "3728",
+      "Frequency": "0.7%",
+      "PopularUnits": [
+        "Aurelion Sol",
+        "Karma",
+        "Milio",
+        "Lulu",
+        "Bard"
+      ]
+    },
+    {
+      "Item": "Fishbones",
+      "Tier": "B",
+      "Avg Place": "4.32",
+      "Place Change": "-0.18",
+      "Win Rate": "12.0%",
+      "Games": "4478",
+      "Frequency": "0.8%",
+      "PopularUnits": [
+        "Corki",
+        "Kindred",
+        "Xayah",
+        "Jhin",
+        "Graves"
+      ]
+    },
+    {
+      "Item": "Ahri's Aura",
+      "Tier": "B",
+      "Avg Place": "4.32",
+      "Place Change": "-0.18",
+      "Win Rate": "13.0%",
+      "Games": "6599",
+      "Frequency": "1.2%",
+      "PopularUnits": [
+        "Aurelion Sol",
+        "Karma",
+        "Bard",
+        "Milio",
+        "Lulu"
+      ]
+    },
+    {
+      "Item": "Statikk Shiv",
+      "Tier": "B",
+      "Avg Place": "4.33",
+      "Place Change": "-0.17",
+      "Win Rate": "15.7%",
+      "Games": "3495",
+      "Frequency": "0.6%",
+      "PopularUnits": [
+        "Vex",
+        "LeBlanc",
+        "Milio",
+        "Kindred",
+        "Karma"
+      ]
+    },
+    {
+      "Item": "Silvermere Dawn",
+      "Tier": "B",
+      "Avg Place": "4.34",
+      "Place Change": "-0.16",
+      "Win Rate": "12.0%",
+      "Games": "4033",
+      "Frequency": "0.7%",
+      "PopularUnits": [
+        "Corki",
+        "The Mighty Mech",
+        "Tahm Kench",
+        "Rammus",
+        "Riven"
+      ]
+    },
+    {
+      "Item": "Dawncore",
+      "Tier": "B",
+      "Avg Place": "4.35",
+      "Place Change": "-0.15",
+      "Win Rate": "15.1%",
+      "Games": "4853",
+      "Frequency": "0.9%",
+      "PopularUnits": [
+        "Lulu",
+        "Karma",
+        "Ezreal",
+        "Lissandra",
+        "Milio"
+      ]
+    },
+    {
+      "Item": "Flickerblades",
+      "Tier": "B",
+      "Avg Place": "4.35",
+      "Place Change": "-0.15",
+      "Win Rate": "14.4%",
+      "Games": "5049",
+      "Frequency": "0.9%",
+      "PopularUnits": [
+        "Vex",
+        "Kindred",
+        "LeBlanc",
+        "Xayah",
+        "Diana"
+      ]
+    },
+    {
+      "Item": "Thresh's Lantern",
+      "Tier": "B",
+      "Avg Place": "4.36",
+      "Place Change": "-0.14",
+      "Win Rate": "12.7%",
+      "Games": "7809",
+      "Frequency": "1.4%",
+      "PopularUnits": [
+        "Rammus",
+        "Nunu & Willump",
+        "Tahm Kench",
+        "The Mighty Mech",
+        "Illaoi"
+      ]
+    },
+    {
+      "Item": "Lich Bane",
+      "Tier": "B",
+      "Avg Place": "4.37",
+      "Place Change": "-0.13",
+      "Win Rate": "13.6%",
+      "Games": "2926",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "Karma",
+        "Milio",
+        "Sona",
+        "Riven",
+        "Vex"
+      ]
+    },
+    {
+      "Item": "Evelynn's Instinct",
+      "Tier": "B",
+      "Avg Place": "4.37",
+      "Place Change": "-0.13",
+      "Win Rate": "11.6%",
+      "Games": "7827",
+      "Frequency": "1.4%",
+      "PopularUnits": [
+        "Master Yi",
+        "Riven",
+        "Fiora",
+        "Diana",
+        "Bel'Veth"
+      ]
+    },
+    {
+      "Item": "Gambler's Blade",
+      "Tier": "B",
+      "Avg Place": "4.39",
+      "Place Change": "-0.11",
+      "Win Rate": "14.9%",
+      "Games": "4285",
+      "Frequency": "0.8%",
+      "PopularUnits": [
+        "Vex",
+        "Kindred",
+        "LeBlanc",
+        "Xayah",
+        "Milio"
+      ]
+    },
+    {
+      "Item": "Void Gauntlet",
+      "Tier": "C",
+      "Avg Place": "4.40",
+      "Place Change": "-0.10",
+      "Win Rate": "13.3%",
+      "Games": "3930",
+      "Frequency": "0.7%",
+      "PopularUnits": [
+        "Rammus",
+        "Tahm Kench",
+        "Nunu & Willump",
+        "The Mighty Mech",
+        "Maokai"
+      ]
+    },
+    {
+      "Item": "Rapid Firecannon",
+      "Tier": "C",
+      "Avg Place": "4.40",
+      "Place Change": "-0.10",
+      "Win Rate": "13.6%",
+      "Games": "3348",
+      "Frequency": "0.6%",
+      "PopularUnits": [
+        "Master Yi",
+        "Diana",
+        "Riven",
+        "Vex",
+        "Graves"
+      ]
+    },
+    {
+      "Item": "Talisman Of Ascension",
+      "Tier": "C",
+      "Avg Place": "4.41",
+      "Place Change": "-0.09",
+      "Win Rate": "14.4%",
+      "Games": "2167",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "Cho'Gath",
+        "Riven",
+        "Tahm Kench",
+        "Blitzcrank",
+        "Kindred"
+      ]
+    },
+    {
+      "Item": "The Indomitable",
+      "Tier": "C",
+      "Avg Place": "4.42",
+      "Place Change": "-0.08",
+      "Win Rate": "12.6%",
+      "Games": "7133",
+      "Frequency": "1.3%",
+      "PopularUnits": [
+        "Rammus",
+        "Nunu & Willump",
+        "Tahm Kench",
+        "The Mighty Mech",
+        "Illaoi"
+      ]
+    },
+    {
+      "Item": "Prowler's Claw",
+      "Tier": "C",
+      "Avg Place": "4.42",
+      "Place Change": "-0.08",
+      "Win Rate": "11.6%",
+      "Games": "3552",
+      "Frequency": "0.6%",
+      "PopularUnits": [
+        "Riven",
+        "Urgot",
+        "Master Yi",
+        "Fiora",
+        "Graves"
+      ]
+    },
+    {
+      "Item": "Mittens",
+      "Tier": "C",
+      "Avg Place": "4.43",
+      "Place Change": "-0.07",
+      "Win Rate": "12.4%",
+      "Games": "3950",
+      "Frequency": "0.7%",
+      "PopularUnits": [
+        "Riven",
+        "Master Yi",
+        "Fiora",
+        "Diana",
+        "Graves"
+      ]
+    },
+    {
+      "Item": "Sniper's Focus",
+      "Tier": "C",
+      "Avg Place": "4.43",
+      "Place Change": "-0.07",
+      "Win Rate": "12.4%",
+      "Games": "4380",
+      "Frequency": "0.8%",
+      "PopularUnits": [
+        "Corki",
+        "Kindred",
+        "Vex",
+        "Aurelion Sol",
+        "Jhin"
+      ]
+    },
+    {
+      "Item": "Aegis of Dawn",
+      "Tier": "C",
+      "Avg Place": "4.43",
+      "Place Change": "-0.07",
+      "Win Rate": "11.7%",
+      "Games": "4831",
+      "Frequency": "0.9%",
+      "PopularUnits": [
+        "Rammus",
+        "Tahm Kench",
+        "Nunu & Willump",
+        "The Mighty Mech",
+        "Illaoi"
+      ]
+    },
+    {
+      "Item": "Cappa Juice",
+      "Tier": "C",
+      "Avg Place": "4.43",
+      "Place Change": "-0.07",
+      "Win Rate": "14.1%",
+      "Games": "2469",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "Corki",
+        "Aurelion Sol",
+        "Kindred",
+        "Vex",
+        "Karma"
+      ]
+    },
+    {
+      "Item": "Zhonya's Paradox",
+      "Tier": "C",
+      "Avg Place": "4.44",
+      "Place Change": "-0.06",
+      "Win Rate": "13.0%",
+      "Games": "3423",
+      "Frequency": "0.6%",
+      "PopularUnits": [
+        "Riven",
+        "Aurelion Sol",
+        "Blitzcrank",
+        "Diana",
+        "Karma"
+      ]
+    },
+    {
+      "Item": "Aegis of Dusk",
+      "Tier": "C",
+      "Avg Place": "4.47",
+      "Place Change": "-0.03",
+      "Win Rate": "11.9%",
+      "Games": "4107",
+      "Frequency": "0.7%",
+      "PopularUnits": [
+        "Nunu & Willump",
+        "Rammus",
+        "The Mighty Mech",
+        "Tahm Kench",
+        "Illaoi"
+      ]
+    },
+    {
+      "Item": "Soraka's Miracle",
+      "Tier": "C",
+      "Avg Place": "4.47",
+      "Place Change": "-0.03",
+      "Win Rate": "11.9%",
+      "Games": "13288",
+      "Frequency": "2.4%",
+      "PopularUnits": [
+        "Rammus",
+        "Nunu & Willump",
+        "Tahm Kench",
+        "The Mighty Mech",
+        "Cho'Gath"
+      ]
+    },
+    {
+      "Item": "Seeker's Armguard",
+      "Tier": "C",
+      "Avg Place": "4.48",
+      "Place Change": "-0.02",
+      "Win Rate": "13.4%",
+      "Games": "3865",
+      "Frequency": "0.7%",
+      "PopularUnits": [
+        "Riven",
+        "Diana",
+        "Blitzcrank",
+        "Aurelion Sol",
+        "Vex"
+      ]
+    },
+    {
+      "Item": "Hullcrusher",
+      "Tier": "C",
+      "Avg Place": "4.48",
+      "Place Change": "-0.02",
+      "Win Rate": "11.7%",
+      "Games": "3762",
+      "Frequency": "0.7%",
+      "PopularUnits": [
+        "Rammus",
+        "The Mighty Mech",
+        "Riven",
+        "Nunu & Willump",
+        "Tahm Kench"
+      ]
+    },
+    {
+      "Item": "Ekko's Patience",
+      "Tier": "C",
+      "Avg Place": "4.49",
+      "Place Change": "-0.01",
+      "Win Rate": "11.9%",
+      "Games": "5014",
+      "Frequency": "0.9%",
+      "PopularUnits": [
+        "Aurelion Sol",
+        "Zoe",
+        "Karma",
+        "Milio",
+        "Bard"
+      ]
+    },
+    {
+      "Item": "Blighting Jewel",
+      "Tier": "D",
+      "Avg Place": "4.53",
+      "Place Change": "+0.03",
+      "Win Rate": "13.2%",
+      "Games": "2870",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "Aurelion Sol",
+        "Karma",
+        "Bard",
+        "Milio",
+        "Vex"
+      ]
+    },
+    {
+      "Item": "Varus's Obsession",
+      "Tier": "D",
+      "Avg Place": "4.53",
+      "Place Change": "+0.03",
+      "Win Rate": "10.5%",
+      "Games": "6139",
+      "Frequency": "1.1%",
+      "PopularUnits": [
+        "Corki",
+        "Aurelion Sol",
+        "Vex",
+        "Kindred",
+        "Karma"
+      ]
+    },
+    {
+      "Item": "Crown of Demacia",
+      "Tier": "D",
+      "Avg Place": "4.60",
+      "Place Change": "+0.10",
+      "Win Rate": "10.4%",
+      "Games": "2452",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "Corki",
+        "Cho'Gath",
+        "Aurelion Sol",
+        "Vex",
+        "Lulu"
+      ]
+    },
+    {
+      "Item": "Yasuo's Bladework",
+      "Tier": "D",
+      "Avg Place": "4.62",
+      "Place Change": "+0.12",
+      "Win Rate": "9.7%",
+      "Games": "3429",
+      "Frequency": "0.6%",
+      "PopularUnits": [
+        "Kindred",
+        "Riven",
+        "Master Yi",
+        "Xayah",
+        "Graves"
+      ]
+    },
+    {
+      "Item": "Luden's Tempest",
+      "Tier": "D",
+      "Avg Place": "4.65",
+      "Place Change": "+0.15",
+      "Win Rate": "10.2%",
+      "Games": "2871",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "Karma",
+        "Aurelion Sol",
+        "Milio",
+        "Lissandra",
+        "Bard"
+      ]
+    }
+  ]
+}
