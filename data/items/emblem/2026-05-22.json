@@ -1,0 +1,359 @@
+{
+  "date": "2026-05-22",
+  "type": "Emblem",
+  "count": 22,
+  "items": [
+    {
+      "Item": "Tactician's Crown",
+      "Tier": "S",
+      "Avg Place": "3.15",
+      "Place Change": "-1.35",
+      "Win Rate": "31.0%",
+      "Games": "2993",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "Milio",
+        "Karma",
+        "Lissandra",
+        "Sona",
+        "Meepsie"
+      ]
+    },
+    {
+      "Item": "Dark Star Emblem",
+      "Tier": "A",
+      "Avg Place": "4.15",
+      "Place Change": "-0.26",
+      "Win Rate": "15.2%",
+      "Games": "49494",
+      "Frequency": "9.0%",
+      "PopularUnits": [
+        "Aurelion Sol",
+        "Bard",
+        "Riven",
+        "Xayah",
+        "Blitzcrank"
+      ]
+    },
+    {
+      "Item": "Voyager Emblem",
+      "Tier": "A",
+      "Avg Place": "4.03",
+      "Place Change": "-0.26",
+      "Win Rate": "16.9%",
+      "Games": "20204",
+      "Frequency": "3.7%",
+      "PopularUnits": [
+        "Bard",
+        "Riven",
+        "Aurelion Sol",
+        "Jhin",
+        "Milio"
+      ]
+    },
+    {
+      "Item": "Brawler Emblem",
+      "Tier": "A",
+      "Avg Place": "4.08",
+      "Place Change": "-0.24",
+      "Win Rate": "15.6%",
+      "Games": "20144",
+      "Frequency": "3.7%",
+      "PopularUnits": [
+        "Master Yi",
+        "Nunu & Willump",
+        "Fiora",
+        "The Mighty Mech",
+        "Mordekaiser"
+      ]
+    },
+    {
+      "Item": "Rogue Emblem",
+      "Tier": "B",
+      "Avg Place": "4.26",
+      "Place Change": "-0.16",
+      "Win Rate": "11.2%",
+      "Games": "20609",
+      "Frequency": "3.7%",
+      "PopularUnits": [
+        "Corki",
+        "Jhin",
+        "Karma",
+        "Blitzcrank",
+        "Fiora"
+      ]
+    },
+    {
+      "Item": "Marauder Emblem",
+      "Tier": "B",
+      "Avg Place": "4.25",
+      "Place Change": "-0.15",
+      "Win Rate": "15.2%",
+      "Games": "15208",
+      "Frequency": "2.8%",
+      "PopularUnits": [
+        "Kindred",
+        "Graves",
+        "Riven",
+        "Jhin",
+        "Kai'Sa"
+      ]
+    },
+    {
+      "Item": "Shepherd Emblem",
+      "Tier": "C",
+      "Avg Place": "4.44",
+      "Place Change": "-0.07",
+      "Win Rate": "13.3%",
+      "Games": "13087",
+      "Frequency": "2.4%",
+      "PopularUnits": [
+        "Karma",
+        "Blitzcrank",
+        "Mordekaiser",
+        "Nunu & Willump",
+        "Bard"
+      ]
+    },
+    {
+      "Item": "Timebreaker Emblem",
+      "Tier": "C",
+      "Avg Place": "4.47",
+      "Place Change": "-0.06",
+      "Win Rate": "12.3%",
+      "Games": "15994",
+      "Frequency": "2.9%",
+      "PopularUnits": [
+        "Fizz",
+        "Corki",
+        "The Mighty Mech",
+        "Bard",
+        "Jhin"
+      ]
+    },
+    {
+      "Item": "Primordian Emblem",
+      "Tier": "C",
+      "Avg Place": "4.47",
+      "Place Change": "-0.06",
+      "Win Rate": "12.3%",
+      "Games": "9574",
+      "Frequency": "1.7%",
+      "PopularUnits": [
+        "Maokai",
+        "Tahm Kench",
+        "The Mighty Mech",
+        "Cho'Gath",
+        "Nunu & Willump"
+      ]
+    },
+    {
+      "Item": "Stargazer Emblem",
+      "Tier": "C",
+      "Avg Place": "4.52",
+      "Place Change": "-0.05",
+      "Win Rate": "15.1%",
+      "Games": "28559",
+      "Frequency": "5.2%",
+      "PopularUnits": [
+        "Maokai",
+        "Milio",
+        "Pantheon",
+        "Jhin",
+        "Aatrox"
+      ]
+    },
+    {
+      "Item": "Psionic Emblem",
+      "Tier": "C",
+      "Avg Place": "4.50",
+      "Place Change": "-0.05",
+      "Win Rate": "11.8%",
+      "Games": "13207",
+      "Frequency": "2.4%",
+      "PopularUnits": [
+        "Fiora",
+        "Urgot",
+        "Blitzcrank",
+        "Maokai",
+        "Tahm Kench"
+      ]
+    },
+    {
+      "Item": "N.O.V.A. Emblem",
+      "Tier": "C",
+      "Avg Place": "4.53",
+      "Place Change": "-0.04",
+      "Win Rate": "12.3%",
+      "Games": "16131",
+      "Frequency": "2.9%",
+      "PopularUnits": [
+        "Master Yi",
+        "Fiora",
+        "Urgot",
+        "Bel'Veth",
+        "Jhin"
+      ]
+    },
+    {
+      "Item": "Bastion Emblem",
+      "Tier": "C",
+      "Avg Place": "4.54",
+      "Place Change": "-0.04",
+      "Win Rate": "10.7%",
+      "Games": "16990",
+      "Frequency": "3.1%",
+      "PopularUnits": [
+        "Riven",
+        "The Mighty Mech",
+        "Nunu & Willump",
+        "Tahm Kench",
+        "Maokai"
+      ]
+    },
+    {
+      "Item": "Vanguard Emblem",
+      "Tier": "C",
+      "Avg Place": "4.57",
+      "Place Change": "-0.02",
+      "Win Rate": "13.1%",
+      "Games": "18973",
+      "Frequency": "3.4%",
+      "PopularUnits": [
+        "Meepsie",
+        "Diana",
+        "Tahm Kench",
+        "The Mighty Mech",
+        "LeBlanc"
+      ]
+    },
+    {
+      "Item": "Meeple Emblem",
+      "Tier": "C",
+      "Avg Place": "4.58",
+      "Place Change": "-0.02",
+      "Win Rate": "11.9%",
+      "Games": "20567",
+      "Frequency": "3.7%",
+      "PopularUnits": [
+        "Riven",
+        "The Mighty Mech",
+        "Milio",
+        "Nunu & Willump",
+        "Shen"
+      ]
+    },
+    {
+      "Item": "Tactician's Cape",
+      "Tier": "C",
+      "Avg Place": "4.36",
+      "Place Change": "-0.01",
+      "Win Rate": "13.4%",
+      "Games": "4963",
+      "Frequency": "0.9%",
+      "PopularUnits": [
+        "Milio",
+        "Lissandra",
+        "Bel'Veth",
+        "Karma",
+        "Urgot"
+      ]
+    },
+    {
+      "Item": "Tactician's Shield",
+      "Tier": "C",
+      "Avg Place": "4.25",
+      "Place Change": "-0.00",
+      "Win Rate": "18.2%",
+      "Games": "154",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Meepsie",
+        "Mordekaiser",
+        "Milio",
+        "Rhaast",
+        "Aatrox"
+      ]
+    },
+    {
+      "Item": "Challenger Emblem",
+      "Tier": "D",
+      "Avg Place": "4.68",
+      "Place Change": "+0.02",
+      "Win Rate": "10.5%",
+      "Games": "14900",
+      "Frequency": "2.7%",
+      "PopularUnits": [
+        "Master Yi",
+        "Fiora",
+        "Urgot",
+        "LeBlanc",
+        "Riven"
+      ]
+    },
+    {
+      "Item": "Sniper Emblem",
+      "Tier": "D",
+      "Avg Place": "4.71",
+      "Place Change": "+0.03",
+      "Win Rate": "12.4%",
+      "Games": "12974",
+      "Frequency": "2.4%",
+      "PopularUnits": [
+        "Kai'Sa",
+        "Karma",
+        "Bard",
+        "Blitzcrank",
+        "Corki"
+      ]
+    },
+    {
+      "Item": "Space Groove Emblem",
+      "Tier": "D",
+      "Avg Place": "4.83",
+      "Place Change": "+0.08",
+      "Win Rate": "9.6%",
+      "Games": "13010",
+      "Frequency": "2.4%",
+      "PopularUnits": [
+        "Riven",
+        "Nunu & Willump",
+        "Tahm Kench",
+        "Karma",
+        "Illaoi"
+      ]
+    },
+    {
+      "Item": "Arbiter Emblem",
+      "Tier": "D",
+      "Avg Place": "4.95",
+      "Place Change": "+0.12",
+      "Win Rate": "9.0%",
+      "Games": "11336",
+      "Frequency": "2.1%",
+      "PopularUnits": [
+        "Illaoi",
+        "Nunu & Willump",
+        "Talon",
+        "Mordekaiser",
+        "Karma"
+      ]
+    },
+    {
+      "Item": "Anima Emblem",
+      "Tier": "D",
+      "Avg Place": "5.07",
+      "Place Change": "+0.16",
+      "Win Rate": "11.3%",
+      "Games": "9137",
+      "Frequency": "1.7%",
+      "PopularUnits": [
+        "Meepsie",
+        "Mordekaiser",
+        "The Mighty Mech",
+        "Maokai",
+        "Tahm Kench"
+      ]
+    }
+  ]
+}
