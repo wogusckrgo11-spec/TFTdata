@@ -1,0 +1,582 @@
+{
+  "date": "2026-05-28",
+  "type": "Trait Item",
+  "count": 36,
+  "items": [
+    {
+      "Item": "Solar Eclipse",
+      "Tier": "S",
+      "Avg Place": "1.88",
+      "Place Change": "-2.62",
+      "Win Rate": "71.2%",
+      "Games": "59",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Illaoi",
+        "The Mighty Mech",
+        "Nunu & Willump",
+        "Rammus",
+        "Tahm Kench"
+      ]
+    },
+    {
+      "Item": "Radiant Field",
+      "Tier": "S",
+      "Avg Place": "3.23",
+      "Place Change": "-1.27",
+      "Win Rate": "41.1%",
+      "Games": "2695",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "Illaoi",
+        "The Mighty Mech",
+        "Rammus",
+        "Nunu & Willump",
+        "Tahm Kench"
+      ]
+    },
+    {
+      "Item": "Sympathetic Implant",
+      "Tier": "S",
+      "Avg Place": "3.77",
+      "Place Change": "-0.73",
+      "Win Rate": "14.2%",
+      "Games": "5854",
+      "Frequency": "1.0%",
+      "PopularUnits": [
+        "Gragas",
+        "Sona",
+        "Viktor",
+        "Pyke",
+        "Fiora"
+      ]
+    },
+    {
+      "Item": "Target-Lock Optics",
+      "Tier": "S",
+      "Avg Place": "3.92",
+      "Place Change": "-0.58",
+      "Win Rate": "12.7%",
+      "Games": "3161",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "Pyke",
+        "Master Yi",
+        "Fiora",
+        "Kindred",
+        "Urgot"
+      ]
+    },
+    {
+      "Item": "Malware Matrix",
+      "Tier": "S",
+      "Avg Place": "4.03",
+      "Place Change": "-0.47",
+      "Win Rate": "12.1%",
+      "Games": "3503",
+      "Frequency": "0.6%",
+      "PopularUnits": [
+        "Master Yi",
+        "Pyke",
+        "Fiora",
+        "Kindred",
+        "Sona"
+      ]
+    },
+    {
+      "Item": "Drone Uplink",
+      "Tier": "B",
+      "Avg Place": "4.33",
+      "Place Change": "-0.17",
+      "Win Rate": "8.8%",
+      "Games": "3225",
+      "Frequency": "0.5%",
+      "PopularUnits": [
+        "Sona",
+        "Viktor",
+        "Gragas",
+        "Pyke",
+        "Master Yi"
+      ]
+    },
+    {
+      "Item": "Biomatter Preserver",
+      "Tier": "C",
+      "Avg Place": "4.45",
+      "Place Change": "-0.05",
+      "Win Rate": "8.3%",
+      "Games": "1224",
+      "Frequency": "0.2%",
+      "PopularUnits": [
+        "Gragas",
+        "Tahm Kench",
+        "Master Yi",
+        "Maokai",
+        "Pyke"
+      ]
+    },
+    {
+      "Item": "Malware Matrix",
+      "Tier": "C",
+      "Avg Place": "4.21",
+      "Place Change": "-0.03",
+      "Win Rate": "11.8%",
+      "Games": "19958",
+      "Frequency": "3.2%",
+      "PopularUnits": [
+        "Master Yi",
+        "Kindred",
+        "Fiora",
+        "Pyke",
+        "Urgot"
+      ]
+    },
+    {
+      "Item": "Target-Lock Optics",
+      "Tier": "C",
+      "Avg Place": "4.22",
+      "Place Change": "-0.02",
+      "Win Rate": "12.1%",
+      "Games": "14675",
+      "Frequency": "2.4%",
+      "PopularUnits": [
+        "Master Yi",
+        "Kindred",
+        "Fiora",
+        "Pyke",
+        "Urgot"
+      ]
+    },
+    {
+      "Item": "Battle Bunny Crossbow",
+      "Tier": "C",
+      "Avg Place": "3.57",
+      "Place Change": "-0.02",
+      "Win Rate": "37.0%",
+      "Games": "6668",
+      "Frequency": "1.1%",
+      "PopularUnits": [
+        "Jinx",
+        "Xayah",
+        "Graves",
+        "Corki",
+        "Kindred"
+      ]
+    },
+    {
+      "Item": "Drone Uplink",
+      "Tier": "C",
+      "Avg Place": "4.43",
+      "Place Change": "-0.02",
+      "Win Rate": "10.9%",
+      "Games": "16511",
+      "Frequency": "2.7%",
+      "PopularUnits": [
+        "Viktor",
+        "Urgot",
+        "Kindred",
+        "Sona",
+        "Fiora"
+      ]
+    },
+    {
+      "Item": "Biomatter Preserver",
+      "Tier": "C",
+      "Avg Place": "4.36",
+      "Place Change": "-0.01",
+      "Win Rate": "11.6%",
+      "Games": "13905",
+      "Frequency": "2.3%",
+      "PopularUnits": [
+        "Tahm Kench",
+        "Maokai",
+        "Gragas",
+        "Illaoi",
+        "Nunu & Willump"
+      ]
+    },
+    {
+      "Item": "Sympathetic Implant",
+      "Tier": "C",
+      "Avg Place": "4.55",
+      "Place Change": "-0.01",
+      "Win Rate": "10.4%",
+      "Games": "16148",
+      "Frequency": "2.6%",
+      "PopularUnits": [
+        "Viktor",
+        "Sona",
+        "Maokai",
+        "Kindred",
+        "Urgot"
+      ]
+    },
+    {
+      "Item": "Iceblast Armor",
+      "Tier": "C",
+      "Avg Place": "3.19",
+      "Place Change": "-0.01",
+      "Win Rate": "44.6%",
+      "Games": "2749",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "Illaoi",
+        "The Mighty Mech",
+        "Rammus",
+        "Nunu & Willump",
+        "Tahm Kench"
+      ]
+    },
+    {
+      "Item": "Broken Prototype",
+      "Tier": "C",
+      "Avg Place": "4.52",
+      "Place Change": "-0.01",
+      "Win Rate": "14.8%",
+      "Games": "10013",
+      "Frequency": "1.6%",
+      "PopularUnits": [
+        "Illaoi",
+        "Meepsie",
+        "The Mighty Mech",
+        "Leona",
+        "Nunu & Willump"
+      ]
+    },
+    {
+      "Item": "Lioness's Lament",
+      "Tier": "C",
+      "Avg Place": "3.36",
+      "Place Change": "-0.01",
+      "Win Rate": "41.1%",
+      "Games": "2676",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "Illaoi",
+        "The Mighty Mech",
+        "Rammus",
+        "Nunu & Willump",
+        "Tahm Kench"
+      ]
+    },
+    {
+      "Item": "Leaky Prototype",
+      "Tier": "C",
+      "Avg Place": "4.53",
+      "Place Change": "-0.01",
+      "Win Rate": "14.7%",
+      "Games": "8364",
+      "Frequency": "1.4%",
+      "PopularUnits": [
+        "Aurora",
+        "LeBlanc",
+        "Milio",
+        "Bard",
+        "Jinx"
+      ]
+    },
+    {
+      "Item": "Sparking Prototype",
+      "Tier": "C",
+      "Avg Place": "4.57",
+      "Place Change": "-0.01",
+      "Win Rate": "14.3%",
+      "Games": "9126",
+      "Frequency": "1.5%",
+      "PopularUnits": [
+        "Jinx",
+        "LeBlanc",
+        "Riven",
+        "Aurora",
+        "Kindred"
+      ]
+    },
+    {
+      "Item": "Echoing Batblades",
+      "Tier": "C",
+      "Avg Place": "3.57",
+      "Place Change": "-0.01",
+      "Win Rate": "38.6%",
+      "Games": "2305",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "Xayah",
+        "Jinx",
+        "Fiora",
+        "Graves",
+        "Corki"
+      ]
+    },
+    {
+      "Item": "Cyclonic Slicers",
+      "Tier": "C",
+      "Avg Place": "3.68",
+      "Place Change": "-0.00",
+      "Win Rate": "37.3%",
+      "Games": "2320",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "Fiora",
+        "Diana",
+        "Riven",
+        "Blitzcrank",
+        "Illaoi"
+      ]
+    },
+    {
+      "Item": "Searing Shortbow",
+      "Tier": "C",
+      "Avg Place": "3.67",
+      "Place Change": "-0.00",
+      "Win Rate": "37.0%",
+      "Games": "2281",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "Aurora",
+        "Aurelion Sol",
+        "Vex",
+        "Bard",
+        "Karma"
+      ]
+    },
+    {
+      "Item": "The Annihilator",
+      "Tier": "C",
+      "Avg Place": "3.68",
+      "Place Change": "-0.00",
+      "Win Rate": "34.7%",
+      "Games": "2175",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "Aurora",
+        "Aurelion Sol",
+        "Corki",
+        "Fiora",
+        "Vex"
+      ]
+    },
+    {
+      "Item": "Tentacle Slam",
+      "Tier": "C",
+      "Avg Place": "4.71",
+      "Place Change": "-0.00",
+      "Win Rate": "15.7%",
+      "Games": "9590",
+      "Frequency": "1.6%",
+      "PopularUnits": [
+        "Illaoi",
+        "Tahm Kench",
+        "The Mighty Mech",
+        "Nunu & Willump",
+        "Rammus"
+      ]
+    },
+    {
+      "Item": "UwU Blaster",
+      "Tier": "C",
+      "Avg Place": "3.76",
+      "Place Change": "-0.00",
+      "Win Rate": "36.1%",
+      "Games": "2219",
+      "Frequency": "0.4%",
+      "PopularUnits": [
+        "Jinx",
+        "Xayah",
+        "Corki",
+        "Graves",
+        "Fiora"
+      ]
+    },
+    {
+      "Item": "Guiding Hex",
+      "Tier": "C",
+      "Avg Place": "4.68",
+      "Place Change": "-0.00",
+      "Win Rate": "17.0%",
+      "Games": "7685",
+      "Frequency": "1.2%",
+      "PopularUnits": [
+        "Aurora",
+        "Karma",
+        "Bard",
+        "Milio",
+        "Vex"
+      ]
+    },
+    {
+      "Item": "Evolved Embershot",
+      "Tier": "C",
+      "Avg Place": "1.75",
+      "Place Change": "-0.00",
+      "Win Rate": "72.7%",
+      "Games": "121",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Aurora",
+        "Aurelion Sol",
+        "Vex",
+        "Bard",
+        "Kindred"
+      ]
+    },
+    {
+      "Item": "OwO Blaster",
+      "Tier": "C",
+      "Avg Place": "2.29",
+      "Place Change": "-0.00",
+      "Win Rate": "65.5%",
+      "Games": "84",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Jinx",
+        "Graves",
+        "Xayah",
+        "Fiora",
+        "Corki"
+      ]
+    },
+    {
+      "Item": "Deep Freeze",
+      "Tier": "C",
+      "Avg Place": "1.75",
+      "Place Change": "-0.00",
+      "Win Rate": "76.8%",
+      "Games": "69",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Illaoi",
+        "Nunu & Willump",
+        "The Mighty Mech",
+        "Rammus",
+        "Tahm Kench"
+      ]
+    },
+    {
+      "Item": "Leonine Lamentation",
+      "Tier": "C",
+      "Avg Place": "1.90",
+      "Place Change": "-0.00",
+      "Win Rate": "79.4%",
+      "Games": "63",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "The Mighty Mech",
+        "Illaoi",
+        "Nunu & Willump",
+        "Rammus",
+        "Tahm Kench"
+      ]
+    },
+    {
+      "Item": "Animapocalypse",
+      "Tier": "C",
+      "Avg Place": "2.23",
+      "Place Change": "-0.00",
+      "Win Rate": "71.9%",
+      "Games": "64",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Aurora",
+        "Aurelion Sol",
+        "Fiora",
+        "Corki",
+        "Vex"
+      ]
+    },
+    {
+      "Item": "Unceasing Cyclone",
+      "Tier": "C",
+      "Avg Place": "2.35",
+      "Place Change": "-0.00",
+      "Win Rate": "67.3%",
+      "Games": "49",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Fiora",
+        "Diana",
+        "The Mighty Mech",
+        "Riven",
+        "Blitzcrank"
+      ]
+    },
+    {
+      "Item": "Bunny Prime Ballista",
+      "Tier": "C",
+      "Avg Place": "2.64",
+      "Place Change": "-0.00",
+      "Win Rate": "68.9%",
+      "Games": "45",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Graves",
+        "Xayah",
+        "Fiora",
+        "Jinx",
+        "Kindred"
+      ]
+    },
+    {
+      "Item": "Vayne's Chromablades",
+      "Tier": "C",
+      "Avg Place": "2.60",
+      "Place Change": "-0.00",
+      "Win Rate": "57.5%",
+      "Games": "40",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Fiora",
+        "Graves",
+        "Xayah",
+        "Jinx",
+        "Corki"
+      ]
+    },
+    {
+      "Item": "Omniweapon",
+      "Tier": "C",
+      "Avg Place": "1.00",
+      "Place Change": "-0.00",
+      "Win Rate": "100.0%",
+      "Games": "2",
+      "Frequency": "0.0%",
+      "PopularUnits": [
+        "Fiora",
+        "Jhin",
+        "LeBlanc",
+        "Shen"
+      ]
+    },
+    {
+      "Item": "Savage Slicer",
+      "Tier": "D",
+      "Avg Place": "5.10",
+      "Place Change": "+0.00",
+      "Win Rate": "12.4%",
+      "Games": "6177",
+      "Frequency": "1.0%",
+      "PopularUnits": [
+        "Riven",
+        "Briar",
+        "Fiora",
+        "Jinx",
+        "Blitzcrank"
+      ]
+    },
+    {
+      "Item": "Rocket Swarm",
+      "Tier": "D",
+      "Avg Place": "5.15",
+      "Place Change": "+0.00",
+      "Win Rate": "11.5%",
+      "Games": "5846",
+      "Frequency": "0.9%",
+      "PopularUnits": [
+        "Jinx",
+        "Kindred",
+        "Jhin",
+        "Graves",
+        "Corki"
+      ]
+    }
+  ]
+}
