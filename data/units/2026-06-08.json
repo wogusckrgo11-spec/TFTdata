@@ -1,0 +1,518 @@
+{
+  "date": "2026-06-08",
+  "count": 64,
+  "units": [
+    {
+      "Unit": "Apex Primordian",
+      "Cost": "S",
+      "Avg Place": "2.36",
+      "Top 4%": "44.9%",
+      "Games": "216",
+      "Win%": "0.0%"
+    },
+    {
+      "Unit": "Jhin",
+      "Cost": "S",
+      "Avg Place": "3.75",
+      "Top 4%": "20.6%",
+      "Games": "118,752",
+      "Win%": "20.0%"
+    },
+    {
+      "Unit": "Shen",
+      "Cost": "S",
+      "Avg Place": "3.85",
+      "Top 4%": "19.9%",
+      "Games": "136,991",
+      "Win%": "23.1%"
+    },
+    {
+      "Unit": "Blitzcrank",
+      "Cost": "S",
+      "Avg Place": "3.97",
+      "Top 4%": "19.1%",
+      "Games": "240,828",
+      "Win%": "40.5%"
+    },
+    {
+      "Unit": "Rhaast",
+      "Cost": "S",
+      "Avg Place": "3.97",
+      "Top 4%": "18.2%",
+      "Games": "156,575",
+      "Win%": "26.4%"
+    },
+    {
+      "Unit": "Morgana",
+      "Cost": "S",
+      "Avg Place": "3.99",
+      "Top 4%": "19.8%",
+      "Games": "66,394",
+      "Win%": "11.2%"
+    },
+    {
+      "Unit": "Bard",
+      "Cost": "S",
+      "Avg Place": "4.00",
+      "Top 4%": "17.0%",
+      "Games": "121,049",
+      "Win%": "20.4%"
+    },
+    {
+      "Unit": "Sona",
+      "Cost": "S",
+      "Avg Place": "4.07",
+      "Top 4%": "16.4%",
+      "Games": "111,322",
+      "Win%": "18.7%"
+    },
+    {
+      "Unit": "Fiora",
+      "Cost": "A",
+      "Avg Place": "4.21",
+      "Top 4%": "17.9%",
+      "Games": "91,758",
+      "Win%": "15.4%"
+    },
+    {
+      "Unit": "Teemo",
+      "Cost": "A",
+      "Avg Place": "4.25",
+      "Top 4%": "14.5%",
+      "Games": "54,477",
+      "Win%": "9.2%"
+    },
+    {
+      "Unit": "Nami",
+      "Cost": "A",
+      "Avg Place": "4.29",
+      "Top 4%": "13.8%",
+      "Games": "119,336",
+      "Win%": "20.1%"
+    },
+    {
+      "Unit": "Vex",
+      "Cost": "A",
+      "Avg Place": "4.30",
+      "Top 4%": "18.6%",
+      "Games": "84,888",
+      "Win%": "14.3%"
+    },
+    {
+      "Unit": "Kindred",
+      "Cost": "A",
+      "Avg Place": "4.32",
+      "Top 4%": "10.0%",
+      "Games": "62,413",
+      "Win%": "10.5%"
+    },
+    {
+      "Unit": "Karma",
+      "Cost": "A",
+      "Avg Place": "4.32",
+      "Top 4%": "14.0%",
+      "Games": "149,225",
+      "Win%": "25.1%"
+    },
+    {
+      "Unit": "Gwen",
+      "Cost": "A",
+      "Avg Place": "4.35",
+      "Top 4%": "13.2%",
+      "Games": "108,686",
+      "Win%": "18.3%"
+    },
+    {
+      "Unit": "The Mighty Mech",
+      "Cost": "A",
+      "Avg Place": "4.36",
+      "Top 4%": "11.4%",
+      "Games": "98,074",
+      "Win%": "16.5%"
+    },
+    {
+      "Unit": "Samira",
+      "Cost": "A",
+      "Avg Place": "4.36",
+      "Top 4%": "14.7%",
+      "Games": "114,814",
+      "Win%": "19.3%"
+    },
+    {
+      "Unit": "Master Yi",
+      "Cost": "A",
+      "Avg Place": "4.38",
+      "Top 4%": "10.3%",
+      "Games": "52,058",
+      "Win%": "8.8%"
+    },
+    {
+      "Unit": "Pyke",
+      "Cost": "B",
+      "Avg Place": "4.40",
+      "Top 4%": "9.4%",
+      "Games": "25,897",
+      "Win%": "4.4%"
+    },
+    {
+      "Unit": "Ornn",
+      "Cost": "B",
+      "Avg Place": "4.41",
+      "Top 4%": "13.1%",
+      "Games": "148,741",
+      "Win%": "25.0%"
+    },
+    {
+      "Unit": "Riven",
+      "Cost": "B",
+      "Avg Place": "4.41",
+      "Top 4%": "10.3%",
+      "Games": "101,414",
+      "Win%": "17.1%"
+    },
+    {
+      "Unit": "Nasus",
+      "Cost": "B",
+      "Avg Place": "4.44",
+      "Top 4%": "13.4%",
+      "Games": "103,213",
+      "Win%": "17.4%"
+    },
+    {
+      "Unit": "Meepsie",
+      "Cost": "B",
+      "Avg Place": "4.46",
+      "Top 4%": "11.5%",
+      "Games": "195,764",
+      "Win%": "33.0%"
+    },
+    {
+      "Unit": "Zed",
+      "Cost": "B",
+      "Avg Place": "4.46",
+      "Top 4%": "16.8%",
+      "Games": "7,310",
+      "Win%": "1.2%"
+    },
+    {
+      "Unit": "Xayah",
+      "Cost": "B",
+      "Avg Place": "4.46",
+      "Top 4%": "15.4%",
+      "Games": "68,692",
+      "Win%": "11.6%"
+    },
+    {
+      "Unit": "Corki",
+      "Cost": "B",
+      "Avg Place": "4.46",
+      "Top 4%": "8.8%",
+      "Games": "67,401",
+      "Win%": "11.3%"
+    },
+    {
+      "Unit": "Tahm Kench",
+      "Cost": "B",
+      "Avg Place": "4.47",
+      "Top 4%": "13.8%",
+      "Games": "169,152",
+      "Win%": "28.5%"
+    },
+    {
+      "Unit": "Lulu",
+      "Cost": "B",
+      "Avg Place": "4.47",
+      "Top 4%": "12.2%",
+      "Games": "29,419",
+      "Win%": "5.0%"
+    },
+    {
+      "Unit": "Nunu & Willump",
+      "Cost": "B",
+      "Avg Place": "4.48",
+      "Top 4%": "14.9%",
+      "Games": "225,321",
+      "Win%": "37.9%"
+    },
+    {
+      "Unit": "Milio",
+      "Cost": "B",
+      "Avg Place": "4.49",
+      "Top 4%": "9.4%",
+      "Games": "77,009",
+      "Win%": "13.0%"
+    },
+    {
+      "Unit": "Gragas",
+      "Cost": "B",
+      "Avg Place": "4.49",
+      "Top 4%": "9.2%",
+      "Games": "59,866",
+      "Win%": "10.1%"
+    },
+    {
+      "Unit": "Urgot",
+      "Cost": "B",
+      "Avg Place": "4.49",
+      "Top 4%": "10.5%",
+      "Games": "78,214",
+      "Win%": "13.2%"
+    },
+    {
+      "Unit": "Maokai",
+      "Cost": "B",
+      "Avg Place": "4.50",
+      "Top 4%": "12.1%",
+      "Games": "167,392",
+      "Win%": "28.2%"
+    },
+    {
+      "Unit": "Graves",
+      "Cost": "B",
+      "Avg Place": "4.51",
+      "Top 4%": "18.7%",
+      "Games": "66,795",
+      "Win%": "11.2%"
+    },
+    {
+      "Unit": "Mordekaiser",
+      "Cost": "B",
+      "Avg Place": "4.51",
+      "Top 4%": "12.8%",
+      "Games": "164,109",
+      "Win%": "27.6%"
+    },
+    {
+      "Unit": "Aatrox",
+      "Cost": "B",
+      "Avg Place": "4.51",
+      "Top 4%": "14.4%",
+      "Games": "148,113",
+      "Win%": "24.9%"
+    },
+    {
+      "Unit": "Viktor",
+      "Cost": "B",
+      "Avg Place": "4.52",
+      "Top 4%": "9.4%",
+      "Games": "17,152",
+      "Win%": "2.9%"
+    },
+    {
+      "Unit": "Gnar",
+      "Cost": "B",
+      "Avg Place": "4.52",
+      "Top 4%": "12.2%",
+      "Games": "30,293",
+      "Win%": "5.1%"
+    },
+    {
+      "Unit": "Pantheon",
+      "Cost": "B",
+      "Avg Place": "4.52",
+      "Top 4%": "11.4%",
+      "Games": "103,168",
+      "Win%": "17.4%"
+    },
+    {
+      "Unit": "Bel'Veth",
+      "Cost": "B",
+      "Avg Place": "4.53",
+      "Top 4%": "8.6%",
+      "Games": "67,857",
+      "Win%": "11.4%"
+    },
+    {
+      "Unit": "Rammus",
+      "Cost": "B",
+      "Avg Place": "4.53",
+      "Top 4%": "9.5%",
+      "Games": "106,323",
+      "Win%": "17.9%"
+    },
+    {
+      "Unit": "Twisted Fate",
+      "Cost": "B",
+      "Avg Place": "4.54",
+      "Top 4%": "11.1%",
+      "Games": "26,190",
+      "Win%": "4.4%"
+    },
+    {
+      "Unit": "Kai'Sa",
+      "Cost": "B",
+      "Avg Place": "4.55",
+      "Top 4%": "10.9%",
+      "Games": "32,345",
+      "Win%": "5.4%"
+    },
+    {
+      "Unit": "Fizz",
+      "Cost": "B",
+      "Avg Place": "4.55",
+      "Top 4%": "8.5%",
+      "Games": "58,878",
+      "Win%": "9.9%"
+    },
+    {
+      "Unit": "Jax",
+      "Cost": "B",
+      "Avg Place": "4.56",
+      "Top 4%": "13.4%",
+      "Games": "90,255",
+      "Win%": "15.2%"
+    },
+    {
+      "Unit": "Cho'Gath",
+      "Cost": "B",
+      "Avg Place": "4.56",
+      "Top 4%": "11.3%",
+      "Games": "44,016",
+      "Win%": "7.4%"
+    },
+    {
+      "Unit": "Akali",
+      "Cost": "B",
+      "Avg Place": "4.59",
+      "Top 4%": "14.4%",
+      "Games": "78,855",
+      "Win%": "13.3%"
+    },
+    {
+      "Unit": "Illaoi",
+      "Cost": "C",
+      "Avg Place": "4.63",
+      "Top 4%": "12.0%",
+      "Games": "141,592",
+      "Win%": "23.8%"
+    },
+    {
+      "Unit": "Aurelion Sol",
+      "Cost": "C",
+      "Avg Place": "4.63",
+      "Top 4%": "12.1%",
+      "Games": "34,940",
+      "Win%": "5.9%"
+    },
+    {
+      "Unit": "Poppy",
+      "Cost": "C",
+      "Avg Place": "4.67",
+      "Top 4%": "8.5%",
+      "Games": "60,986",
+      "Win%": "10.3%"
+    },
+    {
+      "Unit": "Lissandra",
+      "Cost": "C",
+      "Avg Place": "4.69",
+      "Top 4%": "9.3%",
+      "Games": "55,101",
+      "Win%": "9.3%"
+    },
+    {
+      "Unit": "Miss Fortune",
+      "Cost": "C",
+      "Avg Place": "4.69",
+      "Top 4%": "6.6%",
+      "Games": "29,185",
+      "Win%": "4.9%"
+    },
+    {
+      "Unit": "LeBlanc",
+      "Cost": "C",
+      "Avg Place": "4.79",
+      "Top 4%": "9.0%",
+      "Games": "43,327",
+      "Win%": "7.3%"
+    },
+    {
+      "Unit": "Rek'Sai",
+      "Cost": "D",
+      "Avg Place": "4.80",
+      "Top 4%": "7.9%",
+      "Games": "17,651",
+      "Win%": "3.0%"
+    },
+    {
+      "Unit": "Diana",
+      "Cost": "D",
+      "Avg Place": "4.80",
+      "Top 4%": "9.8%",
+      "Games": "21,365",
+      "Win%": "3.6%"
+    },
+    {
+      "Unit": "Leona",
+      "Cost": "D",
+      "Avg Place": "4.81",
+      "Top 4%": "9.8%",
+      "Games": "61,297",
+      "Win%": "10.3%"
+    },
+    {
+      "Unit": "Ezreal",
+      "Cost": "D",
+      "Avg Place": "4.84",
+      "Top 4%": "10.7%",
+      "Games": "17,809",
+      "Win%": "3.0%"
+    },
+    {
+      "Unit": "Caitlyn",
+      "Cost": "D",
+      "Avg Place": "4.89",
+      "Top 4%": "6.3%",
+      "Games": "10,594",
+      "Win%": "1.8%"
+    },
+    {
+      "Unit": "Jinx",
+      "Cost": "D",
+      "Avg Place": "4.97",
+      "Top 4%": "10.3%",
+      "Games": "22,999",
+      "Win%": "3.9%"
+    },
+    {
+      "Unit": "Talon",
+      "Cost": "D",
+      "Avg Place": "5.00",
+      "Top 4%": "7.5%",
+      "Games": "8,293",
+      "Win%": "1.4%"
+    },
+    {
+      "Unit": "Veigar",
+      "Cost": "D",
+      "Avg Place": "5.08",
+      "Top 4%": "12.3%",
+      "Games": "7,187",
+      "Win%": "1.2%"
+    },
+    {
+      "Unit": "Aurora",
+      "Cost": "D",
+      "Avg Place": "5.09",
+      "Top 4%": "12.4%",
+      "Games": "16,102",
+      "Win%": "2.7%"
+    },
+    {
+      "Unit": "Zoe",
+      "Cost": "D",
+      "Avg Place": "5.17",
+      "Top 4%": "5.5%",
+      "Games": "14,559",
+      "Win%": "2.5%"
+    },
+    {
+      "Unit": "Briar",
+      "Cost": "D",
+      "Avg Place": "5.54",
+      "Top 4%": "5.8%",
+      "Games": "12,674",
+      "Win%": "2.1%"
+    }
+  ]
+}
